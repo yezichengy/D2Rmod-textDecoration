@@ -2,7 +2,7 @@
     {
         "id": 10902,
         "Key": "r16",
-        "enUS": "Io Rune",
+        "enUS": "Io Rune #16",
         "zhTW": "符文:艾歐#16",
         "deDE": "[fs]Io-Rune",
         "esES": "Runa Io",
@@ -19,7 +19,7 @@
     {
         "id": 10903,
         "Key": "r16L",
-        "enUS": "Io",
+        "enUS": "Io #16",
         "zhTW": "艾歐#16",
         "deDE": "Io",
         "esES": "Io",
@@ -36,7 +36,7 @@
     {
         "id": 10904,
         "Key": "r13",
-        "enUS": "Shael Rune",
+        "enUS": "Shael Rune #13",
         "zhTW": "符文:夏#13",
         "deDE": "[fs]Shael-Rune",
         "esES": "Runa Shael",
@@ -53,7 +53,7 @@
     {
         "id": 10905,
         "Key": "r13L",
-        "enUS": "Shael",
+        "enUS": "Shael #13",
         "zhTW": "夏#13",
         "deDE": "Shael",
         "esES": "Shael",
@@ -70,7 +70,7 @@
     {
         "id": 10906,
         "Key": "r31",
-        "enUS": "Jah Rune",
+        "enUS": "Jah Rune #31",
         "zhTW": "符文:喬 ÿc2Jah Rune #31",
         "deDE": "[fs]Jah-Rune",
         "esES": "Runa Jah",
@@ -87,7 +87,7 @@
     {
         "id": 10907,
         "Key": "r31L",
-        "enUS": "Jah",
+        "enUS": "Jah #31",
         "zhTW": "喬ÿc2Jah#31ÿc4",
         "deDE": "Jah",
         "esES": "Jah",
@@ -121,7 +121,7 @@
     {
         "id": 20440,
         "Key": "r33",
-        "enUS": "Zod Rune",
+        "enUS": "Zod Rune #33",
         "zhTW": "符文:薩德 ÿc2Zod Rune #33",
         "deDE": "[fs]Zod-Rune",
         "esES": "Runa Zod",
@@ -138,7 +138,7 @@
     {
         "id": 20441,
         "Key": "r32",
-        "enUS": "Cham Rune",
+        "enUS": "Cham Rune #32",
         "zhTW": "符文:查姆 ÿc2Cham Rune #32",
         "deDE": "[fs]Cham-Rune",
         "esES": "Runa Cham",
@@ -155,7 +155,7 @@
     {
         "id": 20443,
         "Key": "r30",
-        "enUS": "Ber Rune",
+        "enUS": "Ber Rune #30",
         "zhTW": "符文:貝 ÿc2Ber Rune #30",
         "deDE": "[fs]Ber-Rune",
         "esES": "Runa Ber",
@@ -172,7 +172,7 @@
     {
         "id": 20444,
         "Key": "r29",
-        "enUS": "Sur Rune",
+        "enUS": "Sur Rune #29",
         "zhTW": "符文:瑟 ÿc2Sur Rune #29",
         "deDE": "[fs]Sur-Rune",
         "esES": "Runa Sur",
@@ -189,7 +189,7 @@
     {
         "id": 20445,
         "Key": "r28",
-        "enUS": "Lo Rune",
+        "enUS": "Lo Rune #28",
         "zhTW": "符文:羅 ÿc2Lo Rune #28",
         "deDE": "[fs]Lo-Rune",
         "esES": "Runa Lo",
@@ -206,7 +206,7 @@
     {
         "id": 20446,
         "Key": "r27",
-        "enUS": "Ohm Rune",
+        "enUS": "Ohm Rune #27",
         "zhTW": "符文:歐姆 ÿc2Ohm Rune #27",
         "deDE": "[fs]Ohm-Rune",
         "esES": "Runa Ohm",
@@ -223,7 +223,7 @@
     {
         "id": 20447,
         "Key": "r26",
-        "enUS": "Vex Rune",
+        "enUS": "Vex Rune #26",
         "zhTW": "符文:伐克斯 ÿc2Vex Rune #26",
         "deDE": "[fs]Vex-Rune",
         "esES": "Runa Vex",
@@ -240,7 +240,7 @@
     {
         "id": 20448,
         "Key": "r25",
-        "enUS": "Gul Rune",
+        "enUS": "Gul Rune #25",
         "zhTW": "符文:古爾 ÿc2Gul Rune #25",
         "deDE": "[fs]Gul-Rune",
         "esES": "Runa Gul",
@@ -257,7 +257,7 @@
     {
         "id": 20449,
         "Key": "r24",
-        "enUS": "Ist Rune",
+        "enUS": "Ist Rune #24",
         "zhTW": "符文:伊斯特 ÿc2Ist Rune #24",
         "deDE": "[fs]Ist-Rune",
         "esES": "Runa Ist",
@@ -274,7 +274,7 @@
     {
         "id": 20450,
         "Key": "r23",
-        "enUS": "Mal Rune",
+        "enUS": "Mal Rune #23",
         "zhTW": "符文:馬爾 ÿc2Mal Rune #23",
         "deDE": "[fs]Mal-Rune",
         "esES": "Runa Mal",
@@ -291,7 +291,7 @@
     {
         "id": 20451,
         "Key": "r22",
-        "enUS": "Um Rune",
+        "enUS": "Um Rune #22",
         "zhTW": "符文:烏姆 ÿc2Um Rune #22",
         "deDE": "[fs]Um-Rune",
         "esES": "Runa Um",
@@ -308,7 +308,7 @@
     {
         "id": 20452,
         "Key": "r21",
-        "enUS": "Pul Rune",
+        "enUS": "Pul Rune #21",
         "zhTW": "符文:普爾 ÿc2Pul Rune #21",
         "deDE": "[fs]Pul-Rune",
         "esES": "Runa Pul",
@@ -325,7 +325,7 @@
     {
         "id": 20453,
         "Key": "r20",
-        "enUS": "Lem Rune",
+        "enUS": "Lem Rune #20",
         "zhTW": "符文:藍姆#20",
         "deDE": "[fs]Lem-Rune",
         "esES": "Runa Lem",
@@ -342,7 +342,7 @@
     {
         "id": 20454,
         "Key": "r19",
-        "enUS": "Fal Rune",
+        "enUS": "Fal Rune #19",
         "zhTW": "符文:法爾 #19",
         "deDE": "[fs]Fal-Rune",
         "esES": "Runa Fal",
@@ -359,7 +359,7 @@
     {
         "id": 20455,
         "Key": "r18",
-        "enUS": "Ko Rune",
+        "enUS": "Ko Rune #18",
         "zhTW": "符文:科#18",
         "deDE": "[fs]Ko-Rune",
         "esES": "Runa Ko",
@@ -376,7 +376,7 @@
     {
         "id": 20456,
         "Key": "r17",
-        "enUS": "Lum Rune",
+        "enUS": "Lum Rune #17",
         "zhTW": "符文:盧姆#17",
         "deDE": "[fs]Lum-Rune",
         "esES": "Runa Lum",
@@ -393,7 +393,7 @@
     {
         "id": 20458,
         "Key": "r15",
-        "enUS": "Hel Rune",
+        "enUS": "Hel Rune #15",
         "zhTW": "符文:海爾#15",
         "deDE": "[fs]Hel-Rune",
         "esES": "Runa Hel",
@@ -410,7 +410,7 @@
     {
         "id": 20459,
         "Key": "r14",
-        "enUS": "Dol Rune",
+        "enUS": "Dol Rune #14",
         "zhTW": "符文:多爾#14",
         "deDE": "[fs]Dol-Rune",
         "esES": "Runa Dol",
@@ -427,7 +427,7 @@
     {
         "id": 20461,
         "Key": "r12",
-        "enUS": "Sol Rune",
+        "enUS": "Sol Rune #12",
         "zhTW": "符文:索爾#12",
         "deDE": "[fs]Sol-Rune",
         "esES": "Runa Sol",
@@ -444,7 +444,7 @@
     {
         "id": 20462,
         "Key": "r11",
-        "enUS": "Amn Rune",
+        "enUS": "Amn Rune #11",
         "zhTW": "符文:安姆#11",
         "deDE": "[fs]Amn-Rune",
         "esES": "Runa Amn",
@@ -461,7 +461,7 @@
     {
         "id": 20463,
         "Key": "r10",
-        "enUS": "Thul Rune",
+        "enUS": "Thul Rune #10",
         "zhTW": "符文:書爾#10",
         "deDE": "[fs]Thul-Rune",
         "esES": "Runa Thul",
@@ -478,7 +478,7 @@
     {
         "id": 20464,
         "Key": "r09",
-        "enUS": "Ort Rune",
+        "enUS": "Ort Rune #9",
         "zhTW": "符文:歐特#9",
         "deDE": "[fs]Ort-Rune",
         "esES": "Runa Ort",
@@ -495,7 +495,7 @@
     {
         "id": 20465,
         "Key": "r08",
-        "enUS": "Ral Rune",
+        "enUS": "Ral Rune #8",
         "zhTW": "符文:拉爾#8",
         "deDE": "[fs]Ral-Rune",
         "esES": "Runa Ral",
@@ -512,7 +512,7 @@
     {
         "id": 20466,
         "Key": "r07",
-        "enUS": "Tal Rune",
+        "enUS": "Tal Rune #7",
         "zhTW": "符文:塔爾#7",
         "deDE": "[fs]Tal-Rune",
         "esES": "Runa Tal",
@@ -529,7 +529,7 @@
     {
         "id": 20467,
         "Key": "r06",
-        "enUS": "Ith Rune",
+        "enUS": "Ith Rune #6",
         "zhTW": "符文:伊斯#6",
         "deDE": "[fs]Ith-Rune",
         "esES": "Runa Ith",
@@ -546,7 +546,7 @@
     {
         "id": 20468,
         "Key": "r05",
-        "enUS": "Eth Rune",
+        "enUS": "Eth Rune #5",
         "zhTW": "符文:愛斯#5",
         "deDE": "[fs]Eth-Rune",
         "esES": "Runa Eth",
@@ -563,7 +563,7 @@
     {
         "id": 20469,
         "Key": "r04",
-        "enUS": "Nef Rune",
+        "enUS": "Nef Rune #4",
         "zhTW": "符文:那夫#4",
         "deDE": "[fs]Nef-Rune",
         "esES": "Runa Nef",
@@ -580,7 +580,7 @@
     {
         "id": 20470,
         "Key": "r03",
-        "enUS": "Tir Rune",
+        "enUS": "Tir Rune #3",
         "zhTW": "符文:特爾#3",
         "deDE": "[fs]Tir-Rune",
         "esES": "Runa Tir",
@@ -597,7 +597,7 @@
     {
         "id": 20471,
         "Key": "r02",
-        "enUS": "Eld Rune",
+        "enUS": "Eld Rune #2",
         "zhTW": "符文:艾德#2",
         "deDE": "[fs]Eld-Rune",
         "esES": "Runa Eld",
@@ -614,7 +614,7 @@
     {
         "id": 20472,
         "Key": "r01",
-        "enUS": "El Rune",
+        "enUS": "El Rune #1",
         "zhTW": "符文:艾爾#1",
         "deDE": "[fs]El-Rune",
         "esES": "Runa El",
@@ -631,7 +631,7 @@
     {
         "id": 20473,
         "Key": "r33L",
-        "enUS": "Zod",
+        "enUS": "Zod #33",
         "zhTW": "薩德ÿc2Zod#33ÿc4",
         "deDE": "Zod",
         "esES": "Zod",
@@ -648,7 +648,7 @@
     {
         "id": 20474,
         "Key": "r32L",
-        "enUS": "Cham",
+        "enUS": "Cham #32",
         "zhTW": "查姆ÿc2Cham#32ÿc4",
         "deDE": "Cham",
         "esES": "Cham",
@@ -665,7 +665,7 @@
     {
         "id": 20476,
         "Key": "r30L",
-        "enUS": "Ber",
+        "enUS": "Ber #30",
         "zhTW": "貝ÿc2Ber#30ÿc4",
         "deDE": "Ber",
         "esES": "Ber",
@@ -682,7 +682,7 @@
     {
         "id": 20477,
         "Key": "r29L",
-        "enUS": "Sur",
+        "enUS": "Sur #29",
         "zhTW": "瑟ÿc2Sur#29ÿc4",
         "deDE": "Sur",
         "esES": "Sur",
@@ -699,7 +699,7 @@
     {
         "id": 20478,
         "Key": "r28L",
-        "enUS": "Lo",
+        "enUS": "Lo #28",
         "zhTW": "羅ÿc2Lo#28ÿc4",
         "deDE": "Lo",
         "esES": "Lo",
@@ -716,7 +716,7 @@
     {
         "id": 20479,
         "Key": "r27L",
-        "enUS": "Ohm",
+        "enUS": "Ohm #27",
         "zhTW": "歐姆ÿc2Ohm#27ÿc4",
         "deDE": "Ohm",
         "esES": "Ohm",
@@ -733,7 +733,7 @@
     {
         "id": 20480,
         "Key": "r26L",
-        "enUS": "Vex",
+        "enUS": "Vex #26",
         "zhTW": "伐克斯ÿc2Vex#26ÿc4",
         "deDE": "Vex",
         "esES": "Vex",
@@ -750,7 +750,7 @@
     {
         "id": 20481,
         "Key": "r25L",
-        "enUS": "Gul",
+        "enUS": "Gul #25",
         "zhTW": "古爾ÿc2Gul#25ÿc4",
         "deDE": "Gul",
         "esES": "Gul",
@@ -767,7 +767,7 @@
     {
         "id": 20482,
         "Key": "r24L",
-        "enUS": "Ist",
+        "enUS": "Ist #24",
         "zhTW": "伊斯特ÿc2Ist#24ÿc4",
         "deDE": "Ist",
         "esES": "Ist",
@@ -784,7 +784,7 @@
     {
         "id": 20483,
         "Key": "r23L",
-        "enUS": "Mal",
+        "enUS": "Mal #23",
         "zhTW": "馬爾ÿc2Mal#23ÿc4",
         "deDE": "Mal",
         "esES": "Mal",
@@ -801,7 +801,7 @@
     {
         "id": 20484,
         "Key": "r22L",
-        "enUS": "Um",
+        "enUS": "Um #22",
         "zhTW": "烏姆ÿc2Um#22ÿc4",
         "deDE": "Um",
         "esES": "Um",
@@ -818,7 +818,7 @@
     {
         "id": 20485,
         "Key": "r21L",
-        "enUS": "Pul",
+        "enUS": "Pul #21",
         "zhTW": "普爾ÿc2Pul#21ÿc4",
         "deDE": "Pul",
         "esES": "Pul",
@@ -835,7 +835,7 @@
     {
         "id": 20486,
         "Key": "r20L",
-        "enUS": "Lem",
+        "enUS": "Lem #20",
         "zhTW": "藍姆#20",
         "deDE": "Lem",
         "esES": "Lem",
@@ -852,7 +852,7 @@
     {
         "id": 20487,
         "Key": "r19L",
-        "enUS": "Fal",
+        "enUS": "Fal #19",
         "zhTW": "法爾#19",
         "deDE": "Fal",
         "esES": "Fal",
@@ -869,7 +869,7 @@
     {
         "id": 20488,
         "Key": "r18L",
-        "enUS": "Ko",
+        "enUS": "Ko #18",
         "zhTW": "科#18",
         "deDE": "Ko",
         "esES": "Ko",
@@ -886,7 +886,7 @@
     {
         "id": 20489,
         "Key": "r17L",
-        "enUS": "Lum",
+        "enUS": "Lum #17",
         "zhTW": "盧姆#17",
         "deDE": "Lum",
         "esES": "Lum",
@@ -903,7 +903,7 @@
     {
         "id": 20491,
         "Key": "r15L",
-        "enUS": "Hel",
+        "enUS": "Hel #15",
         "zhTW": "海爾#15",
         "deDE": "Hel",
         "esES": "Hel",
@@ -920,7 +920,7 @@
     {
         "id": 20492,
         "Key": "r14L",
-        "enUS": "Dol",
+        "enUS": "Dol #14",
         "zhTW": "多爾#14",
         "deDE": "Dol",
         "esES": "Dol",
@@ -937,7 +937,7 @@
     {
         "id": 20494,
         "Key": "r12L",
-        "enUS": "Sol",
+        "enUS": "Sol #12",
         "zhTW": "索爾#12",
         "deDE": "Sol",
         "esES": "Sol",
@@ -954,7 +954,7 @@
     {
         "id": 20495,
         "Key": "r11L",
-        "enUS": "Amn",
+        "enUS": "Amn #11",
         "zhTW": "安姆#11",
         "deDE": "Amn",
         "esES": "Amn",
@@ -971,7 +971,7 @@
     {
         "id": 20496,
         "Key": "r10L",
-        "enUS": "Thul",
+        "enUS": "Thul #10",
         "zhTW": "書爾#10",
         "deDE": "Thul",
         "esES": "Thul",
@@ -988,7 +988,7 @@
     {
         "id": 20497,
         "Key": "r09L",
-        "enUS": "Ort",
+        "enUS": "Ort #9",
         "zhTW": "歐特#9",
         "deDE": "Ort",
         "esES": "Ort",
@@ -1005,7 +1005,7 @@
     {
         "id": 20498,
         "Key": "r08L",
-        "enUS": "Ral",
+        "enUS": "Ral #8",
         "zhTW": "拉爾#8",
         "deDE": "Ral",
         "esES": "Ral",
@@ -1022,7 +1022,7 @@
     {
         "id": 20499,
         "Key": "r07L",
-        "enUS": "Tal",
+        "enUS": "Tal #7",
         "zhTW": "塔爾#7",
         "deDE": "Tal",
         "esES": "Tal",
@@ -1039,7 +1039,7 @@
     {
         "id": 20500,
         "Key": "r06L",
-        "enUS": "Ith",
+        "enUS": "Ith #6",
         "zhTW": "伊斯#6",
         "deDE": "Ith",
         "esES": "Ith",
@@ -1056,7 +1056,7 @@
     {
         "id": 20501,
         "Key": "r05L",
-        "enUS": "Eth",
+        "enUS": "Eth #5",
         "zhTW": "愛斯#5",
         "deDE": "Eth",
         "esES": "Eth",
@@ -1073,7 +1073,7 @@
     {
         "id": 20502,
         "Key": "r04L",
-        "enUS": "Nef",
+        "enUS": "Nef #4",
         "zhTW": "那夫#4",
         "deDE": "Nef",
         "esES": "Nef",
@@ -1090,7 +1090,7 @@
     {
         "id": 20503,
         "Key": "r03L",
-        "enUS": "Tir",
+        "enUS": "Tir #3",
         "zhTW": "特爾#3",
         "deDE": "Tir",
         "esES": "Tir",
@@ -1107,7 +1107,7 @@
     {
         "id": 20504,
         "Key": "r02L",
-        "enUS": "Eld",
+        "enUS": "Eld #2",
         "zhTW": "艾德#2",
         "deDE": "Eld",
         "esES": "Eld",
@@ -1124,7 +1124,7 @@
     {
         "id": 20505,
         "Key": "r01L",
-        "enUS": "El",
+        "enUS": "El #1",
         "zhTW": "艾爾#1",
         "deDE": "El",
         "esES": "El",
