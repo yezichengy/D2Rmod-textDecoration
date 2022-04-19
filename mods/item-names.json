@@ -8808,7 +8808,7 @@
     {
         "id": 2574,
         "Key": "The Gnasher",
-        "enUS": "The Gnasher",
+        "enUS": "ÿc1[MAX:70ED]\nÿc4The Gnasherÿc9",
         "zhTW": "ÿc1[MAX:70ED]\nÿc4牙齒 ÿc5The Gnasherÿc9",
         "deDE": "der Knirscher",
         "esES": "La despedazadora",
@@ -8825,7 +8825,7 @@
     {
         "id": 2575,
         "Key": "Deathspade",
-        "enUS": "Deathspade",
+        "enUS": "ÿc1[MAX:70ED]\nÿc4Deathspadeÿc9",
         "zhTW": "ÿc1[MAX:70ED]\nÿc4死亡之鏟 ÿc5Deathspadeÿc9",
         "deDE": "Todesspaten",
         "esES": "Pica de la muerte",
@@ -8842,7 +8842,7 @@
     {
         "id": 2576,
         "Key": "Bladebone",
-        "enUS": "Bladebone",
+        "enUS": "ÿc1[MAX:50ED]\nÿc4Bladeboneÿc9",
         "zhTW": "ÿc1[MAX:50ED]\nÿc4肩胛骨 ÿc5Bladeboneÿc9",
         "deDE": "Klingenknochen",
         "esES": "Filo óseo",
@@ -8859,7 +8859,7 @@
     {
         "id": 2577,
         "Key": "Mindrend",
-        "enUS": "Skull Splitter",
+        "enUS": "ÿc1[MAX:100ED/100AR/1-15LD]\nÿc4Skull Splitterÿc9",
         "zhTW": "ÿc1[MAX:100ED/100AR/1-15LD]\nÿc4切開骷髏 ÿc5Skull Splitterÿc9",
         "deDE": "Schädelspalter",
         "esES": "Partecalaveras",
@@ -8876,7 +8876,7 @@
     {
         "id": 2578,
         "Key": "Rakescar",
-        "enUS": "Rakescar",
+        "enUS": "ÿc1[MAX:150ED]\nÿc4Rakescarÿc9",
         "zhTW": "ÿc1[MAX:150ED]\nÿc4火鉤之傷 ÿc5Rakescarÿc9",
         "deDE": "Teufelsnarbe",
         "esES": "Rastreador",
@@ -8893,7 +8893,7 @@
     {
         "id": 2579,
         "Key": "Fechmars Axe",
-        "enUS": "Axe of Fechmar",
+        "enUS": "ÿc1[MAX:90ED]\nÿc4Axe of Fechmarÿc9",
         "zhTW": "ÿc1[MAX:90ED]\nÿc4費屈瑪之斧 ÿc5Axe of Fechmarÿc9",
         "deDE": "Axt von Fechmar",
         "esES": "Hacha de Fechmar",
@@ -8910,7 +8910,7 @@
     {
         "id": 2580,
         "Key": "Goreshovel",
-        "enUS": "Goreshovel",
+        "enUS": "ÿc1[MAX:50ED]\nÿc4Goreshovelÿc9",
         "zhTW": "ÿc1[MAX:50ED]\nÿc4血塊之鏟 ÿc5Goreshovelÿc9",
         "deDE": "Müllschaufel",
         "esES": "Pala sangrienta",
@@ -8927,7 +8927,7 @@
     {
         "id": 2581,
         "Key": "The Chieftan",
-        "enUS": "The Chieftain",
+        "enUS": "ÿc1[MAX:20RES]\nÿc4The Chieftainÿc9",
         "zhTW": "ÿc1[MAX:20RES]\nÿc4族長 ÿc5The Chieftainÿc9",
         "deDE": "der Häuptling",
         "esES": "El cacique",
@@ -8944,7 +8944,7 @@
     {
         "id": 2582,
         "Key": "Brainhew",
-        "enUS": "Brainhew",
+        "enUS": "ÿc1[MAX:80ED/13LM]\nÿc4Brainhewÿc9",
         "zhTW": "ÿc1[MAX:80ED/13LM]\nÿc4腦袋 ÿc5Brainhewÿc9",
         "deDE": "Hirnhacke",
         "esES": "Cortacerebros",
@@ -8961,7 +8961,7 @@
     {
         "id": 2583,
         "Key": "The Humongous",
-        "enUS": "Humongous",
+        "enUS": "ÿc1[MAX:120ED/8-25DAM/30STR]\nÿc4Humongousÿc9",
         "zhTW": "ÿc1[MAX:120ED/8-25DAM/30STR]\nÿc:暗黑四淫器之一，通常拿來屁事水經驗\nÿc4巨大無比 ÿc5Humongousÿc9",
         "deDE": "Riese",
         "esES": "Demoledora",
@@ -8995,7 +8995,7 @@
     {
         "id": 2585,
         "Key": "Maelstromwrath",
-        "enUS": "Maelstrom",
+        "enUS": "ÿc1[MAX:3/3/3/3]\nÿc4Maelstromÿc9",
         "zhTW": "ÿc1[MAX:3/3/3/3]\nÿc4漩渦 ÿc5Maelstromÿc9",
         "deDE": "Mahlstrom",
         "esES": "Vorágine",
@@ -9012,7 +9012,7 @@
     {
         "id": 2586,
         "Key": "Gravenspine",
-        "enUS": "Gravenspine",
+        "enUS": "ÿc1[MAX:50mana]\nÿc4Gravenspineÿc9",
         "zhTW": "ÿc1[MAX:50法力]\nÿc4墓穴之脊 ÿc5Gravenspineÿc9",
         "deDE": "Grabknochen",
         "esES": "Espina de la tumba",
@@ -9046,7 +9046,7 @@
     {
         "id": 2588,
         "Key": "Felloak",
-        "enUS": "Felloak",
+        "enUS": "ÿc1[MAX:80ED]\nÿc4Felloakÿc9",
         "zhTW": "ÿc1[MAX:80ED]\nÿc4兇猛橡樹 ÿc5Felloakÿc9",
         "deDE": "Falleiche",
         "esES": "Roble siniestro",
@@ -9063,7 +9063,7 @@
     {
         "id": 2589,
         "Key": "Knell Striker",
-        "enUS": "Knell Striker",
+        "enUS": "ÿc1[MAX:80ED]\nÿc4Knell Strikerÿc9",
         "zhTW": "ÿc1[MAX:80ED]\nÿc:這個也是喪鐘？\nÿc4喪鐘敲擊者 ÿc5Knell Strikerÿc9",
         "deDE": "Totenglöckner",
         "esES": "Badajo",
@@ -9080,7 +9080,7 @@
     {
         "id": 2590,
         "Key": "Rusthandle",
-        "enUS": "Rusthandle",
+        "enUS": "ÿc1[MAX:60ED/110ud/3ven]\nÿc4Rusthandleÿc9",
         "zhTW": "ÿc1[MAX:60ED/110亡靈傷害/3復仇]\nÿc4腐蝕的把手 ÿc5Rusthandleÿc9",
         "deDE": "Rostgriff",
         "esES": "Mango oxidado",
@@ -9097,7 +9097,7 @@
     {
         "id": 2591,
         "Key": "Stormeye",
-        "enUS": "Stormeye",
+        "enUS": "ÿc1[MAX:120ED/5rl]\nÿc4Stormeyeÿc9",
         "zhTW": "ÿc1[MAX:120ED/5抵抗閃電]\nÿc4暴風眼 ÿc5Stormeyeÿc9",
         "deDE": "Sturmauge",
         "esES": "Ojo de la tormenta",
@@ -9114,7 +9114,7 @@
     {
         "id": 2592,
         "Key": "Stoutnail",
-        "enUS": "Stoutnail",
+        "enUS": "ÿc1[MAX:10atd]\nÿc4Stoutnailÿc9",
         "zhTW": "ÿc1[MAX:10反彈]\nÿc4堅硬的指甲 ÿc5Stoutnailÿc9",
         "deDE": "Festnagel",
         "esES": "Clavo sólido",
@@ -9131,7 +9131,7 @@
     {
         "id": 2593,
         "Key": "Crushflange",
-        "enUS": "Crushflange",
+        "enUS": "ÿc1[MAX:60ED]\nÿc4Crushflangeÿc9",
         "zhTW": "ÿc1[MAX:60ED]\nÿc4壓碎的凸邊 ÿc5Crushflangeÿc9",
         "deDE": "Malmknüppel",
         "esES": "Remate machacador",
@@ -9165,7 +9165,7 @@
     {
         "id": 2595,
         "Key": "The Generals Tan Do Li Ga",
-        "enUS": "The General's Tan Do Li Ga",
+        "enUS": "ÿc1[MAX:60ED]\nÿc4The General's Tan Do Li Gaÿc9",
         "zhTW": "ÿc1[MAX:60ED]\nÿc:將軍珠已成爲過去\nÿc4坦-杜-里-嘎將軍 ÿc5The General's Tan Do Li Gaÿc9",
         "deDE": "das Tan-Do-Li-Ga des Generals",
         "esES": "Tan do li ga del general",
@@ -9182,7 +9182,7 @@
     {
         "id": 2596,
         "Key": "Ironstone",
-        "enUS": "Ironstone",
+        "enUS": "ÿc1[MAX:150ED/150AR]\nÿc4Ironstoneÿc9",
         "zhTW": "ÿc1[MAX:150ED/150AR]\nÿc4鐵石 ÿc5Ironstoneÿc9",
         "deDE": "Eisenstein",
         "esES": "Piedra de hierro",
@@ -9199,7 +9199,7 @@
     {
         "id": 2597,
         "Key": "Bonesob",
-        "enUS": "Bonesnap",
+        "enUS": "ÿc1[MAX:300ED]\nÿc4Bonesnapÿc9",
         "zhTW": "ÿc1[MAX:300ED]\nÿc4碎骨 ÿc5Bonesnapÿc9",
         "deDE": "Knochenbrecher",
         "esES": "Rompehuesos",
@@ -9216,7 +9216,7 @@
     {
         "id": 2598,
         "Key": "Steeldriver",
-        "enUS": "Steeldriver",
+        "enUS": "ÿc1[MAX:250ED]\nÿc4Steeldriverÿc9",
         "zhTW": "ÿc1[MAX:250ED]\nÿc4鐵製大錘 ÿc5Steeldriverÿc9",
         "deDE": "Stahlschläger",
         "esES": "Clavadora de aceros",
@@ -9250,7 +9250,7 @@
     {
         "id": 2600,
         "Key": "Blood Crescent",
-        "enUS": "Blood Crescent",
+        "enUS": "ÿc1[MAX:80ED]\nÿc4Blood Crescentÿc9",
         "zhTW": "ÿc1[MAX:80ED]\nÿc4血紅新月 ÿc5Blood Crescentÿc9",
         "deDE": "Blutmond",
         "esES": "Medialuna sangrienta",
@@ -9284,7 +9284,7 @@
     {
         "id": 2602,
         "Key": "Gleamscythe",
-        "enUS": "Gleamscythe",
+        "enUS": "ÿc1[MAX:100ED]\nÿc4Gleamscytheÿc9",
         "zhTW": "ÿc1[MAX:100ED]\nÿc4閃耀的鐮刀 ÿc5Gleamscytheÿc9",
         "deDE": "Sichelglanz",
         "esES": "Guadaña reluciente",
@@ -9301,7 +9301,7 @@
     {
         "id": 2603,
         "Key": "Azurewrath",
-        "enUS": "Azurewrath",
+        "enUS": "ÿc1[MAX:13aura/270ED/10attr]\nÿc4Azurewrathÿc9",
         "zhTW": "ÿc1[MAX:13庇護所/270ED/10屬性]\nÿc:俗稱憤青，光刀的哥哥，皮叔三不掉之一，恭喜\nÿc4碧藍怒火 ÿc5Azurewrathÿc9",
         "deDE": "Blauzorn",
         "esES": "Ira celeste",
@@ -9318,7 +9318,7 @@
     {
         "id": 2604,
         "Key": "Griswolds Edge",
-        "enUS": "Griswold's Edge",
+        "enUS": "ÿc1[MAX:120ED/12-25FD]\nÿc4Griswold's Edgeÿc9",
         "zhTW": "ÿc1[MAX:120ED/12-25FD]\nÿc4格瑞斯華爾德的銳利 ÿc5Griswold's Edgeÿc9",
         "deDE": "Griswolds Schneide",
         "esES": "Filo de Griswold",
@@ -9335,7 +9335,7 @@
     {
         "id": 2605,
         "Key": "Hellplague",
-        "enUS": "Hellplague",
+        "enUS": "ÿc1[MAX:80ED]\nÿc4Hellplagueÿc9",
         "zhTW": "ÿc1[MAX:80ED]\nÿc4地獄瘟疫 ÿc5Hellplagueÿc9",
         "deDE": "Höllenpest",
         "esES": "Plaga infernal",
@@ -9352,7 +9352,7 @@
     {
         "id": 2606,
         "Key": "Culwens Point",
-        "enUS": "Culwen's Point",
+        "enUS": "ÿc1[MAX:80ED]\nÿc4Culwen's Pointÿc9",
         "zhTW": "ÿc1[MAX:80ED]\nÿc4庫爾溫的尖端 ÿc5Culwen's Pointÿc9",
         "deDE": "Culwens Spitze",
         "esES": "Puya de Culwen",
@@ -9386,7 +9386,7 @@
     {
         "id": 2608,
         "Key": "Soulflay",
-        "enUS": "Soulflay",
+        "enUS": "ÿc1[MAX:100ED/10LM]\nÿc4Soulflayÿc9",
         "zhTW": "ÿc1[MAX:100ED/10LM]\nÿc4剝皮靈魂 ÿc5Soulflayÿc9",
         "deDE": "Seelenschinder",
         "esES": "Desollamiento del alma",
@@ -9403,7 +9403,7 @@
     {
         "id": 2609,
         "Key": "Kinemils Awl",
-        "enUS": "Kinemil's Awl",
+        "enUS": "ÿc1[MAX:100ED/150AR/6-40FD]\nÿc4Kinemil's Awlÿc9",
         "zhTW": "ÿc1[MAX:100ED/150AR/6-40FD]\nÿc4金麥爾的錐子 ÿc5Kinemil's Awlÿc9",
         "deDE": "Kinemils Ahle",
         "esES": "Punzón de Kinemil",
@@ -9420,7 +9420,7 @@
     {
         "id": 2610,
         "Key": "Blacktongue",
-        "enUS": "Blacktongue",
+        "enUS": "ÿc1[MAX:60ED]\nÿc4Blacktongueÿc9",
         "zhTW": "ÿc1[MAX:60ED]\nÿc4黑色之舌 ÿc5Blacktongueÿc9",
         "deDE": "Schwarzzunge",
         "esES": "Lengua negra",
@@ -9437,7 +9437,7 @@
     {
         "id": 2611,
         "Key": "Ripsaw",
-        "enUS": "Ripsaw",
+        "enUS": "ÿc1[MAX:100ED]\nÿc4Ripsawÿc9",
         "zhTW": "ÿc1[MAX:100ED]\nÿc4粗齒大鋸 ÿc5Ripsawÿc9",
         "deDE": "Sägezahn",
         "esES": "Sierra de corte",
@@ -9454,7 +9454,7 @@
     {
         "id": 2612,
         "Key": "The Patriarch",
-        "enUS": "The Patriarch",
+        "enUS": "ÿc1[MAX:120ED]\nÿc4The Patriarchÿc9",
         "zhTW": "ÿc1[MAX:120ED]\nÿc4族長 ÿc5The Patriarchÿc9",
         "deDE": "der Patriarch",
         "esES": "El patriarca",
@@ -9505,7 +9505,7 @@
     {
         "id": 2615,
         "Key": "The Jade Tan Do",
-        "enUS": "The Jade Tan Do",
+        "enUS": "ÿc1[MAX:150AR]\nÿc4The Jade Tan Doÿc9",
         "zhTW": "ÿc1[MAX:150AR]\nÿc4坦杜之玉 ÿc5The Jade Tan Doÿc9",
         "deDE": "das Jade-Tan-Do",
         "esES": "Tan do de jade",
@@ -9556,7 +9556,7 @@
     {
         "id": 2618,
         "Key": "Razortine",
-        "enUS": "Razortine",
+        "enUS": "ÿc1[MAX:50ED]\nÿc4Razortineÿc9",
         "zhTW": "ÿc1[MAX:50ED]\nÿc4剃刀之叉 ÿc5Razortineÿc9",
         "deDE": "Blitzklinge",
         "esES": "Diente de cuchilla",
@@ -9573,7 +9573,7 @@
     {
         "id": 2619,
         "Key": "Bloodthief",
-        "enUS": "Bloodthief",
+        "enUS": "ÿc1[MAX:70ED/12LL]\nÿc4Bloodthiefÿc9",
         "zhTW": "ÿc1[MAX:70ED/12LL]\nÿc4血之偷 ÿc5Bloodthiefÿc9",
         "deDE": "Blutdieb",
         "esES": "Ladrón sangriento",
@@ -9607,7 +9607,7 @@
     {
         "id": 2621,
         "Key": "The Tannr Gorerod",
-        "enUS": "The Tannr Gorerod",
+        "enUS": "ÿc1[MAX:100ED]\nÿc4The Tannr Gorerodÿc9",
         "zhTW": "ÿc1[MAX:100ED]\nÿc4坦之血杖 ÿc5The Tannr Gorerodÿc9",
         "deDE": "der Tannr-Blutstab",
         "esES": "Caña sangrienta de Tannr",
@@ -9641,7 +9641,7 @@
     {
         "id": 2623,
         "Key": "Steelgoad",
-        "enUS": "Steelgoad",
+        "enUS": "ÿc1[MAX:80ED]\nÿc4Steelgoadÿc9",
         "zhTW": "ÿc1[MAX:80ED]\nÿc4鐵刺棒 ÿc5Steelgoadÿc9",
         "deDE": "Stahlsucher",
         "esES": "Aguijón de acero",
@@ -9658,7 +9658,7 @@
     {
         "id": 2624,
         "Key": "Soul Harvest",
-        "enUS": "Soul Harvest",
+        "enUS": "ÿc1[MAX:90ED]\nÿc4Soul Harvestÿc9",
         "zhTW": "ÿc1[MAX:90ED]\nÿc:名不副實，用它就被採集了\nÿc4靈魂採集者 ÿc5Soul Harvestÿc9",
         "deDE": "Seelenernte",
         "esES": "Cosechadora de almas",
@@ -9675,7 +9675,7 @@
     {
         "id": 2625,
         "Key": "The Battlebranch",
-        "enUS": "The Battlebranch",
+        "enUS": "ÿc1[MAX:70ED/100AR]\nÿc4The Battlebranchÿc9",
         "zhTW": "ÿc1[MAX:70ED/100AR]\nÿc4戰鬥支系 ÿc5The Battlebranchÿc9",
         "deDE": "der Kampfast",
         "esES": "Rama de la batalla",
@@ -9692,7 +9692,7 @@
     {
         "id": 2626,
         "Key": "Woestave",
-        "enUS": "Woestave",
+        "enUS": "ÿc1[MAX:40ED]\nÿc4Woestaveÿc9",
         "zhTW": "ÿc1[MAX:40ED]\nÿc:別以爲加了DRU的就是給他用的\nÿc4煩惱詩集 ÿc5Woestaveÿc9",
         "deDE": "Elendsstab",
         "esES": "Asta de la congoja",
@@ -9726,7 +9726,7 @@
     {
         "id": 2628,
         "Key": "Bane Ash",
-        "enUS": "Bane Ash",
+        "enUS": "ÿc1[MAX:60ED]\nÿc4Bane Ashÿc9",
         "zhTW": "ÿc1[MAX:60ED]\nÿc4禍根之灰 ÿc5Bane Ashÿc9",
         "deDE": "Giftasche",
         "esES": "Ceniza funesta",
@@ -9743,7 +9743,7 @@
     {
         "id": 2629,
         "Key": "Serpent Lord",
-        "enUS": "Serpent Lord",
+        "enUS": "ÿc1[MAX:40ED]\nÿc4Serpent Lordÿc9",
         "zhTW": "ÿc1[MAX:40ED]\nÿc4海蛇之王 ÿc5Serpent Lordÿc9",
         "deDE": "Natternfürst",
         "esES": "Señor de la serpiente",
@@ -9828,7 +9828,7 @@
     {
         "id": 2634,
         "Key": "Witherstring",
-        "enUS": "Witherstring",
+        "enUS": "ÿc1[MAX:50ED]\nÿc4Witherstringÿc9",
         "zhTW": "ÿc1[MAX:50ED]\nÿc4凋謝之戒 ÿc5Witherstringÿc9",
         "deDE": "Todesband",
         "esES": "Cuerda marchitadora",
@@ -9845,7 +9845,7 @@
     {
         "id": 2635,
         "Key": "Rimeraven",
-        "enUS": "Raven Claw",
+        "enUS": "ÿc1[MAX:70ED]\nÿc4Raven Clawÿc9",
         "zhTW": "ÿc1[MAX:70ED]\nÿc:鳥弓就是它，戰網小號升級必備，單機用途不大\nÿc4渡鳥之爪 ÿc5Raven Clawÿc9",
         "deDE": "Rabenklaue",
         "esES": "Garra del cuervo",
@@ -9862,7 +9862,7 @@
     {
         "id": 2636,
         "Key": "Piercerib",
-        "enUS": "Rogue's Bow",
+        "enUS": "ÿc1[MAX:60ED]\nÿc4Rogue's Bowÿc9",
         "zhTW": "ÿc1[MAX:60ED]\nÿc4蘿格之弓 ÿc5Rogue's Bowÿc9",
         "deDE": "Jägerbogen",
         "esES": "Arco de la arpía",
@@ -9879,7 +9879,7 @@
     {
         "id": 2637,
         "Key": "Pullspite",
-        "enUS": "Stormstrike",
+        "enUS": "ÿc1[MAX:90ED]\nÿc4Stormstrikeÿc9",
         "zhTW": "ÿc1[MAX:90ED]\nÿc4暴風之擊 ÿc5Stormstrikeÿc9",
         "deDE": "Sturmschlag",
         "esES": "Golpe de tormenta",
@@ -9896,7 +9896,7 @@
     {
         "id": 2638,
         "Key": "Wizendraw",
-        "enUS": "Wizendraw",
+        "enUS": "ÿc1[MAX:80ED/100AR/-35CR]\nÿc4Wizendrawÿc9",
         "zhTW": "ÿc1[MAX:80ED/100AR/-35CR]\nÿc:元素弓可拿此過渡\nÿc4凋謝之畫 ÿc5Wizendrawÿc9",
         "deDE": "Runzelrübe",
         "esES": "Tensión marchita",
@@ -9913,7 +9913,7 @@
     {
         "id": 2639,
         "Key": "Hellclap",
-        "enUS": "Hellclap",
+        "enUS": "ÿc1[MAX:90ED/75AR/15-50FD]\nÿc4Hellclapÿc9",
         "zhTW": "ÿc1[MAX:90ED/75AR/15-50FD]\nÿc4作響的地獄 ÿc5Hellclapÿc9",
         "deDE": "Höllenknall",
         "esES": "Trueno infernal",
@@ -9930,7 +9930,7 @@
     {
         "id": 2640,
         "Key": "Blastbark",
-        "enUS": "Blastbark",
+        "enUS": "ÿc1[MAX:130ED]\nÿc4Blastbarkÿc9",
         "zhTW": "ÿc1[MAX:130ED]\nÿc4爆裂的吠叫 ÿc5Blastbarkÿc9",
         "deDE": "Knallrinde",
         "esES": "Corteza explosiva",
@@ -9981,7 +9981,7 @@
     {
         "id": 2643,
         "Key": "Hellcast",
-        "enUS": "Hellcast",
+        "enUS": "ÿc1[MAX:80ED]\nÿc4Hellcastÿc9",
         "zhTW": "ÿc1[MAX:80ED]\nÿc4投擲地獄 ÿc5Hellcastÿc9",
         "deDE": "Höllenherz",
         "esES": "Rastro infernal",
@@ -9998,7 +9998,7 @@
     {
         "id": 2644,
         "Key": "Doomspittle",
-        "enUS": "Doomslinger",
+        "enUS": "ÿc1[MAX:100ED]\nÿc4Doomslingerÿc9",
         "zhTW": "ÿc1[MAX:100ED]\nÿc4毀滅投石者 ÿc5Doomslingerÿc9",
         "deDE": "Verdammnisbringer",
         "esES": "Honda de la perdición",
@@ -10015,7 +10015,7 @@
     {
         "id": 2645,
         "Key": "War Bonnet",
-        "enUS": "Biggin's Bonnet",
+        "enUS": "ÿc1[MAX:19def]\nÿc4Biggin's Bonnetÿc9",
         "zhTW": "ÿc1[MAX:防禦19]\nÿc:20小帽子，收藏一個\nÿc4畢格因的軟帽 ÿc5Biggin's Bonnetÿc9",
         "deDE": "Higgis Haube",
         "esES": "Gorra de Biggin",
@@ -10032,7 +10032,7 @@
     {
         "id": 2646,
         "Key": "Tarnhelm",
-        "enUS": "Tarnhelm",
+        "enUS": "ÿc1[MAX:11def/50MF]\nÿc4Tarnhelmÿc9",
         "zhTW": "ÿc1[MAX:防禦11/50MF]\nÿc:前期50MF很實用\nÿc4塔因頭盔 ÿc5Tarnhelmÿc9",
         "deDE": "Tarnhelm",
         "esES": "Yelmo de la laguna",
@@ -10049,7 +10049,7 @@
     {
         "id": 2647,
         "Key": "Coif of Glory",
-        "enUS": "Coif of Glory",
+        "enUS": "ÿc1[MAX:28def]\nÿc4Coif of Gloryÿc9",
         "zhTW": "ÿc1[MAX:防禦28]\nÿc4光榮布帽 ÿc5Coif of Gloryÿc9",
         "deDE": "Glorienkappe",
         "esES": "Toca de gloria",
@@ -10066,7 +10066,7 @@
     {
         "id": 2648,
         "Key": "Duskdeep",
-        "enUS": "Duskdeep",
+        "enUS": "ÿc1[MAX:50ED/20DEF]\nÿc4Duskdeepÿc9",
         "zhTW": "ÿc1[MAX:50ED/20DEF]\nÿc4黃昏深處 ÿc5Duskdeepÿc9",
         "deDE": "Dämmertief",
         "esES": "Profundidad del crepúsculo",
@@ -10083,7 +10083,7 @@
     {
         "id": 2649,
         "Key": "Wormskull",
-        "enUS": "Wormskull",
+        "enUS": "ÿc1[MAX:36def]\nÿc4Wormskullÿc9",
         "zhTW": "ÿc1[MAX:防禦36]\nÿc4溫暖骷髏 ÿc5Wormskullÿc9",
         "deDE": "Wurmschädel",
         "esES": "Cráneo de gusano",
@@ -10117,7 +10117,7 @@
     {
         "id": 2651,
         "Key": "Undead Crown",
-        "enUS": "Undead Crown",
+        "enUS": "ÿc1[MAX:100udar/60ED]\nÿc4Undead Crownÿc9",
         "zhTW": "ÿc1[MAX:100亡靈準確/60ED]\nÿc4不死皇冠 ÿc5Undead Crownÿc9",
         "deDE": "Untote Krone",
         "esES": "Corona viviente",
@@ -10134,7 +10134,7 @@
     {
         "id": 2652,
         "Key": "The Face of Horror",
-        "enUS": "The Face of Horror",
+        "enUS": "ÿc1[MAX:52def]\nÿc4The Face of Horrorÿc9",
         "zhTW": "ÿc1[MAX:防禦52]\nÿc4恐懼之臉 ÿc5The Face of Horrorÿc9",
         "deDE": "das Gesicht des Horrors",
         "esES": "El rostro del horror",
@@ -10151,7 +10151,7 @@
     {
         "id": 2653,
         "Key": "Greyform",
-        "enUS": "Greyform",
+        "enUS": "ÿc1[MAX:31def]\nÿc4Greyformÿc9",
         "zhTW": "ÿc1[MAX:防禦31]\nÿc4薄暮外觀 ÿc5Greyformÿc9",
         "deDE": "Grauform",
         "esES": "Forma grisácea",
@@ -10168,7 +10168,7 @@
     {
         "id": 2654,
         "Key": "Blinkbats Form",
-        "enUS": "Blinkbat's Form",
+        "enUS": "ÿc1[MAX:42def]\nÿc4Blinkbat's Formÿc9",
         "zhTW": "ÿc1[MAX:防禦42]\nÿc4眨眼蝙蝠的外觀 ÿc5Blinkbat's Formÿc9",
         "deDE": "Blinkers Form",
         "esES": "Murciélago destellante",
@@ -10185,7 +10185,7 @@
     {
         "id": 2655,
         "Key": "The Centurion",
-        "enUS": "The Centurion",
+        "enUS": "ÿc1[MAX:54def]\nÿc4The Centurionÿc9",
         "zhTW": "ÿc1[MAX:防禦54]\nÿc4百夫長 ÿc5The Centurionÿc9",
         "deDE": "Der Zenturio",
         "esES": "El centurión",
@@ -10202,7 +10202,7 @@
     {
         "id": 2656,
         "Key": "Twitchthroe",
-        "enUS": "Twitchthroe",
+        "enUS": "ÿc1[MAX:60def]\nÿc4Twitchthroeÿc9",
         "zhTW": "ÿc1[MAX:防禦60]\nÿc:抽動甲，非資能賣。前期挺實用的裝甲之一\nÿc4抽動的掙扎 ÿc5Twitchthroeÿc9",
         "deDE": "Zuckzappel",
         "esES": "Agonía temblorosa",
@@ -10219,7 +10219,7 @@
     {
         "id": 2657,
         "Key": "Darkglow",
-        "enUS": "Darkglow",
+        "enUS": "ÿc1[MAX:100ED]\nÿc4Darkglowÿc9",
         "zhTW": "ÿc1[MAX:100ED]\nÿc4擴散黑暗 ÿc5Darkglowÿc9",
         "deDE": "Dunkelglüh",
         "esES": "Resplandor de oscuridad",
@@ -10236,7 +10236,7 @@
     {
         "id": 2658,
         "Key": "Hawkmail",
-        "enUS": "Hawkmail",
+        "enUS": "ÿc1[MAX:100ED]\nÿc4Hawkmailÿc9",
         "zhTW": "ÿc1[MAX:100ED]\nÿc4鷹甲 ÿc5Hawkmailÿc9",
         "deDE": "Falkenhemd",
         "esES": "Cota del gerifalte",
@@ -10253,7 +10253,7 @@
     {
         "id": 2659,
         "Key": "Sparking Mail",
-        "enUS": "Sparking Mail",
+        "enUS": "ÿc1[MAX:85ED/14atd]\nÿc4Sparking Mailÿc9",
         "zhTW": "ÿc1[MAX:85ED/14反彈]\nÿc4火花之甲 ÿc5Sparking Mailÿc9",
         "deDE": "Funkenhemd",
         "esES": "Cota chispeante",
@@ -10270,7 +10270,7 @@
     {
         "id": 2660,
         "Key": "Venomsward",
-        "enUS": "Venom Ward",
+        "enUS": "ÿc1[MAX:100ED]\nÿc4Venom Wardÿc9",
         "zhTW": "ÿc1[MAX:100ED]\nÿc:穿上它百毒不侵....\nÿc4毒液牢房 ÿc5Venom Wardÿc9",
         "deDE": "Giftschutz",
         "esES": "Custodia de la ponzoña",
@@ -10287,7 +10287,7 @@
     {
         "id": 2661,
         "Key": "Iceblink",
-        "enUS": "Iceblink",
+        "enUS": "ÿc1[MAX:80ED]\nÿc4Iceblinkÿc9",
         "zhTW": "ÿc1[MAX:80ED]\nÿc4閃耀冰晶 ÿc5Iceblinkÿc9",
         "deDE": "Eisblinker",
         "esES": "Destello gélido",
@@ -10304,7 +10304,7 @@
     {
         "id": 2662,
         "Key": "Boneflesh",
-        "enUS": "Boneflesh",
+        "enUS": "ÿc1[MAX:120ED]\nÿc4Bonefleshÿc9",
         "zhTW": "ÿc1[MAX:120ED]\nÿc4骨肉 ÿc5Bonefleshÿc9",
         "deDE": "Knochenfleisch",
         "esES": "Carne de hueso",
@@ -10321,7 +10321,7 @@
     {
         "id": 2663,
         "Key": "Rockfleece",
-        "enUS": "Rockfleece",
+        "enUS": "ÿc1[MAX:130ED]\nÿc4Rockfleeceÿc9",
         "zhTW": "ÿc1[MAX:130ED]\nÿc4石之毛 ÿc5Rockfleeceÿc9",
         "deDE": "Felsenfell",
         "esES": "Lana de roca",
@@ -10338,7 +10338,7 @@
     {
         "id": 2664,
         "Key": "Rattlecage",
-        "enUS": "Rattlecage",
+        "enUS": "ÿc1[MAX:335def]\nÿc4Rattlecageÿc9",
         "zhTW": "ÿc1[MAX:防禦335]\nÿc4作響之籠 ÿc5Rattlecageÿc9",
         "deDE": "Klapperkäfig",
         "esES": "Jaula vibradora",
@@ -10355,7 +10355,7 @@
     {
         "id": 2665,
         "Key": "Goldskin",
-        "enUS": "Goldskin",
+        "enUS": "ÿc1[MAX:150ED]\nÿc4Goldskinÿc9",
         "zhTW": "ÿc1[MAX:150ED]\nÿc:非資里價值高\nÿc4黃金之皮 ÿc5Goldskinÿc9",
         "deDE": "Goldhaut",
         "esES": "Piel áurea",
@@ -10372,7 +10372,7 @@
     {
         "id": 2666,
         "Key": "Victors Silk",
-        "enUS": "Silks of the Victor",
+        "enUS": "ÿc1[MAX:120ED]\nÿc4Silks of the Victorÿc9",
         "zhTW": "ÿc1[MAX:120ED]\nÿc4勝利者之絲綢 ÿc5Silks of the Victorÿc9",
         "deDE": "Seide des Siegers",
         "esES": "Sedas del victorioso",
@@ -10406,7 +10406,7 @@
     {
         "id": 2668,
         "Key": "Pelta Lunata",
-        "enUS": "Pelta Lunata",
+        "enUS": "ÿc1[MAX:24dur/40ED]\nÿc4Pelta Lunataÿc9",
         "zhTW": "ÿc1[MAX:耐久24/40ED]\nÿc4新月小盾 ÿc5Pelta Lunataÿc9",
         "deDE": "Pelta Lunata",
         "esES": "Pelta lunata",
@@ -10423,7 +10423,7 @@
     {
         "id": 2669,
         "Key": "Umbral Disk",
-        "enUS": "Umbral Disk",
+        "enUS": "ÿc1[MAX:31dur/50ED]\nÿc4Umbral Diskÿc9",
         "zhTW": "ÿc1[MAX:耐久31/50ED]\nÿc4陰影圓盤 ÿc5Umbral Diskÿc9",
         "deDE": "Schattenscheibe",
         "esES": "Disco umbrío",
@@ -10440,7 +10440,7 @@
     {
         "id": 2670,
         "Key": "Stormguild",
-        "enUS": "Stormguild",
+        "enUS": "ÿc1[MAX:39dur/60ED]\nÿc4Stormguildÿc9",
         "zhTW": "ÿc1[MAX:耐久39/60ED]\nÿc4暴風公會 ÿc5Stormguildÿc9",
         "deDE": "Sturmgilde",
         "esES": "Gremio de la tormenta",
@@ -10457,7 +10457,7 @@
     {
         "id": 2671,
         "Key": "Wall of the Eyeless",
-        "enUS": "Wall of the Eyeless",
+        "enUS": "ÿc1[MAX:40ED]\nÿc4Wall of the Eyelessÿc9",
         "zhTW": "ÿc1[MAX:40ED]\nÿc4無眼之牆 ÿc5Wall of the Eyelessÿc9",
         "deDE": "Wand der Augenlosen",
         "esES": "Muro de los sin ojos",
@@ -10474,7 +10474,7 @@
     {
         "id": 2672,
         "Key": "Swordback Hold",
-        "enUS": "Swordback Hold",
+        "enUS": "ÿc1[MAX:60ED]\nÿc4Swordback Holdÿc9",
         "zhTW": "ÿc1[MAX:60ED]\nÿc4劍背之架 ÿc5Swordback Holdÿc9",
         "deDE": "Schwerthalter",
         "esES": "Contención de espadas",
@@ -10491,7 +10491,7 @@
     {
         "id": 2673,
         "Key": "Steelclash",
-        "enUS": "Steelclash",
+        "enUS": "ÿc1[MAX:50dur/100ED]\nÿc4Steelclashÿc9",
         "zhTW": "ÿc1[MAX:耐久50/100ED]\nÿc4作響的金屬 ÿc5Steelclashÿc9",
         "deDE": "Stahlklang",
         "esES": "Fragor de acero",
@@ -10508,7 +10508,7 @@
     {
         "id": 2674,
         "Key": "Bverrit Keep",
-        "enUS": "Bverrit Keep",
+        "enUS": "ÿc1[MAX:160dur/120ED]\nÿc4Bverrit Keepÿc9",
         "zhTW": "ÿc1[MAX:耐久160/120ED]\nÿc4貝弗提的壁壘 ÿc5Bverrit Keepÿc9",
         "deDE": "Bverritturm",
         "esES": "Torreón de Bverrit",
@@ -10525,7 +10525,7 @@
     {
         "id": 2675,
         "Key": "The Ward",
-        "enUS": "The Ward",
+        "enUS": "ÿc1[MAX:50RES]\nÿc4The Wardÿc9",
         "zhTW": "ÿc1[MAX:50RES]\nÿc:看點高抗性，非資里常用\nÿc4囚房 ÿc5The Wardÿc9",
         "deDE": "der Schutz",
         "esES": "La custodia",
@@ -10542,7 +10542,7 @@
     {
         "id": 2676,
         "Key": "The Hand of Broc",
-        "enUS": "The Hand of Broc",
+        "enUS": "ÿc1[MAX:20ED]\nÿc4The Hand of Brocÿc9",
         "zhTW": "ÿc1[MAX:20ED]\nÿc4柏克之手 ÿc5The Hand of Brocÿc9",
         "deDE": "die Hand von Broc",
         "esES": "La mano de Broc",
@@ -10559,7 +10559,7 @@
     {
         "id": 2677,
         "Key": "Bloodfist",
-        "enUS": "Bloodfist",
+        "enUS": "ÿc1[MAX:88def(UP*2)/20ED]\nÿc4Bloodfistÿc9",
         "zhTW": "ÿc1[MAX:防禦88(UP*2)/20ED]\nÿc:PK用的多，安姐大把大把的掉\nÿc4血拳 ÿc5Bloodfistÿc9",
         "deDE": "Blutfaust",
         "esES": "Puño sangriento",
@@ -10576,7 +10576,7 @@
     {
         "id": 2678,
         "Key": "Chance Guards",
-        "enUS": "Chance Guards",
+        "enUS": "ÿc1[MAX:102def(UP*2)/30ED/40MF]\nÿc4Chance Guardsÿc9",
         "zhTW": "ÿc1[MAX:防禦102(UP*2)/30ED/40MF]\nÿc:0MF，純冰MF或打錢蠻子標配\nÿc4運氣守護 ÿc5Chance Guardsÿc9",
         "deDE": "Wächtertreu",
         "esES": "Protección de la suerte",
@@ -10593,7 +10593,7 @@
     {
         "id": 2679,
         "Key": "Magefist",
-        "enUS": "Magefist",
+        "enUS": "ÿc1[MAX:98def(UP*2)/30ED]\nÿc4Magefistÿc9",
         "zhTW": "ÿc1[MAX:防禦98(UP*2)/30ED]\nÿc:暗黑僅有的兩件加fcr手套之一，火系技能還可用於屍爆和小德\nÿc4法師之拳 ÿc5Magefistÿc9",
         "deDE": "Magierfaust",
         "esES": "Puño del mago",
@@ -10610,7 +10610,7 @@
     {
         "id": 2680,
         "Key": "Frostburn",
-        "enUS": "Frostburn",
+        "enUS": "ÿc1[MAX:93def(UP)/20ED]\nÿc4Frostburnÿc9",
         "zhTW": "ÿc1[MAX:防禦93(UP)/20ED]\nÿc:法力不夠戴上它\nÿc4霜燃 ÿc5Frostburnÿc9",
         "deDE": "Frostbrand",
         "esES": "Quemadura glacial",
@@ -10627,7 +10627,7 @@
     {
         "id": 2681,
         "Key": "Hotspur",
-        "enUS": "Hotspur",
+        "enUS": "ÿc1[MAX:20ED]\nÿc4Hotspurÿc9",
         "zhTW": "ÿc1[MAX:20ED]\nÿc:怕火的穿\nÿc4熱靴刺 ÿc5Hotspurÿc9",
         "deDE": "Heißsporn",
         "esES": "Espuela ardiente",
@@ -10644,7 +10644,7 @@
     {
         "id": 2682,
         "Key": "Gorefoot",
-        "enUS": "Gorefoot",
+        "enUS": "ÿc1[MAX:30ED]\nÿc4Gorefootÿc9",
         "zhTW": "ÿc1[MAX:30ED]\nÿc4血腳 ÿc5Gorefootÿc9",
         "deDE": "Schmutzfuß",
         "esES": "Pie sangriento",
@@ -10661,7 +10661,7 @@
     {
         "id": 2683,
         "Key": "Treads of Cthon",
-        "enUS": "Treads of Cthon",
+        "enUS": "ÿc1[MAX:40ED]\nÿc4Treads of Cthonÿc9",
         "zhTW": "ÿc1[MAX:40ED]\nÿc4凱松的征服 ÿc5Treads of Cthonÿc9",
         "deDE": "Spuren von Cthon",
         "esES": "Huellas de Cthon",
@@ -10678,7 +10678,7 @@
     {
         "id": 2684,
         "Key": "Goblin Toe",
-        "enUS": "Goblin Toe",
+        "enUS": "ÿc1[MAX:60ED]\nÿc4Goblin Toeÿc9",
         "zhTW": "ÿc1[MAX:60ED]\nÿc:看點高CB\nÿc4小妖精腳趾 ÿc5Goblin Toeÿc9",
         "deDE": "Goblinzeh",
         "esES": "Dedo de goblin",
@@ -10695,7 +10695,7 @@
     {
         "id": 2685,
         "Key": "Tearhaunch",
-        "enUS": "Tearhaunch",
+        "enUS": "ÿc1[MAX:80ED]\nÿc4Tearhaunchÿc9",
         "zhTW": "ÿc1[MAX:80ED]\nÿc4淚之臀 ÿc5Tearhaunchÿc9",
         "deDE": "Tränenkeule",
         "esES": "Anca desgarrada",
@@ -10729,7 +10729,7 @@
     {
         "id": 2687,
         "Key": "Snakecord",
-        "enUS": "Snakecord",
+        "enUS": "ÿc1[MAX:30ED]\nÿc4Snakecordÿc9",
         "zhTW": "ÿc1[MAX:30ED]\nÿc4蛇索 ÿc5Snakecordÿc9",
         "deDE": "Schlangenband",
         "esES": "Cordón de culebra",
@@ -10746,7 +10746,7 @@
     {
         "id": 2688,
         "Key": "Nightsmoke",
-        "enUS": "Nightsmoke",
+        "enUS": "ÿc1[MAX:50ED]\nÿc4Nightsmokeÿc9",
         "zhTW": "ÿc1[MAX:50ED]\nÿc4夜煙 ÿc5Nightsmokeÿc9",
         "deDE": "Nachtrauch",
         "esES": "Humo nocturno",
@@ -10763,7 +10763,7 @@
     {
         "id": 2689,
         "Key": "Goldwrap",
-        "enUS": "Goldwrap",
+        "enUS": "ÿc1[MAX:130def(UP*2)/60ED/80EG]\nÿc4Goldwrapÿc9",
         "zhTW": "ÿc1[MAX:防禦130(UP*2)/60ED/80EG]\nÿc:打錢、MF穿\nÿc4金色包袱 ÿc5Goldwrapÿc9",
         "deDE": "Goldträger",
         "esES": "Cinto de oro",
@@ -10780,7 +10780,7 @@
     {
         "id": 2690,
         "Key": "Bladebuckle",
-        "enUS": "Bladebuckle",
+        "enUS": "ÿc1[MAX:100ED]\nÿc4Bladebuckleÿc9",
         "zhTW": "ÿc1[MAX:100ED]\nÿc4鋒利扣帶 ÿc5Bladebuckleÿc9",
         "deDE": "Klingengurt",
         "esES": "Hebilla de espada",
@@ -10814,7 +10814,7 @@
     {
         "id": 2692,
         "Key": "The Eye of Etlich",
-        "enUS": "The Eye of Etlich",
+        "enUS": "ÿc1[MAX:2-5CD/7LL/40rdef/5rad]\nÿc4The Eye of Etlichÿc9",
         "zhTW": "ÿc1[MAX:2-5CD/7LL/40遠程防禦/5照明]\nÿc4艾利屈之眼 ÿc5The Eye of Etlichÿc9",
         "deDE": "das Auge von Ettlich",
         "esES": "Ojo de Etlich",
@@ -10848,7 +10848,7 @@
     {
         "id": 2694,
         "Key": "Nagelring",
-        "enUS": "Nagelring",
+        "enUS": "ÿc1[MAX:75AR/30MF]\nÿc4Nagelringÿc9",
         "zhTW": "ÿc1[MAX:75AR/30MF]\nÿc:純冰標配\nÿc4拿各的戒指 ÿc5Nagelringÿc9",
         "deDE": "Nagelring",
         "esES": "Anillo de Naguel",
@@ -10865,7 +10865,7 @@
     {
         "id": 2695,
         "Key": "Manald Heal",
-        "enUS": "Manald Heal",
+        "enUS": "ÿc1[MAX:7LM/8REP]\nÿc4Manald Healÿc9",
         "zhTW": "ÿc1[MAX:7LM/8REP]\nÿc:實在缺偷法的用它\nÿc4瑪那得的治療 ÿc5Manald Healÿc9",
         "deDE": "Manaldheilung",
         "esES": "Curación de Manald",
@@ -11103,7 +11103,7 @@
     {
         "id": 10000,
         "Key": "Cutthroat1",
-        "enUS": "Bartuc's Cut-Throat",
+        "enUS": "ÿc1[MAX:200ED/9LL]\nÿc4Bartuc's Cut-Throatÿc9",
         "zhTW": "ÿc1[MAX:200ED/9LL]\nÿc4巴特克的猛擊 ÿc5Bartuc's Cut-Throatÿc9",
         "deDE": "Bartucs Halsabschneider",
         "esES": "Degolladera de Bartuc",
@@ -11154,7 +11154,7 @@
     {
         "id": 10122,
         "Key": "Civerb's Ward",
-        "enUS": "Civerb's Ward",
+        "enUS": "[MAX:29def]\nCiverb's Wardÿc9",
         "zhTW": "[MAX:防禦29]\n希弗柏的防護 ÿc5Civerb's Wardÿc9",
         "deDE": "Civerbs Schutz",
         "esES": "Custodia de Civerb",
@@ -11188,7 +11188,7 @@
     {
         "id": 10124,
         "Key": "Civerb's Cudgel",
-        "enUS": "Civerb's Cudgel",
+        "enUS": "[MAX:23MAX]\nCiverb's Cudgelÿc9",
         "zhTW": "[MAX:23MAX]\n希弗伯的短棍 ÿc5Civerb's Cudgelÿc9",
         "deDE": "Civerbs Knüttel",
         "esES": "Garrote de Civerb",
@@ -11205,7 +11205,7 @@
     {
         "id": 10125,
         "Key": "Hsarus' Iron Heel",
-        "enUS": "Hsarus' Iron Heel",
+        "enUS": "[MAX:9def]\nHsarus' Iron Heelÿc9",
         "zhTW": "[MAX:防禦9]\n哈斯拉柏的鐵後跟 ÿc5Hsarus' Iron Heelÿc9",
         "deDE": "Hsarus' Eisenferse",
         "esES": "Talón de hierro de Hsarus",
@@ -11222,7 +11222,7 @@
     {
         "id": 10126,
         "Key": "Hsarus' Iron Fist",
-        "enUS": "Hsarus' Iron Fist",
+        "enUS": "[MAX:6def]\nHsarus' Iron Fistÿc9",
         "zhTW": "[MAX:基本防禦6]\n哈斯拉柏的鐵拳 ÿc5Hsarus' Iron Fistÿc9",
         "deDE": "Hsarus' Eisenfaust",
         "esES": "Puño de hierro de Hsarus",
@@ -11273,7 +11273,7 @@
     {
         "id": 10129,
         "Key": "Cleglaw's Claw",
-        "enUS": "Cleglaw's Claw",
+        "enUS": "[MAX:27def]\nCleglaw's Clawÿc9",
         "zhTW": "[MAX:防禦27]\n克雷德勞之爪 ÿc5Cleglaw's Clawÿc9",
         "deDE": "Cleglaws Kralle",
         "esES": "Garra de Cleglaw",
@@ -11290,7 +11290,7 @@
     {
         "id": 10130,
         "Key": "Cleglaw's Pincers",
-        "enUS": "Cleglaw's Pincers",
+        "enUS": "[MAX:9def]\nCleglaw's Pincersÿc9",
         "zhTW": "[MAX:防禦9]\n克雷德勞之鉗 ÿc5Cleglaw's Pincersÿc9",
         "deDE": "Cleglaws Kneifer",
         "esES": "Pinzas de Cleglaw",
@@ -11324,7 +11324,7 @@
     {
         "id": 10132,
         "Key": "Iratha's Coil",
-        "enUS": "Iratha's Coil",
+        "enUS": "[MAX:45def]\nIratha's Coilÿc9",
         "zhTW": "[MAX:基本防禦45]\n依雷撒的線圈 ÿc5Iratha's Coilÿc9",
         "deDE": "Irathas Rolle",
         "esES": "Rosca de Iratha",
@@ -11341,7 +11341,7 @@
     {
         "id": 10133,
         "Key": "Iratha's Cuff",
-        "enUS": "Iratha's Cuff",
+        "enUS": "[MAX:11def]\nIratha's Cuffÿc9",
         "zhTW": "[MAX:防禦11]\n依雷撒的袖口 ÿc5Iratha's Cuffÿc9",
         "deDE": "Irathas Ärmelaufschläge",
         "esES": "Esposas de Iratha",
@@ -11375,7 +11375,7 @@
     {
         "id": 10135,
         "Key": "Isenhart's Horns",
-        "enUS": "Isenhart's Horns",
+        "enUS": "[MAX:26def]\nIsenhart's Hornsÿc9",
         "zhTW": "[MAX:防禦26]\n依森哈德的號角 ÿc5Isenhart's Hornsÿc9",
         "deDE": "Isenharts Hörner",
         "esES": "Cuernos de Isenhart",
@@ -11392,7 +11392,7 @@
     {
         "id": 10136,
         "Key": "Isenhart's Case",
-        "enUS": "Isenhart's Case",
+        "enUS": "[MAX:68def]\nIsenhart's Caseÿc9",
         "zhTW": "[MAX:基本防禦68]\n依森哈德的外殼 ÿc5Isenhart's Caseÿc9",
         "deDE": "Isenharts Kiste",
         "esES": "Funda de Isenhart",
@@ -11409,7 +11409,7 @@
     {
         "id": 10137,
         "Key": "Isenhart's Parry",
-        "enUS": "Isenhart's Parry",
+        "enUS": "[MAX:75def]\nIsenhart's Parryÿc9",
         "zhTW": "[MAX:防禦75]\n依森哈德的閃避 ÿc5Isenhart's Parryÿc9",
         "deDE": "Isenharts Parade",
         "esES": "Evasión de Isenhart",
@@ -11460,7 +11460,7 @@
     {
         "id": 10140,
         "Key": "Vidala's Ambush",
-        "enUS": "Vidala's Ambush",
+        "enUS": "[MAX:17def]\nVidala's Ambushÿc9",
         "zhTW": "[MAX:基本防禦17]\n維達拉的突襲 ÿc5Vidala's Ambushÿc9",
         "deDE": "Vidalas Hinterhalt",
         "esES": "Emboscada de Vidala",
@@ -11477,7 +11477,7 @@
     {
         "id": 10141,
         "Key": "Vidala's Fetlock",
-        "enUS": "Vidala's Fetlock",
+        "enUS": "[MAX:11def]\nVidala's Fetlockÿc9",
         "zhTW": "[MAX:防禦11]\n維達拉的羽毛 ÿc5Vidala's Fetlockÿc9",
         "deDE": "Vidalas Behang",
         "esES": "Espolón de Vidala",
@@ -11528,7 +11528,7 @@
     {
         "id": 10144,
         "Key": "Milabrega's Diadem",
-        "enUS": "Milabrega's Diadem",
+        "enUS": "[MAX:45def]\nMilabrega's Diademÿc9",
         "zhTW": "[MAX:防禦45]\n米拉伯佳的王冠 ÿc5Milabrega's Diademÿc9",
         "deDE": "Milabregas Diadem",
         "esES": "Diadema de Milabrega",
@@ -11613,7 +11613,7 @@
     {
         "id": 10149,
         "Key": "Cathan's Visage",
-        "enUS": "Cathan's Visage",
+        "enUS": "[MAX:27def]\nÿc2Cathan's Visageÿc9",
         "zhTW": "[MAX:基本防禦27]\nÿc2卡珊的容貌 ÿc5Cathan's Visageÿc9",
         "deDE": "Cathans Fratze",
         "esES": "Semblante de Cathan",
@@ -11630,7 +11630,7 @@
     {
         "id": 10150,
         "Key": "Cathan's Mesh",
-        "enUS": "Cathan's Mesh",
+        "enUS": "[MAX:90def]\nÿc2Cathan's Meshÿc9",
         "zhTW": "[MAX:防禦90]\nÿc2卡珊之網 ÿc5Cathan's Meshÿc9",
         "deDE": "Cathans Kettenrüstung",
         "esES": "Malla de Cathan",
@@ -11681,7 +11681,7 @@
     {
         "id": 10153,
         "Key": "Tancred's Spine",
-        "enUS": "Tancred's Spine",
+        "enUS": "[MAX:161def]\nTancred's Spineÿc9",
         "zhTW": "[MAX:基本防禦161]\n坦克雷的脊柱 ÿc5Tancred's Spineÿc9",
         "deDE": "Tankreds Stachel",
         "esES": "Espinazo de Tancred",
@@ -11698,7 +11698,7 @@
     {
         "id": 10154,
         "Key": "Tancred's Hobnails",
-        "enUS": "Tancred's Hobnails",
+        "enUS": "[MAX:3def]\nTancred's Hobnailsÿc9",
         "zhTW": "[MAX:防禦3]\n坦克雷的平頭釘 ÿc5Tancred's Hobnailsÿc9",
         "deDE": "Tankreds Schuhnägel",
         "esES": "Tachuelas de Tancred",
@@ -11732,7 +11732,7 @@
     {
         "id": 10156,
         "Key": "Tancred's Skull",
-        "enUS": "Tancred's Skull",
+        "enUS": "[MAX:36def]\nTancred's Skullÿc9",
         "zhTW": "[MAX:防禦36]\n坦克雷的骷髏 ÿc5Tancred's Skullÿc9",
         "deDE": "Tankreds Schädel",
         "esES": "Cráneo de Tancred",
@@ -11749,7 +11749,7 @@
     {
         "id": 10157,
         "Key": "Sigon's Visor",
-        "enUS": "Sigon's Visor",
+        "enUS": "[MAX:60def]\nSigon's Visorÿc9",
         "zhTW": "[MAX:防禦60]\n西剛的面甲 ÿc5Sigon's Visorÿc9",
         "deDE": "Sigons Visier",
         "esES": "Visera de Sigon",
@@ -11783,7 +11783,7 @@
     {
         "id": 10159,
         "Key": "Sigon's Gage",
-        "enUS": "Sigon's Gage",
+        "enUS": "[MAX:15def]\nSigon's Gageÿc9",
         "zhTW": "[MAX:防禦15]\n西剛的挑戰 ÿc5Sigon's Gageÿc9",
         "deDE": "Sigons Messgerät",
         "esES": "Reto de Sigon",
@@ -11800,7 +11800,7 @@
     {
         "id": 10160,
         "Key": "Sigon's Sabot",
-        "enUS": "Sigon's Sabot",
+        "enUS": "[MAX:15def]\nSigon's Sabotÿc9",
         "zhTW": "[MAX:防禦15]\n西剛的木鞋 ÿc5Sigon's Sabotÿc9",
         "deDE": "Sigons Schuh",
         "esES": "Zuecos de Sigon",
@@ -11817,7 +11817,7 @@
     {
         "id": 10161,
         "Key": "Sigon's Wrap",
-        "enUS": "Sigon's Wrap",
+        "enUS": "[MAX:11def]\nSigon's Wrapÿc9",
         "zhTW": "[MAX:基本防禦11]\n西剛的腰帶 ÿc5Sigon's Wrapÿc9",
         "deDE": "Sigons Umhang",
         "esES": "Cinto de Sigon",
@@ -11834,7 +11834,7 @@
     {
         "id": 10162,
         "Key": "Sigon's Guard",
-        "enUS": "Sigon's Guard",
+        "enUS": "[MAX:25def]\nSigon's Guardÿc9",
         "zhTW": "[MAX:防禦25]\n西剛的守護 ÿc5Sigon's Guardÿc9",
         "deDE": "Sigons Wächter",
         "esES": "Protección de Sigon",
@@ -11851,7 +11851,7 @@
     {
         "id": 10163,
         "Key": "Infernal Cranium",
-        "enUS": "Infernal Cranium",
+        "enUS": "[MAX:5def]\nInfernal Craniumÿc9",
         "zhTW": "[MAX:基本防禦5]\n地獄頭骨 ÿc5Infernal Craniumÿc9",
         "deDE": "Infernos Schädel",
         "esES": "Cráneo infernal",
@@ -11902,7 +11902,7 @@
     {
         "id": 10166,
         "Key": "Berserker's Headgear",
-        "enUS": "Berserker's Headgear",
+        "enUS": "[MAX:33def]\nBerserker's Headgearÿc9",
         "zhTW": "[MAX:防禦33]\n狂戰士的頭戴 ÿc5Berserker's Headgearÿc9",
         "deDE": "Berserkers Kopfschmuck",
         "esES": "Casco del berserker",
@@ -11919,7 +11919,7 @@
     {
         "id": 10167,
         "Key": "Berserker's Hauberk",
-        "enUS": "Berserker's Hauberk",
+        "enUS": "[MAX:95def]\nBerserker's Hauberkÿc9",
         "zhTW": "[MAX:基本防禦95]\n狂戰士的鎖子甲 ÿc5Berserker's Hauberkÿc9",
         "deDE": "Berserkers Halsberge",
         "esES": "Loriga del berserker",
@@ -11953,7 +11953,7 @@
     {
         "id": 10169,
         "Key": "Death's Hand",
-        "enUS": "Death's Hand",
+        "enUS": "[MAX:3def]\nDeath's Handÿc9",
         "zhTW": "[MAX:防禦3]\n死亡之手 ÿc5Death's Handÿc9",
         "deDE": "Hand des Todes",
         "esES": "Mano de la muerte",
@@ -12089,7 +12089,7 @@
     {
         "id": 10177,
         "Key": "Arctic Furs",
-        "enUS": "Arctic Furs",
+        "enUS": "[MAX:325ED]\nArctic Fursÿc9",
         "zhTW": "[MAX:325ED]\n北極毛皮 ÿc5Arctic Fursÿc9",
         "deDE": "Arktische Pelze",
         "esES": "Pieles árticas",
@@ -12123,7 +12123,7 @@
     {
         "id": 10179,
         "Key": "Arctic Mitts",
-        "enUS": "Arctic Mitts",
+        "enUS": "[MAX:11def]\nArctic Mittsÿc9",
         "zhTW": "[MAX:防禦11]\n北極手套 ÿc5Arctic Mittsÿc9",
         "deDE": "Arktische Handschuhe",
         "esES": "Mitones árticos",
@@ -12174,7 +12174,7 @@
     {
         "id": 10182,
         "Key": "Arcanna's Head",
-        "enUS": "Arcanna's Head",
+        "enUS": "[MAX:11def]\nArcanna's Headÿc9",
         "zhTW": "[MAX:基本防禦11]\n阿卡娜的頭 ÿc5Arcanna's Headÿc9",
         "deDE": "Arcannas Kopf",
         "esES": "Cabeza de Arcanna",
@@ -12191,7 +12191,7 @@
     {
         "id": 10183,
         "Key": "Arcanna's Flesh",
-        "enUS": "Arcanna's Flesh",
+        "enUS": "[MAX:107def]\nArcanna's Fleshÿc9",
         "zhTW": "[MAX:基本防禦107]\n阿卡娜的血肉 ÿc5Arcanna's Fleshÿc9",
         "deDE": "Arcannas Fleisch",
         "esES": "Carne de Arcanna",
@@ -12208,7 +12208,7 @@
     {
         "id": 10911,
         "Key": "Whichwild String",
-        "enUS": "Witchwild String",
+        "enUS": "ÿc1[MAX:170ED]\nÿc4Witchwild Stringÿc9",
         "zhTW": "ÿc1[MAX:170ED]\nÿc:炮轟弓馬武器，升級後使用\nÿc4狂野之弦 ÿc5Witchwild Stringÿc9",
         "deDE": "Wilde Kette",
         "esES": "Cuerda salvaje",
@@ -12310,7 +12310,7 @@
     {
         "id": 11146,
         "Key": "pk1",
-        "enUS": "Key of Terror",
+        "enUS": "[A1 The Countess drops]\nKey of Terror",
         "zhTW": "[女伯爵掉落,地獄火炬道具]\n恐懼之鑰",
         "deDE": "Schlüssel des Terrors",
         "esES": "Llave del terror",
@@ -12327,7 +12327,7 @@
     {
         "id": 11147,
         "Key": "pk2",
-        "enUS": "Key of Hate",
+        "enUS": "[A2 The Summoner drops]\nKey of Hate",
         "zhTW": "[召喚者掉落,地獄火炬道具]\n憎恨之鑰",
         "deDE": "Schlüssel des Hasses",
         "esES": "Llave del odio",
@@ -12344,7 +12344,7 @@
     {
         "id": 11148,
         "Key": "pk3",
-        "enUS": "Key of Destruction",
+        "enUS": "[A5 Nihlathak drops]\nKey of Destruction",
         "zhTW": "[尼拉塞克掉落,地獄火炬道具]\n毀滅之鑰",
         "deDE": "Schlüssel der Zerstörung",
         "esES": "Llave de la destrucción",
@@ -12361,7 +12361,7 @@
     {
         "id": 11149,
         "Key": "dhn",
-        "enUS": "Diablo's Horn",
+        "enUS": "[Lilith drops in Matron's Den]\nDiablo's Horn",
         "zhTW": "[莉莉絲掉落,地獄火炬道具]\n暗黑破壞神之角",
         "deDE": "Diablos Horn",
         "esES": "Cuerno de Diablo",
@@ -12378,7 +12378,7 @@
     {
         "id": 11150,
         "Key": "bey",
-        "enUS": "Baal's Eye",
+        "enUS": "[Duriel drops in Forgotten Sands]\nBaal's Eye",
         "zhTW": "[督瑞爾掉落,地獄火炬道具]\n巴爾之眼",
         "deDE": "Baals Auge",
         "esES": "Ojo de Baal",
@@ -12395,7 +12395,7 @@
     {
         "id": 11151,
         "Key": "mbr",
-        "enUS": "Mephisto's Brain",
+        "enUS": "[Izual drops in Uber Tristram]\nMephisto's Brain",
         "zhTW": "[衣卒爾掉落,地獄火炬道具]\n墨菲斯托之腦",
         "deDE": "Mephistos Gehirn",
         "esES": "Cerebro de Mefisto",
@@ -12429,7 +12429,7 @@
     {
         "id": 11153,
         "Key": "Hellfire Torch",
-        "enUS": "Hellfire Torch",
+        "enUS": "ÿc1[MAX:20attr/20RES]\nÿc4Hellfire Torchÿc9",
         "zhTW": "ÿc1[MAX:20屬性/20RES]\nÿc4地獄火炬 ÿc5Hellfire Torchÿc9",
         "deDE": "Höllenfeuerfackel",
         "esES": "Antorcha de fuego infernal",
@@ -12446,7 +12446,7 @@
     {
         "id": 11164,
         "Key": "tes",
-        "enUS": "Twisted Essence of Suffering",
+        "enUS": "Twisted Essence of Suffering[A1/A2]",
         "zhTW": "A1/A2精華",
         "deDE": "Verdorbene Essenz des Leidens",
         "esES": "Esencia del sufrimiento retorcida",
@@ -12463,7 +12463,7 @@
     {
         "id": 11165,
         "Key": "ceh",
-        "enUS": "Charged Essence of Hatred",
+        "enUS": "Charged Essence of Hatred[A3]",
         "zhTW": "A3精華",
         "deDE": "Geladene Essenz des Hasses",
         "esES": "Esencia del odio cargada",
@@ -12480,7 +12480,7 @@
     {
         "id": 11166,
         "Key": "bet",
-        "enUS": "Burning Essence of Terror",
+        "enUS": "Burning Essence of Terror[A4]",
         "zhTW": "A4精華",
         "deDE": "Brennende Essenz des Schreckens",
         "esES": "Esencia del terror ardiente",
@@ -12497,7 +12497,7 @@
     {
         "id": 11167,
         "Key": "fed",
-        "enUS": "Festering Essence of Destruction",
+        "enUS": "Festering Essence of Destruction[A5]",
         "zhTW": "A5精華",
         "deDE": "Eiternde Essenz der Zerstörung",
         "esES": "Esencia de la destrucción infecta",
@@ -12616,7 +12616,7 @@
     {
         "id": 20187,
         "Key": "9ar",
-        "enUS": "Quhab",
+        "enUS": "Quhab |EX",
         "zhTW": "格鬥刃|扩",
         "deDE": "[ns]Quhab",
         "esES": "[ms]Quhab",
@@ -12633,7 +12633,7 @@
     {
         "id": 20188,
         "Key": "9wb",
-        "enUS": "Wrist Spike",
+        "enUS": "Wrist Spike |EX",
         "zhTW": "腕刺|扩",
         "deDE": "[ms]Unterarmdorn",
         "esES": "[fs]Punta de muñeca",
@@ -12650,7 +12650,7 @@
     {
         "id": 20189,
         "Key": "9xf",
-        "enUS": "Fascia",
+        "enUS": "Fascia |EX",
         "zhTW": "格鬥爪|扩",
         "deDE": "[fs]Faszie",
         "esES": "[fs]Fascia",
@@ -12667,7 +12667,7 @@
     {
         "id": 20190,
         "Key": "9cs",
-        "enUS": "Hand Scythe",
+        "enUS": "Hand Scythe |EX",
         "zhTW": "手鐮|扩",
         "deDE": "[fs]Handsichel",
         "esES": "[fs]Guadaña de mano",
@@ -12684,7 +12684,7 @@
     {
         "id": 20191,
         "Key": "9lw",
-        "enUS": "Greater Claws",
+        "enUS": "Greater Claws |EX",
         "zhTW": "巨爪|扩",
         "deDE": "[pl]Großkrallen",
         "esES": "[fp]Garras enormes",
@@ -12701,7 +12701,7 @@
     {
         "id": 20192,
         "Key": "9tw",
-        "enUS": "Greater Talons",
+        "enUS": "Greater Talons |EX",
         "zhTW": "巨鷹爪|扩",
         "deDE": "[pl]Großklauen",
         "esES": "[fp]Garfas enormes",
@@ -12718,7 +12718,7 @@
     {
         "id": 20193,
         "Key": "9qr",
-        "enUS": "Scissors Quhab",
+        "enUS": "Scissors Quhab |EX",
         "zhTW": "格鬥剪|扩",
         "deDE": "[ns]Scherenquhab",
         "esES": "[ms]Quhab tijera",
@@ -12735,7 +12735,7 @@
     {
         "id": 20194,
         "Key": "7ar",
-        "enUS": "Suwayyah",
+        "enUS": "Suwayyah |EL",
         "zhTW": "近身刃|精",
         "deDE": "[ns]Suwayyah",
         "esES": "[ms]Suwayyah",
@@ -12752,7 +12752,7 @@
     {
         "id": 20195,
         "Key": "7wb",
-        "enUS": "Wrist Sword",
+        "enUS": "Wrist Sword |EL",
         "zhTW": "腕劍|精",
         "deDE": "[ns]Unterarmschwert",
         "esES": "[fs]Espada de muñeca",
@@ -12769,7 +12769,7 @@
     {
         "id": 20196,
         "Key": "7xf",
-        "enUS": "War Fist",
+        "enUS": "War Fist |EL",
         "zhTW": "戰拳|精",
         "deDE": "[fs]Kriegsfaust",
         "esES": "[ms]Puño de guerra",
@@ -12786,7 +12786,7 @@
     {
         "id": 20197,
         "Key": "7cs",
-        "enUS": "Battle Cestus",
+        "enUS": "Battle Cestus |EL",
         "zhTW": "斗腰刀|精",
         "deDE": "[ms]Kampfcestus",
         "esES": "[ms]Cestus de batalla",
@@ -12803,7 +12803,7 @@
     {
         "id": 20198,
         "Key": "7lw",
-        "enUS": "Feral Claws",
+        "enUS": "Feral Claws |EL",
         "zhTW": "猛禽爪|精",
         "deDE": "[pl]Barbarenkrallen",
         "esES": "[fp]Garras ferales",
@@ -12820,7 +12820,7 @@
     {
         "id": 20199,
         "Key": "7tw",
-        "enUS": "Runic Talons",
+        "enUS": "Runic Talons |EL",
         "zhTW": "符紋爪|精",
         "deDE": "[pl]Runenklauen",
         "esES": "[fp]Garfas rúnicas",
@@ -12837,7 +12837,7 @@
     {
         "id": 20200,
         "Key": "7qr",
-        "enUS": "Scissors Suwayyah",
+        "enUS": "Scissors Suwayyah |EL",
         "zhTW": "近身剪|精",
         "deDE": "[ns]Scherensuwayyah",
         "esES": "[ms]Suwayyah tijera",
@@ -12854,7 +12854,7 @@
     {
         "id": 20201,
         "Key": "7ha",
-        "enUS": "Tomahawk",
+        "enUS": "Tomahawk |EL",
         "zhTW": "戰鉞|精",
         "deDE": "[ns]Tomahawk",
         "esES": "[ms]Tomahawk",
@@ -12871,7 +12871,7 @@
     {
         "id": 20202,
         "Key": "7ax",
-        "enUS": "Small Crescent",
+        "enUS": "Small Crescent |EL",
         "zhTW": "彎月斧|精",
         "deDE": "[fs]Kleine Sichel",
         "esES": "[fs]Medialuna pequeña",
@@ -12888,7 +12888,7 @@
     {
         "id": 20203,
         "Key": "72a",
-        "enUS": "Ettin Axe",
+        "enUS": "Ettin Axe |EL",
         "zhTW": "雙頭斧|精",
         "deDE": "[fs]Ettinaxt",
         "esES": "[fs]Hacha de Ettin",
@@ -12905,7 +12905,7 @@
     {
         "id": 20204,
         "Key": "7mp",
-        "enUS": "War Spike",
+        "enUS": "War Spike |EL",
         "zhTW": "戰刺|精",
         "deDE": "[ms]Kriegsdorn",
         "esES": "[fs]Punta de guerra",
@@ -12922,7 +12922,7 @@
     {
         "id": 20206,
         "Key": "7la",
-        "enUS": "Feral Axe",
+        "enUS": "Feral Axe |EL",
         "zhTW": "猛禽斧|精",
         "deDE": "[fs]Barbarenaxt",
         "esES": "[fs]Hacha feral",
@@ -12939,7 +12939,7 @@
     {
         "id": 20207,
         "Key": "7ba",
-        "enUS": "Silver-edged Axe",
+        "enUS": "Silver-edged Axe |EL",
         "zhTW": "銀刃斧|精",
         "deDE": "Versilberte Axt",
         "esES": "[fs]Hacha de filo plateado",
@@ -12956,7 +12956,7 @@
     {
         "id": 20208,
         "Key": "7bt",
-        "enUS": "Decapitator",
+        "enUS": "Decapitator |EL",
         "zhTW": "斬首斧|精",
         "deDE": "[ms]Enthaupter",
         "esES": "[fs]Decapitadora",
@@ -12973,7 +12973,7 @@
     {
         "id": 20209,
         "Key": "7ga",
-        "enUS": "Champion Axe",
+        "enUS": "Champion Axe |EL",
         "zhTW": "豪傑斧|精",
         "deDE": "[fs]Heldenaxt",
         "esES": "[fs]Hacha del campeón",
@@ -12990,7 +12990,7 @@
     {
         "id": 20210,
         "Key": "7gi",
-        "enUS": "Glorious Axe",
+        "enUS": "Glorious Axe |EL",
         "zhTW": "榮光之斧|精",
         "deDE": "[fs]Ruhmesaxt",
         "esES": "[fs]Hacha gloriosa",
@@ -13007,7 +13007,7 @@
     {
         "id": 20211,
         "Key": "7wn",
-        "enUS": "Polished Wand",
+        "enUS": "Polished Wand |EL",
         "zhTW": "洗鍊法杖|精",
         "deDE": "[ms]Polierter Stab",
         "esES": "[fs]Vara pulida",
@@ -13024,7 +13024,7 @@
     {
         "id": 20212,
         "Key": "7yw",
-        "enUS": "Ghost Wand",
+        "enUS": "Ghost Wand |EL",
         "zhTW": "鬼魂法杖|精",
         "deDE": "[ms]Geisterstab",
         "esES": "[fs]Vara fantasmal",
@@ -13041,7 +13041,7 @@
     {
         "id": 20213,
         "Key": "7bw",
-        "enUS": "Lich Wand",
+        "enUS": "Lich Wand |EL",
         "zhTW": "巫妖法杖|精",
         "deDE": "[ms]Lichstab",
         "esES": "[fs]Vara de exánime",
@@ -13058,7 +13058,7 @@
     {
         "id": 20214,
         "Key": "7gw",
-        "enUS": "Unearthed Wand",
+        "enUS": "Unearthed Wand |EL",
         "zhTW": "破隱法杖|精",
         "deDE": "[ms]Ausgegrabener Stab",
         "esES": "[fs]Vara desenterrada",
@@ -13075,7 +13075,7 @@
     {
         "id": 20215,
         "Key": "7cl",
-        "enUS": "Truncheon",
+        "enUS": "Truncheon |EL",
         "zhTW": "戰儀杖|精",
         "deDE": "[ms]Schlagstock",
         "esES": "[fs]Tranca",
@@ -13092,7 +13092,7 @@
     {
         "id": 20216,
         "Key": "7sc",
-        "enUS": "Mighty Scepter",
+        "enUS": "Mighty Scepter |EL",
         "zhTW": "強威權杖|精",
         "deDE": "[ns]Mächtiges Szepter",
         "esES": "[ms]Cetro poderoso",
@@ -13109,7 +13109,7 @@
     {
         "id": 20217,
         "Key": "7qs",
-        "enUS": "Seraph Rod",
+        "enUS": "Seraph Rod |EL",
         "zhTW": "熾天使法杖|精",
         "deDE": "[ms]Seraphimstab",
         "esES": "[fs]Vara de serafín",
@@ -13126,7 +13126,7 @@
     {
         "id": 20218,
         "Key": "7ws",
-        "enUS": "Caduceus",
+        "enUS": "Caduceus |EL",
         "zhTW": "神使權杖|精",
         "deDE": "[ms]Schlangenstab",
         "esES": "[ms]Caduceo",
@@ -13143,7 +13143,7 @@
     {
         "id": 20219,
         "Key": "7sp",
-        "enUS": "Tyrant Club",
+        "enUS": "Tyrant Club |EL",
         "zhTW": "暴君之棒|精",
         "deDE": "[ms]Tyrannentöter",
         "esES": "[fs]Porra de tirano",
@@ -13160,7 +13160,7 @@
     {
         "id": 20220,
         "Key": "7ma",
-        "enUS": "Reinforced Mace",
+        "enUS": "Reinforced Mace |EL",
         "zhTW": "強化釘頭錘|精",
         "deDE": "[ms]Verstärkter Streitkolben",
         "esES": "[fs]Maza reforzada",
@@ -13177,7 +13177,7 @@
     {
         "id": 20221,
         "Key": "7mt",
-        "enUS": "Devil Star",
+        "enUS": "Devil Star |EL",
         "zhTW": "惡魔流星錘|精",
         "deDE": "[ms]Teufelsstern",
         "esES": "[fs]Estrella diabólica",
@@ -13194,7 +13194,7 @@
     {
         "id": 20222,
         "Key": "7fl",
-        "enUS": "Scourge",
+        "enUS": "Scourge |EL",
         "zhTW": "天罰之錘|精",
         "deDE": "[fs]Geißel",
         "esES": "[ms]Azote",
@@ -13211,7 +13211,7 @@
     {
         "id": 20223,
         "Key": "7wh",
-        "enUS": "Legendary Mallet",
+        "enUS": "Legendary Mallet |EL",
         "zhTW": "傳說戰錘|精",
         "deDE": "[ms]Legendärer Hammer",
         "esES": "[ms]Mazo legendario",
@@ -13228,7 +13228,7 @@
     {
         "id": 20224,
         "Key": "7m7",
-        "enUS": "Ogre Maul",
+        "enUS": "Ogre Maul |EL",
         "zhTW": "食人魔之錘|精",
         "deDE": "[ms]Ogerhammer",
         "esES": "[fs]Almádena de ogro",
@@ -13245,7 +13245,7 @@
     {
         "id": 20225,
         "Key": "7gm",
-        "enUS": "Thunder Maul",
+        "enUS": "Thunder Maul |EL",
         "zhTW": "雷錘|精",
         "deDE": "[ms]Donnerhammer",
         "esES": "[fs]Almádena del trueno",
@@ -13262,7 +13262,7 @@
     {
         "id": 20226,
         "Key": "7ss",
-        "enUS": "Falcata",
+        "enUS": "Falcata |EL",
         "zhTW": "短劍|精",
         "deDE": "[fs]Falkata",
         "esES": "[fs]Falcata",
@@ -13279,7 +13279,7 @@
     {
         "id": 20227,
         "Key": "7sm",
-        "enUS": "Ataghan",
+        "enUS": "Ataghan |EL",
         "zhTW": "土耳其劍|精",
         "deDE": "[ns]Yatagan",
         "esES": "[ms]Yatagán",
@@ -13296,7 +13296,7 @@
     {
         "id": 20228,
         "Key": "7sb",
-        "enUS": "Elegant Blade",
+        "enUS": "Elegant Blade |EL",
         "zhTW": "優雅之劍|精",
         "deDE": "[fs]Elegante Klinge",
         "esES": "[fs]Espada elegante",
@@ -13313,7 +13313,7 @@
     {
         "id": 20229,
         "Key": "7fc",
-        "enUS": "Hydra Edge",
+        "enUS": "Hydra Edge |EL",
         "zhTW": "九頭蛇刃|精",
         "deDE": "[fs]Hydraschneide",
         "esES": "[ms]Filo de hidra",
@@ -13330,7 +13330,7 @@
     {
         "id": 20230,
         "Key": "7cr",
-        "enUS": "Phase Blade",
+        "enUS": "Phase Blade |EL",
         "zhTW": "幻化之刃|精ÿc1Phase Blade",
         "deDE": "[fs]Phasenklinge",
         "esES": "[fs]Espada de fase",
@@ -13347,7 +13347,7 @@
     {
         "id": 20231,
         "Key": "7bs",
-        "enUS": "Conquest Sword",
+        "enUS": "Conquest Sword |EL",
         "zhTW": "征服之劍|精",
         "deDE": "[ns]Erobererschwert",
         "esES": "[fs]Espada de la conquista",
@@ -13364,7 +13364,7 @@
     {
         "id": 20232,
         "Key": "7ls",
-        "enUS": "Cryptic Sword",
+        "enUS": "Cryptic Sword |EL",
         "zhTW": "神祕之劍|精",
         "deDE": "[ns]Rätselhaftes Schwert",
         "esES": "[fs]Espada críptica",
@@ -13381,7 +13381,7 @@
     {
         "id": 20233,
         "Key": "7wd",
-        "enUS": "Mythical Sword",
+        "enUS": "Mythical Sword |EL",
         "zhTW": "祕儀之劍|精",
         "deDE": "[ns]Mythisches Schwert",
         "esES": "[fs]Espada mítica",
@@ -13398,7 +13398,7 @@
     {
         "id": 20234,
         "Key": "72h",
-        "enUS": "Legend Sword",
+        "enUS": "Legend Sword |EL",
         "zhTW": "傳說之劍|精",
         "deDE": "[ns]Legendenschwert",
         "esES": "[fs]Espada de leyenda",
@@ -13415,7 +13415,7 @@
     {
         "id": 20235,
         "Key": "7cm",
-        "enUS": "Highland Blade",
+        "enUS": "Highland Blade |EL",
         "zhTW": "高地之劍|精",
         "deDE": "[fs]Hochlandklinge",
         "esES": "[fs]Espada de las Tierras Altas",
@@ -13432,7 +13432,7 @@
     {
         "id": 20236,
         "Key": "7gs",
-        "enUS": "Balrog Blade",
+        "enUS": "Balrog Blade |EL",
         "zhTW": "炎魔之刃|精",
         "deDE": "[fs]Balrogklinge",
         "esES": "[fs]Espada de Balrog",
@@ -13449,7 +13449,7 @@
     {
         "id": 20237,
         "Key": "7b7",
-        "enUS": "Champion Sword",
+        "enUS": "Champion Sword |EL",
         "zhTW": "冠軍之劍|精",
         "deDE": "[ns]Heldenschwert",
         "esES": "[fs]Espada del campeón",
@@ -13466,7 +13466,7 @@
     {
         "id": 20238,
         "Key": "7fb",
-        "enUS": "Colossus Sword",
+        "enUS": "Colossus Sword |EL",
         "zhTW": "巨神之劍|精",
         "deDE": "Kolossschwert",
         "esES": "[fs]Espada del coloso",
@@ -13483,7 +13483,7 @@
     {
         "id": 20239,
         "Key": "7gd",
-        "enUS": "Colossus Blade",
+        "enUS": "Colossus Blade |EL",
         "zhTW": "巨神之刃|精",
         "deDE": "[fs]Kolossklinge",
         "esES": "[fs]Hoja del coloso",
@@ -13500,7 +13500,7 @@
     {
         "id": 20240,
         "Key": "7dg",
-        "enUS": "Bone Knife",
+        "enUS": "Bone Knife |EL",
         "zhTW": "骸骨小刀|精",
         "deDE": "[ns]Knochenmesser",
         "esES": "[ms]Cuchillo de hueso",
@@ -13517,7 +13517,7 @@
     {
         "id": 20241,
         "Key": "7di",
-        "enUS": "Mithril Point",
+        "enUS": "Mithril Point |EL",
         "zhTW": "祕銀小刀|精",
         "deDE": "[fs]Mithrilspitze",
         "esES": "[fs]Puya de mithril",
@@ -13534,7 +13534,7 @@
     {
         "id": 20242,
         "Key": "7kr",
-        "enUS": "Fanged Knife",
+        "enUS": "Fanged Knife |EL",
         "zhTW": "齒緣小刀|精",
         "deDE": "[ns]Fangzahnmesser",
         "esES": "[ms]Cuchillo canino",
@@ -13551,7 +13551,7 @@
     {
         "id": 20243,
         "Key": "7bl",
-        "enUS": "Legend Spike",
+        "enUS": "Legend Spike |EL",
         "zhTW": "傳說尖刺|精",
         "deDE": "[ms]Legendendorn",
         "esES": "[fs]Punta de leyenda",
@@ -13568,7 +13568,7 @@
     {
         "id": 20244,
         "Key": "7tk",
-        "enUS": "Flying Knife",
+        "enUS": "Flying Knife |EL",
         "zhTW": "飛刀|精",
         "deDE": "[ns]Wurfmesser",
         "esES": "[ms]Cuchillo volador",
@@ -13585,7 +13585,7 @@
     {
         "id": 20245,
         "Key": "7ta",
-        "enUS": "Flying Axe",
+        "enUS": "Flying Axe |EL",
         "zhTW": "飛斧|精",
         "deDE": "[fs]Flugaxt",
         "esES": "[fs]Hacha voladora",
@@ -13602,7 +13602,7 @@
     {
         "id": 20246,
         "Key": "7bk",
-        "enUS": "Winged Knife",
+        "enUS": "Winged Knife |EL",
         "zhTW": "翼刀|精",
         "deDE": "[ms]Schwingendolch",
         "esES": "[ms]Cuchillo alado",
@@ -13619,7 +13619,7 @@
     {
         "id": 20247,
         "Key": "7b8",
-        "enUS": "Winged Axe",
+        "enUS": "Winged Axe |EL",
         "zhTW": "翼斧|精",
         "deDE": "[fs]Schwingenaxt",
         "esES": "[fs]Hacha alada",
@@ -13636,7 +13636,7 @@
     {
         "id": 20248,
         "Key": "7ja",
-        "enUS": "Hyperion Javelin",
+        "enUS": "Hyperion Javelin |EL",
         "zhTW": "亥伯龍之槍|精",
         "deDE": "[ms]Hyperionwurfspieß",
         "esES": "[fs]Jabalina de Hiperión",
@@ -13653,7 +13653,7 @@
     {
         "id": 20249,
         "Key": "7pi",
-        "enUS": "Stygian Pilum",
+        "enUS": "Stygian Pilum |EL",
         "zhTW": "冥河標槍|精",
         "deDE": "[ms]Stygischer Spieß",
         "esES": "[ms]Pilum estigio",
@@ -13670,7 +13670,7 @@
     {
         "id": 20250,
         "Key": "7s7",
-        "enUS": "Balrog Spear",
+        "enUS": "Balrog Spear |EL",
         "zhTW": "炎魔長矛|精",
         "deDE": "[ms]Balrogspeer",
         "esES": "[fs]Lanza de Balrog",
@@ -13687,7 +13687,7 @@
     {
         "id": 20251,
         "Key": "7gl",
-        "enUS": "Ghost Glaive",
+        "enUS": "Ghost Glaive |EL",
         "zhTW": "鬼魂尖槍|精",
         "deDE": "[fs]Geistergleve",
         "esES": "[fs]Guja fantasmal",
@@ -13704,7 +13704,7 @@
     {
         "id": 20252,
         "Key": "7ts",
-        "enUS": "Winged Harpoon",
+        "enUS": "Winged Harpoon |EL",
         "zhTW": "翼魚叉|精",
         "deDE": "[fs]Geflügelte Harpune",
         "esES": "[ms]Arpón alado",
@@ -13721,7 +13721,7 @@
     {
         "id": 20253,
         "Key": "7sr",
-        "enUS": "Hyperion Spear",
+        "enUS": "Hyperion Spear |EL",
         "zhTW": "亥伯龍之矛|精",
         "deDE": "[ms]Hyperionspeer",
         "esES": "[fs]Lanza de Hiperión",
@@ -13738,7 +13738,7 @@
     {
         "id": 20254,
         "Key": "7tr",
-        "enUS": "Stygian Pike",
+        "enUS": "Stygian Pike |EL",
         "zhTW": "冥河之槍|精",
         "deDE": "[fs]Stygische Pike",
         "esES": "[fs]Pica estigia",
@@ -13755,7 +13755,7 @@
     {
         "id": 20255,
         "Key": "7br",
-        "enUS": "Mancatcher",
+        "enUS": "Mancatcher |EL",
         "zhTW": "刺人槍|精",
         "deDE": "[ms]Menschenfänger",
         "esES": "[ms]Cazahombres",
@@ -13772,7 +13772,7 @@
     {
         "id": 20256,
         "Key": "7st",
-        "enUS": "Ghost Spear",
+        "enUS": "Ghost Spear |EL",
         "zhTW": "鬼魂之矛|精",
         "deDE": "[ms]Geisterspeer",
         "esES": "[fs]Lanza fantasmal",
@@ -13789,7 +13789,7 @@
     {
         "id": 20257,
         "Key": "7p7",
-        "enUS": "War Pike",
+        "enUS": "War Pike |EL",
         "zhTW": "戰槍|精",
         "deDE": "[fs]Kriegspike",
         "esES": "[fs]Pica de guerra",
@@ -13806,7 +13806,7 @@
     {
         "id": 20258,
         "Key": "7o7",
-        "enUS": "Ogre Axe",
+        "enUS": "Ogre Axe |EL",
         "zhTW": "食人魔之斧|精",
         "deDE": "[fs]Ogeraxt",
         "esES": "[fs]Hacha de ogro",
@@ -13823,7 +13823,7 @@
     {
         "id": 20259,
         "Key": "7vo",
-        "enUS": "Colossus Voulge",
+        "enUS": "Colossus Voulge |EL",
         "zhTW": "巨神之斧|精ÿc1巨神長柄斧",
         "deDE": "[fs]Kolossvulge",
         "esES": "[ms]Voulge del coloso",
@@ -13840,7 +13840,7 @@
     {
         "id": 20260,
         "Key": "7s8",
-        "enUS": "Thresher",
+        "enUS": "Thresher |EL",
         "zhTW": "銳利之斧|精ÿc1斬鐮",
         "deDE": "[ms]Drescher",
         "esES": "[fs]Trilladora",
@@ -13857,7 +13857,7 @@
     {
         "id": 20261,
         "Key": "7pa",
-        "enUS": "Cryptic Axe",
+        "enUS": "Cryptic Axe |EL",
         "zhTW": "神祕之斧|精ÿc1絕秘斧",
         "deDE": "[fs]Rätselhafte Axt",
         "esES": "[fs]Hacha críptica",
@@ -13874,7 +13874,7 @@
     {
         "id": 20262,
         "Key": "7h7",
-        "enUS": "Great Poleaxe",
+        "enUS": "Great Poleaxe |EL",
         "zhTW": "巨長斧|精ÿc1巨型長柄斧",
         "deDE": "[fs]Große Stangenaxt",
         "esES": "[fs]Gran hacha larga",
@@ -13891,7 +13891,7 @@
     {
         "id": 20263,
         "Key": "7wc",
-        "enUS": "Giant Thresher",
+        "enUS": "Giant Thresher |EL",
         "zhTW": "鮫尾巨斧|精ÿc1巨型斬鐮",
         "deDE": "[ms]Riesendrescher",
         "esES": "[fs]Trilladora gigante",
@@ -13908,7 +13908,7 @@
     {
         "id": 20264,
         "Key": "6ss",
-        "enUS": "Walking Stick",
+        "enUS": "Walking Stick |EL",
         "zhTW": "手杖|精",
         "deDE": "[ms]Gehstock",
         "esES": "[ms]Bordón",
@@ -13925,7 +13925,7 @@
     {
         "id": 20265,
         "Key": "6ls",
-        "enUS": "Stalagmite",
+        "enUS": "Stalagmite |EL",
         "zhTW": "鐘乳石之杖|精",
         "deDE": "[ms]Stalagmit",
         "esES": "[fs]Estalagmita",
@@ -13942,7 +13942,7 @@
     {
         "id": 20266,
         "Key": "6cs",
-        "enUS": "Elder Staff",
+        "enUS": "Elder Staff |EL",
         "zhTW": "長老之杖|精",
         "deDE": "[ms]Ältestenstab",
         "esES": "[ms]Bastón de anciano",
@@ -13959,7 +13959,7 @@
     {
         "id": 20267,
         "Key": "6bs",
-        "enUS": "Shillelagh",
+        "enUS": "Shillelagh |EL",
         "zhTW": "樹皮之杖|精",
         "deDE": "Shillelagh",
         "esES": "[ms]Shillelagh",
@@ -13976,7 +13976,7 @@
     {
         "id": 20268,
         "Key": "6ws",
-        "enUS": "Archon Staff",
+        "enUS": "Archon Staff |EL",
         "zhTW": "執政官之杖|精",
         "deDE": "[ms]Archonstab",
         "esES": "[ms]Bastón de arconte",
@@ -13993,7 +13993,7 @@
     {
         "id": 20269,
         "Key": "6sb",
-        "enUS": "Spider Bow",
+        "enUS": "Spider Bow |EL",
         "zhTW": "蜘蛛弓|精",
         "deDE": "[ms]Spinnenbogen",
         "esES": "[ms]Arco de araña",
@@ -14010,7 +14010,7 @@
     {
         "id": 20270,
         "Key": "6hb",
-        "enUS": "Blade Bow",
+        "enUS": "Blade Bow |EL",
         "zhTW": "刀鋒弓|精",
         "deDE": "[ms]Klingenbogen",
         "esES": "[ms]Arco tajante",
@@ -14027,7 +14027,7 @@
     {
         "id": 20271,
         "Key": "6lb",
-        "enUS": "Shadow Bow",
+        "enUS": "Shadow Bow |EL",
         "zhTW": "陰影弓|精",
         "deDE": "[ms]Schattenbogen",
         "esES": "[ms]Arco sombrío",
@@ -14044,7 +14044,7 @@
     {
         "id": 20272,
         "Key": "6cb",
-        "enUS": "Great Bow",
+        "enUS": "Great Bow |EL",
         "zhTW": "巨弓|精",
         "deDE": "[ms]Langbogen",
         "esES": "[ms]Gran arco",
@@ -14061,7 +14061,7 @@
     {
         "id": 20273,
         "Key": "6s7",
-        "enUS": "Diamond Bow",
+        "enUS": "Diamond Bow |EL",
         "zhTW": "鑽石弓|精",
         "deDE": "[ms]Diamantbogen",
         "esES": "[ms]Arco de diamante",
@@ -14078,7 +14078,7 @@
     {
         "id": 20274,
         "Key": "6l7",
-        "enUS": "Crusader Bow",
+        "enUS": "Crusader Bow |EL",
         "zhTW": "十字軍之弓|精",
         "deDE": "[ms]Kreuzritterbogen",
         "esES": "[ms]Arco de cruzada",
@@ -14095,7 +14095,7 @@
     {
         "id": 20275,
         "Key": "6sw",
-        "enUS": "Ward Bow",
+        "enUS": "Ward Bow |EL",
         "zhTW": "庇護之弓|精",
         "deDE": "[ms]Wächterbogen",
         "esES": "[ms]Arco de custodia",
@@ -14112,7 +14112,7 @@
     {
         "id": 20276,
         "Key": "6lw",
-        "enUS": "Hydra Bow",
+        "enUS": "Hydra Bow |EL",
         "zhTW": "九頭蛇弓|精",
         "deDE": "[ms]Hydrabogen",
         "esES": "[ms]Arco de hidra",
@@ -14129,7 +14129,7 @@
     {
         "id": 20277,
         "Key": "6lx",
-        "enUS": "Pellet Bow",
+        "enUS": "Pellet Bow |EL",
         "zhTW": "彈丸弓|精",
         "deDE": "[ms]Kugelbogen",
         "esES": "[ms]Arco de perdigones",
@@ -14146,7 +14146,7 @@
     {
         "id": 20278,
         "Key": "6mx",
-        "enUS": "Gorgon Crossbow",
+        "enUS": "Gorgon Crossbow |EL",
         "zhTW": "蛇魔女十字弓|精",
         "deDE": "[fs]Gorgonenarmbrust",
         "esES": "[fs]Ballesta de gorgona",
@@ -14163,7 +14163,7 @@
     {
         "id": 20279,
         "Key": "6hx",
-        "enUS": "Colossus Crossbow",
+        "enUS": "Colossus Crossbow |EL",
         "zhTW": "巨神十字弓|精",
         "deDE": "[fs]Kolossarmbrust",
         "esES": "[fs]Ballesta del coloso",
@@ -14180,7 +14180,7 @@
     {
         "id": 20280,
         "Key": "6rx",
-        "enUS": "Demon Crossbow",
+        "enUS": "Demon Crossbow |EL",
         "zhTW": "惡魔十字弓|精",
         "deDE": "[fs]Dämonenarmbrust",
         "esES": "[fs]Ballesta del demonio",
@@ -14469,7 +14469,7 @@
     {
         "id": 20297,
         "Key": "ob6",
-        "enUS": "Glowing Orb",
+        "enUS": "Glowing Orb |EX",
         "zhTW": "靈光法珠|扩",
         "deDE": "[fs]Leuchtkugel",
         "esES": "[ms]Orbe encendido",
@@ -14486,7 +14486,7 @@
     {
         "id": 20298,
         "Key": "ob7",
-        "enUS": "Crystalline Globe",
+        "enUS": "Crystalline Globe |EX",
         "zhTW": "水晶天球|扩",
         "deDE": "[fs]Kristallkugel",
         "esES": "[ms]Globo cristalino",
@@ -14503,7 +14503,7 @@
     {
         "id": 20299,
         "Key": "ob8",
-        "enUS": "Cloudy Sphere",
+        "enUS": "Cloudy Sphere |EX",
         "zhTW": "雲霧之球|扩",
         "deDE": "[fs]Wolkenkugel",
         "esES": "[fs]Esfera turbia",
@@ -14520,7 +14520,7 @@
     {
         "id": 20300,
         "Key": "ob9",
-        "enUS": "Sparkling Ball",
+        "enUS": "Sparkling Ball |EX",
         "zhTW": "閃耀之球|扩",
         "deDE": "[ms]Funkelball",
         "esES": "[fs]Bola centelleante",
@@ -14537,7 +14537,7 @@
     {
         "id": 20301,
         "Key": "oba",
-        "enUS": "Swirling Crystal",
+        "enUS": "Swirling Crystal |EX",
         "zhTW": "渦流水晶|扩",
         "deDE": "[ms]Wirbelnder Kristall",
         "esES": "[ms]Cristal turbulento",
@@ -14554,7 +14554,7 @@
     {
         "id": 20302,
         "Key": "am6",
-        "enUS": "Ashwood Bow",
+        "enUS": "Ashwood Bow |EX",
         "zhTW": "灰木之弓|扩",
         "deDE": "[ms]Eschenholzbogen",
         "esES": "[ms]Arco de Ashwood",
@@ -14571,7 +14571,7 @@
     {
         "id": 20303,
         "Key": "am7",
-        "enUS": "Ceremonial Bow",
+        "enUS": "Ceremonial Bow |EX",
         "zhTW": "祭典之弓|扩",
         "deDE": "[ms]Zeremonialbogen",
         "esES": "[ms]Arco ceremonial",
@@ -14588,7 +14588,7 @@
     {
         "id": 20304,
         "Key": "am8",
-        "enUS": "Ceremonial Spear",
+        "enUS": "Ceremonial Spear |EX",
         "zhTW": "祭典之矛|扩",
         "deDE": "[ms]Zeremonialspeer",
         "esES": "[fs]Lanza ceremonial",
@@ -14605,7 +14605,7 @@
     {
         "id": 20305,
         "Key": "am9",
-        "enUS": "Ceremonial Pike",
+        "enUS": "Ceremonial Pike |EX",
         "zhTW": "祭典之長矛|扩",
         "deDE": "[fs]Zeremonialpike",
         "esES": "[fs]Pica ceremonial",
@@ -14622,7 +14622,7 @@
     {
         "id": 20306,
         "Key": "ama",
-        "enUS": "Ceremonial Javelin",
+        "enUS": "Ceremonial Javelin |EX",
         "zhTW": "祭典之鏢槍|扩",
         "deDE": "[ms]Zeremonialwurfspieß",
         "esES": "[fs]Jabalina ceremonial",
@@ -14639,7 +14639,7 @@
     {
         "id": 20307,
         "Key": "obb",
-        "enUS": "Heavenly Stone",
+        "enUS": "Heavenly Stone |EL",
         "zhTW": "天堂之石|精",
         "deDE": "Himmelsstein",
         "esES": "[fs]Piedra celestial",
@@ -14656,7 +14656,7 @@
     {
         "id": 20308,
         "Key": "obc",
-        "enUS": "Eldritch Orb",
+        "enUS": "Eldritch Orb |EL",
         "zhTW": "怪異之球|精",
         "deDE": "[fs]Heidenkugel",
         "esES": "[ms]Orbe sobrenatural",
@@ -14673,7 +14673,7 @@
     {
         "id": 20309,
         "Key": "obd",
-        "enUS": "Demon Heart",
+        "enUS": "Demon Heart |EL",
         "zhTW": "惡魔之心|精",
         "deDE": "[ns]Dämonenherz",
         "esES": "[ms]Corazón del demonio",
@@ -14690,7 +14690,7 @@
     {
         "id": 20310,
         "Key": "obe",
-        "enUS": "Vortex Orb",
+        "enUS": "Vortex Orb |EL",
         "zhTW": "漩渦球|精",
         "deDE": "[fs]Wirbelkugel",
         "esES": "[ms]Orbe vórtice",
@@ -14707,7 +14707,7 @@
     {
         "id": 20311,
         "Key": "obf",
-        "enUS": "Dimensional Shard",
+        "enUS": "Dimensional Shard |EL",
         "zhTW": "次元碎片|精",
         "deDE": "[fs]Dimensionsscherbe",
         "esES": "[fs]Esquirla dimensional",
@@ -14724,7 +14724,7 @@
     {
         "id": 20312,
         "Key": "amb",
-        "enUS": "Matriarchal Bow",
+        "enUS": "Matriarchal Bow |EL",
         "zhTW": "女族長之弓|精",
         "deDE": "[ms]Matriarchenbogen",
         "esES": "[ms]Arco matriarcal",
@@ -14741,7 +14741,7 @@
     {
         "id": 20313,
         "Key": "amc",
-        "enUS": "Grand Matron Bow",
+        "enUS": "Grand Matron Bow |EL",
         "zhTW": "大院長之弓|精ÿc1主母之弓",
         "deDE": "[ms]Großer Matronenbogen",
         "esES": "[ms]Arco de la gran matrona",
@@ -14758,7 +14758,7 @@
     {
         "id": 20314,
         "Key": "amd",
-        "enUS": "Matriarchal Spear",
+        "enUS": "Matriarchal Spear |EL",
         "zhTW": "女族長之矛|精",
         "deDE": "[ms]Matriarchenspeer",
         "esES": "[fs]Lanza matriarcal",
@@ -14775,7 +14775,7 @@
     {
         "id": 20315,
         "Key": "ame",
-        "enUS": "Matriarchal Pike",
+        "enUS": "Matriarchal Pike |EL",
         "zhTW": "女族長之長矛|精",
         "deDE": "[fs]Matriarchenpike",
         "esES": "[fs]Pica matriarcal",
@@ -14792,7 +14792,7 @@
     {
         "id": 20316,
         "Key": "amf",
-        "enUS": "Matriarchal Javelin",
+        "enUS": "Matriarchal Javelin |EL",
         "zhTW": "女族長之鏢槍|精",
         "deDE": "[ms]Matriarchenwurfspieß",
         "esES": "[fs]Jabalina matriarcal",
@@ -15183,7 +15183,7 @@
     {
         "id": 20339,
         "Key": "ci2",
-        "enUS": "Tiara",
+        "enUS": "Tiara |EX",
         "zhTW": "三重冠|扩 ÿc1Tiaraÿc9",
         "deDE": "[fs]Tiara",
         "esES": "[fs]Tiara",
@@ -15200,7 +15200,7 @@
     {
         "id": 20340,
         "Key": "ci3",
-        "enUS": "Diadem",
+        "enUS": "Diadem |EL",
         "zhTW": "權冠|精 ÿc1Diademÿc9",
         "deDE": "[ns]Diadem",
         "esES": "[fs]Diadema",
@@ -15217,7 +15217,7 @@
     {
         "id": 20341,
         "Key": "uap",
-        "enUS": "Shako",
+        "enUS": "Shako |EL",
         "zhTW": "軍帽|精",
         "deDE": "[ms]Tschako",
         "esES": "[ms]Chacó",
@@ -15234,7 +15234,7 @@
     {
         "id": 20342,
         "Key": "ukp",
-        "enUS": "Hydraskull",
+        "enUS": "Hydraskull |EL",
         "zhTW": "九頭蛇頭蓋骨圓帽|精",
         "deDE": "[ms]Hydraschädel",
         "esES": "[ms]Cráneo de hidra",
@@ -15251,7 +15251,7 @@
     {
         "id": 20343,
         "Key": "ulm",
-        "enUS": "Armet",
+        "enUS": "Armet |EL",
         "zhTW": "活動頭盔|精",
         "deDE": "[ns]Armet",
         "esES": "[ms]Almete",
@@ -15268,7 +15268,7 @@
     {
         "id": 20344,
         "Key": "uhl",
-        "enUS": "Giant Conch",
+        "enUS": "Giant Conch |EL",
         "zhTW": "巨貝頭盔|精",
         "deDE": "[fs]Riesenmuschel",
         "esES": "[fs]Valva gigante",
@@ -15285,7 +15285,7 @@
     {
         "id": 20345,
         "Key": "uhm",
-        "enUS": "Spired Helm",
+        "enUS": "Spired Helm |EL",
         "zhTW": "螺旋頭盔|精",
         "deDE": "[ms]Spitzhelm",
         "esES": "[ms]Yelmo de agujas",
@@ -15302,7 +15302,7 @@
     {
         "id": 20346,
         "Key": "urn",
-        "enUS": "Corona",
+        "enUS": "Corona |EL",
         "zhTW": "頭冠|精",
         "deDE": "[fs]Korona",
         "esES": "[fs]Corona",
@@ -15319,7 +15319,7 @@
     {
         "id": 20347,
         "Key": "usk",
-        "enUS": "Demonhead",
+        "enUS": "Demonhead |EL",
         "zhTW": "惡魔頭蓋骨面具|精",
         "deDE": "[ms]Dämonenschädel",
         "esES": "[fs]Faz del demonio",
@@ -15336,7 +15336,7 @@
     {
         "id": 20348,
         "Key": "uui",
-        "enUS": "Dusk Shroud",
+        "enUS": "Dusk Shroud [MAX: 467def]",
         "zhTW": "灰暮壽衣|精.轻ÿc1灰暮甲",
         "deDE": "[ms]Dämmerschleier",
         "esES": "[fs]Mortaja del crepúsculo",
@@ -15353,7 +15353,7 @@
     {
         "id": 20349,
         "Key": "uea",
-        "enUS": "Wyrmhide",
+        "enUS": "Wyrmhide [MAX: 470def]",
         "zhTW": "古龍皮|精.轻ÿc1古龙甲",
         "deDE": "[ns]Wyrmleder",
         "esES": "[ms]Cuero de vermis",
@@ -15370,7 +15370,7 @@
     {
         "id": 20350,
         "Key": "ula",
-        "enUS": "Scarab Husk",
+        "enUS": "Scarab Husk [MAX: 474def]",
         "zhTW": "聖甲蟲殼皮甲|精.轻ÿc1甲虫甲",
         "deDE": "[fs]Skarabäusschale",
         "esES": "[mp]Élitros de alfazaque",
@@ -15387,7 +15387,7 @@
     {
         "id": 20351,
         "Key": "utu",
-        "enUS": "Wire Fleece",
+        "enUS": "Wire Fleece [MAX: 481def]",
         "zhTW": "綿羊毛皮甲|精.轻ÿc1绵羊甲",
         "deDE": "[ns]Drahtvlies",
         "esES": "[fs]Lana de alambre",
@@ -15404,7 +15404,7 @@
     {
         "id": 20352,
         "Key": "ung",
-        "enUS": "Diamond Mail",
+        "enUS": "Diamond Mail [MAX: 489def M]",
         "zhTW": "鑽石鎖子甲|精.中",
         "deDE": "[ns]Diamantpanzerhemd",
         "esES": "[fs]Cota de diamante",
@@ -15421,7 +15421,7 @@
     {
         "id": 20353,
         "Key": "ucl",
-        "enUS": "Loricated Mail",
+        "enUS": "Loricated Mail [MAX: 496def H]",
         "zhTW": "甲殼鎧鱗甲|精.重",
         "deDE": "[ns]Kürasspanzerhemd",
         "esES": "[fs]Cota lorigada",
@@ -15438,7 +15438,7 @@
     {
         "id": 20354,
         "Key": "uhn",
-        "enUS": "Boneweave",
+        "enUS": "Boneweave [MAX: 505def M]",
         "zhTW": "骸骨鏈甲|精.中ÿc1骸骨甲",
         "deDE": "[ns]Knochengespinst",
         "esES": "[ms]Malla de hueso",
@@ -15455,7 +15455,7 @@
     {
         "id": 20355,
         "Key": "urs",
-        "enUS": "Great Hauberk",
+        "enUS": "Great Hauberk [MAX: 501def]",
         "zhTW": "巨型鱗鎧胸甲|精.轻ÿc1巨鱗甲",
         "deDE": "[fs]Große Halsberge",
         "esES": "[fs]Gran loriga",
@@ -15472,7 +15472,7 @@
     {
         "id": 20356,
         "Key": "upl",
-        "enUS": "Balrog Skin",
+        "enUS": "Balrog Skin [MAX: 517def M]",
         "zhTW": "炎魔皮板甲|精.中ÿc1炎魔甲",
         "deDE": "[ns]Balrogleder",
         "esES": "[fs]Piel de Balrog",
@@ -15489,7 +15489,7 @@
     {
         "id": 20357,
         "Key": "ult",
-        "enUS": "Hellforge Plate",
+        "enUS": "Hellforge Plate [MAX: 530def H]",
         "zhTW": "地獄鍛甲|精.重ÿc1地狱甲",
         "deDE": "[fs]Höllenschmiedenplattenrüstung",
         "esES": "[fs]Coraza de la Fragua del Infierno",
@@ -15506,7 +15506,7 @@
     {
         "id": 20358,
         "Key": "uld",
-        "enUS": "Kraken Shell",
+        "enUS": "Kraken Shell [MAX: 523def M]",
         "zhTW": "海妖殼甲|精.中ÿc1海妖甲",
         "deDE": "[fs]Krakenschale",
         "esES": "[fs]Concha de kraken",
@@ -15523,7 +15523,7 @@
     {
         "id": 20359,
         "Key": "uth",
-        "enUS": "Lacquered Plate",
+        "enUS": "Lacquered Plate [MAX: 541def M]",
         "zhTW": "漆甲|精.中ÿc1漆甲",
         "deDE": "[fs]Lackierte Plattenrüstung",
         "esES": "[fs]Coraza lacada",
@@ -15540,7 +15540,7 @@
     {
         "id": 20360,
         "Key": "uul",
-        "enUS": "Shadow Plate",
+        "enUS": "Shadow Plate [MAX: 557def H]",
         "zhTW": "陰影鎧甲|精.重ÿc1阴影甲",
         "deDE": "[fs]Schattenplattenrüstung",
         "esES": "[fs]Coraza sombría",
@@ -15557,7 +15557,7 @@
     {
         "id": 20361,
         "Key": "uar",
-        "enUS": "Sacred Armor",
+        "enUS": "Sacred Armor [MAX: 600def M]",
         "zhTW": "神聖盔甲|精.中ÿc1SA甲",
         "deDE": "[fs]Heilige Rüstung",
         "esES": "[fs]Armadura sacra",
@@ -15574,7 +15574,7 @@
     {
         "id": 20362,
         "Key": "utp",
-        "enUS": "Archon Plate",
+        "enUS": "Archon Plate [MAX: 524def]",
         "zhTW": "執政官鎧甲|精.轻ÿc1AP甲",
         "deDE": "[fs]Archonplattenrüstung",
         "esES": "[fs]Coraza de arconte",
@@ -15591,7 +15591,7 @@
     {
         "id": 20363,
         "Key": "uuc",
-        "enUS": "Heater",
+        "enUS": "Heater |EL",
         "zhTW": "防寒圓盾|精.轻",
         "deDE": "[ms]Manesseschild",
         "esES": "[ms]Calentador",
@@ -15608,7 +15608,7 @@
     {
         "id": 20364,
         "Key": "uml",
-        "enUS": "Luna",
+        "enUS": "Luna |EL",
         "zhTW": "月精靈護盾|精.轻",
         "deDE": "[fs]Luna",
         "esES": "[fs]Luna",
@@ -15625,7 +15625,7 @@
     {
         "id": 20365,
         "Key": "urg",
-        "enUS": "Hyperion",
+        "enUS": "Hyperion |EL",
         "zhTW": "亥伯龍盾|精.中",
         "deDE": "[ms]Hyperion",
         "esES": "[ms]Hiperión",
@@ -15642,7 +15642,7 @@
     {
         "id": 20366,
         "Key": "uit",
-        "enUS": "Monarch",
+        "enUS": "Monarch |EL",
         "zhTW": "統治者大盾|精.轻ÿc1君主盾",
         "deDE": "[ms]Monarch",
         "esES": "[ms]Monarca",
@@ -15659,7 +15659,7 @@
     {
         "id": 20367,
         "Key": "uow",
-        "enUS": "Aegis",
+        "enUS": "Aegis |EL",
         "zhTW": "聖盾|精.重",
         "deDE": "[fs]Ägis",
         "esES": "[fs]Égida",
@@ -15676,7 +15676,7 @@
     {
         "id": 20368,
         "Key": "uts",
-        "enUS": "Ward",
+        "enUS": "Ward |EL",
         "zhTW": "保護盾牌|精.中",
         "deDE": "[ms]Schutz",
         "esES": "[fs]Custodia",
@@ -15693,7 +15693,7 @@
     {
         "id": 20369,
         "Key": "ulg",
-        "enUS": "Bramble Mitts",
+        "enUS": "Bramble Mitts |EL",
         "zhTW": "荊棘連指手套|精",
         "deDE": "[pl]Dornenhandschuhe",
         "esES": "[mp]Mitones de zarza",
@@ -15710,7 +15710,7 @@
     {
         "id": 20370,
         "Key": "uvg",
-        "enUS": "Vampirebone Gloves",
+        "enUS": "Vampirebone Gloves |EL",
         "zhTW": "吸血鬼骸骨手套|精",
         "deDE": "[pl]Vampirknochenhandschuhe",
         "esES": "[mp]Guantes de hueso de vampiro",
@@ -15727,7 +15727,7 @@
     {
         "id": 20371,
         "Key": "umg",
-        "enUS": "Vambraces",
+        "enUS": "Vambraces |EL",
         "zhTW": "吸血鬼手套|精",
         "deDE": "[pl]Vampirschienen",
         "esES": "[mp]Avambrazos",
@@ -15744,7 +15744,7 @@
     {
         "id": 20372,
         "Key": "utg",
-        "enUS": "Crusader Gauntlets",
+        "enUS": "Crusader Gauntlets |EL",
         "zhTW": "十字軍鐵手套|精",
         "deDE": "[pl]Kreuzritterhandschuhe",
         "esES": "[mp]Guanteletes de cruzada",
@@ -15761,7 +15761,7 @@
     {
         "id": 20373,
         "Key": "uhg",
-        "enUS": "Ogre Gauntlets",
+        "enUS": "Ogre Gauntlets |EL",
         "zhTW": "食人魔鐵手套|精",
         "deDE": "[pl]Ogerhandschuhe",
         "esES": "[mp]Guanteletes de ogro",
@@ -15778,7 +15778,7 @@
     {
         "id": 20374,
         "Key": "ulb",
-        "enUS": "Wyrmhide Boots",
+        "enUS": "Wyrmhide Boots |EL",
         "zhTW": "飛龍皮靴|精",
         "deDE": "[pl]Wyrmlederstiefel",
         "esES": "[fp]Botas de cuero de vermis",
@@ -15795,7 +15795,7 @@
     {
         "id": 20375,
         "Key": "uvb",
-        "enUS": "Scarabshell Boots",
+        "enUS": "Scarabshell Boots |EL",
         "zhTW": "聖甲蟲殼靴|精",
         "deDE": "[pl]Skarabäusschalenstiefel",
         "esES": "[fp]Botas de élitro de alfazaque",
@@ -15812,7 +15812,7 @@
     {
         "id": 20376,
         "Key": "umb",
-        "enUS": "Boneweave Boots",
+        "enUS": "Boneweave Boots |EL",
         "zhTW": "骸骨靴|精",
         "deDE": "[pl]Knochengespinststiefel",
         "esES": "[fp]Botas de hueso",
@@ -15829,7 +15829,7 @@
     {
         "id": 20377,
         "Key": "utb",
-        "enUS": "Mirrored Boots",
+        "enUS": "Mirrored Boots |EL",
         "zhTW": "鏡化靴|精",
         "deDE": "[pl]Verspiegelte Stiefel",
         "esES": "[fp]Botas de espejo",
@@ -15846,7 +15846,7 @@
     {
         "id": 20378,
         "Key": "uhb",
-        "enUS": "Myrmidon Greaves",
+        "enUS": "Myrmidon Greaves |EL",
         "zhTW": "極速靴|精",
         "deDE": "[fs]Myrmidonbeinschienen",
         "esES": "[fp]Grebas de mirmidón",
@@ -15863,7 +15863,7 @@
     {
         "id": 20379,
         "Key": "ulc",
-        "enUS": "Spiderweb Sash",
+        "enUS": "Spiderweb Sash |EL",
         "zhTW": "蛛網腰帶|精",
         "deDE": "[fs]Spinnennetzschärpe",
         "esES": "[ms]Fajín de tela de araña",
@@ -15880,7 +15880,7 @@
     {
         "id": 20380,
         "Key": "uvc",
-        "enUS": "Vampirefang Belt",
+        "enUS": "Vampirefang Belt |EL",
         "zhTW": "吸血鬼燎牙腰帶|精",
         "deDE": "[ms]Vampirzahngürtel",
         "esES": "[ms]Cinturón de colmillo de vampiro",
@@ -15897,7 +15897,7 @@
     {
         "id": 20381,
         "Key": "umc",
-        "enUS": "Mithril Coil",
+        "enUS": "Mithril Coil |EL",
         "zhTW": "祕銀腰帶|精",
         "deDE": "[fs]Mithrilrolle",
         "esES": "[fs]Rosca de mithril",
@@ -15914,7 +15914,7 @@
     {
         "id": 20382,
         "Key": "utc",
-        "enUS": "Troll Belt",
+        "enUS": "Troll Belt |EL",
         "zhTW": "洞穴巨魔腰帶|精",
         "deDE": "[ms]Trollgürtel",
         "esES": "[ms]Cinturón de trol",
@@ -15931,7 +15931,7 @@
     {
         "id": 20383,
         "Key": "uhc",
-        "enUS": "Colossus Girdle",
+        "enUS": "Colossus Girdle |EL",
         "zhTW": "巨神腰帶|精",
         "deDE": "[ms]Kolossgurt",
         "esES": "[fs]Faja del coloso",
@@ -15948,7 +15948,7 @@
     {
         "id": 20384,
         "Key": "uh9",
-        "enUS": "Bone Visage",
+        "enUS": "Bone Visage |EL",
         "zhTW": "骸骨面罩|精",
         "deDE": "[fs]Knochenfratze",
         "esES": "[ms]Semblante de hueso",
@@ -15965,7 +15965,7 @@
     {
         "id": 20385,
         "Key": "ush",
-        "enUS": "Troll Nest",
+        "enUS": "Troll Nest |EL",
         "zhTW": "洞穴巨魔巢穴骨盾|精.轻",
         "deDE": "[ns]Trollnest",
         "esES": "[ms]Nido de troles",
@@ -15982,7 +15982,7 @@
     {
         "id": 20386,
         "Key": "upk",
-        "enUS": "Blade Barrier",
+        "enUS": "Blade Barrier |EL",
         "zhTW": "刀刃刺盾|精.轻",
         "deDE": "[fs]Klingenbarriere",
         "esES": "[fs]Barrera tajante",
@@ -15999,7 +15999,7 @@
     {
         "id": 20387,
         "Key": "dr9",
-        "enUS": "Sacred Feathers",
+        "enUS": "Sacred Feathers |EX",
         "zhTW": "神聖羽毛頭帶|扩",
         "deDE": "[pl]Heilige Federn",
         "esES": "[fp]Plumas sacras",
@@ -16016,7 +16016,7 @@
     {
         "id": 20388,
         "Key": "dr7",
-        "enUS": "Griffon Headdress",
+        "enUS": "Griffon Headdress |EX",
         "zhTW": "獅鷲獸頭帶|扩",
         "deDE": "[ms]Greifenkopfschmuck",
         "esES": "[ms]Tocado de grifo",
@@ -16033,7 +16033,7 @@
     {
         "id": 20389,
         "Key": "dr8",
-        "enUS": "Hunter's Guise",
+        "enUS": "Hunter's Guise |EX",
         "zhTW": "獵人的僞裝|扩",
         "deDE": "[fs]Jägerverkleidung",
         "esES": "[ms]Aspecto del cazador",
@@ -16050,7 +16050,7 @@
     {
         "id": 20390,
         "Key": "dr6",
-        "enUS": "Alpha Helm",
+        "enUS": "Alpha Helm |EX",
         "zhTW": "阿爾發頭盔|扩",
         "deDE": "[ms]Alphahelm",
         "esES": "[ms]Yelmo alfa",
@@ -16067,7 +16067,7 @@
     {
         "id": 20391,
         "Key": "dra",
-        "enUS": "Totemic Mask",
+        "enUS": "Totemic Mask |EX",
         "zhTW": "圖騰面具狼盔|扩",
         "deDE": "[fs]Totemmaske",
         "esES": "[fs]Máscara totémica",
@@ -16084,7 +16084,7 @@
     {
         "id": 20392,
         "Key": "ba6",
-        "enUS": "Jawbone Visor",
+        "enUS": "Jawbone Visor |EX",
         "zhTW": "顎骨面甲|扩",
         "deDE": "[ns]Kieferknochenvisier",
         "esES": "[fs]Visera de mandíbula",
@@ -16101,7 +16101,7 @@
     {
         "id": 20393,
         "Key": "ba7",
-        "enUS": "Lion Helm",
+        "enUS": "Lion Helm |EX",
         "zhTW": "獅頭尖盔|扩",
         "deDE": "[ms]Löwenhelm",
         "esES": "[ms]Yelmo del león",
@@ -16118,7 +16118,7 @@
     {
         "id": 20394,
         "Key": "ba8",
-        "enUS": "Rage Mask",
+        "enUS": "Rage Mask |EX",
         "zhTW": "狂怒面具刺盔|扩",
         "deDE": "[fs]Wutmaske",
         "esES": "[fs]Máscara de la cólera",
@@ -16135,7 +16135,7 @@
     {
         "id": 20395,
         "Key": "ba9",
-        "enUS": "Savage Helmet",
+        "enUS": "Savage Helmet |EX",
         "zhTW": "蠻族頭盔|扩",
         "deDE": "[ms]Wildenhelm",
         "esES": "[ms]Casco salvaje",
@@ -16152,7 +16152,7 @@
     {
         "id": 20396,
         "Key": "baa",
-        "enUS": "Slayer Guard",
+        "enUS": "Slayer Guard |EX",
         "zhTW": "殺手防護面甲|扩",
         "deDE": "[ms]Schlächterschutz",
         "esES": "[fs]Protección exterminadora",
@@ -16169,7 +16169,7 @@
     {
         "id": 20397,
         "Key": "pa6",
-        "enUS": "Akaran Targe",
+        "enUS": "Akaran Targe |EX",
         "zhTW": "亞克南圓盾|扩.轻ÿc1阿卡拉圓盾",
         "deDE": "Akarantarge",
         "esES": "[fs]Adarga de Akaran",
@@ -16186,7 +16186,7 @@
     {
         "id": 20398,
         "Key": "pa7",
-        "enUS": "Akaran Rondache",
+        "enUS": "Akaran Rondache |EX",
         "zhTW": "亞克南輕圓盾|扩.轻ÿc1阿卡拉輕圓盾",
         "deDE": "[fs]Akaranrondache",
         "esES": "[fs]Rodela de Akaran",
@@ -16203,7 +16203,7 @@
     {
         "id": 20399,
         "Key": "pa8",
-        "enUS": "Protector Shield",
+        "enUS": "Protector Shield |EX",
         "zhTW": "防護者盾牌|扩.轻ÿc1守護之盾",
         "deDE": "[ms]Schutzschild",
         "esES": "[ms]Escudo protector",
@@ -16220,7 +16220,7 @@
     {
         "id": 20400,
         "Key": "pa9",
-        "enUS": "Gilded Shield",
+        "enUS": "Gilded Shield |EX",
         "zhTW": "飾金盾牌|扩.轻ÿc1金紋盾",
         "deDE": "[ms]Vergoldeter Schild",
         "esES": "[ms]Escudo dorado",
@@ -16237,7 +16237,7 @@
     {
         "id": 20401,
         "Key": "paa",
-        "enUS": "Royal Shield",
+        "enUS": "Royal Shield |EX",
         "zhTW": "皇家盾牌|扩.轻ÿc1皇家盾",
         "deDE": "[ms]Königlicher Schild",
         "esES": "[ms]Escudo real",
@@ -16254,7 +16254,7 @@
     {
         "id": 20402,
         "Key": "ne6",
-        "enUS": "Mummified Trophy",
+        "enUS": "Mummified Trophy |EX",
         "zhTW": "木乃伊印記|扩.轻",
         "deDE": "[fs]Mumifizierte Trophäe",
         "esES": "[ms]Trofeo momificado",
@@ -16271,7 +16271,7 @@
     {
         "id": 20403,
         "Key": "ne7",
-        "enUS": "Fetish Trophy",
+        "enUS": "Fetish Trophy |EX",
         "zhTW": "物神印記|扩.轻",
         "deDE": "[fs]Fetischtrophäe",
         "esES": "[ms]Trofeo de fetiche",
@@ -16288,7 +16288,7 @@
     {
         "id": 20404,
         "Key": "ne8",
-        "enUS": "Sexton Trophy",
+        "enUS": "Sexton Trophy |EX",
         "zhTW": "司事印記|扩.轻",
         "deDE": "[fs]Sextontrophäe",
         "esES": "[ms]Trofeo de sacristán",
@@ -16305,7 +16305,7 @@
     {
         "id": 20405,
         "Key": "ne9",
-        "enUS": "Cantor Trophy",
+        "enUS": "Cantor Trophy |EX",
         "zhTW": "領唱者印記|扩.轻",
         "deDE": "[fs]Kantortrophäe",
         "esES": "[ms]Trofeo de cantor",
@@ -16322,7 +16322,7 @@
     {
         "id": 20406,
         "Key": "nea",
-        "enUS": "Hierophant Trophy",
+        "enUS": "Hierophant Trophy |EX",
         "zhTW": "祭司印記|扩.轻",
         "deDE": "Hierophanttrophäe",
         "esES": "[ms]Trofeo de hierofante",
@@ -16339,7 +16339,7 @@
     {
         "id": 20407,
         "Key": "dre",
-        "enUS": "Sky Spirit",
+        "enUS": "Sky Spirit |EL",
         "zhTW": "天空之靈|精",
         "deDE": "[ms]Himmelsgeist",
         "esES": "[ms]Espíritu del cielo",
@@ -16356,7 +16356,7 @@
     {
         "id": 20408,
         "Key": "drc",
-        "enUS": "Sun Spirit",
+        "enUS": "Sun Spirit |EL",
         "zhTW": "太陽之靈|精",
         "deDE": "[ms]Sonnengeist",
         "esES": "[ms]Espíritu del sol",
@@ -16373,7 +16373,7 @@
     {
         "id": 20409,
         "Key": "drd",
-        "enUS": "Earth Spirit",
+        "enUS": "Earth Spirit |EL",
         "zhTW": "大地之靈|精",
         "deDE": "[ms]Erdgeist",
         "esES": "[ms]Espíritu de la tierra",
@@ -16390,7 +16390,7 @@
     {
         "id": 20410,
         "Key": "drb",
-        "enUS": "Blood Spirit",
+        "enUS": "Blood Spirit |EL",
         "zhTW": "血腥之靈|精",
         "deDE": "[ms]Blutgeist",
         "esES": "[ms]Espíritu de la sangre",
@@ -16407,7 +16407,7 @@
     {
         "id": 20411,
         "Key": "drf",
-        "enUS": "Dream Spirit",
+        "enUS": "Dream Spirit |EL",
         "zhTW": "幽夢之靈|精",
         "deDE": "[ms]Traumgeist",
         "esES": "[ms]Espíritu del sueño",
@@ -16424,7 +16424,7 @@
     {
         "id": 20412,
         "Key": "bab",
-        "enUS": "Carnage Helm",
+        "enUS": "Carnage Helm |EL",
         "zhTW": "屠殺頭盔|精",
         "deDE": "[ms]Gemetzelhelm",
         "esES": "[ms]Yelmo de carnicería",
@@ -16441,7 +16441,7 @@
     {
         "id": 20413,
         "Key": "bac",
-        "enUS": "Fury Visor",
+        "enUS": "Fury Visor |EL",
         "zhTW": "暴怒面甲|精",
         "deDE": "[ns]Wutvisier",
         "esES": "[fs]Visera de furia",
@@ -16458,7 +16458,7 @@
     {
         "id": 20414,
         "Key": "bad",
-        "enUS": "Destroyer Helm",
+        "enUS": "Destroyer Helm |EL",
         "zhTW": "毀滅者頭盔|精",
         "deDE": "[ms]Zerstörerhelm",
         "esES": "[ms]Yelmo destructor",
@@ -16475,7 +16475,7 @@
     {
         "id": 20415,
         "Key": "bae",
-        "enUS": "Conqueror Crown",
+        "enUS": "Conqueror Crown |EL",
         "zhTW": "征服者皇冠面甲|精",
         "deDE": "Erobererkrone",
         "esES": "[fs]Corona conquistadora",
@@ -16492,7 +16492,7 @@
     {
         "id": 20416,
         "Key": "baf",
-        "enUS": "Guardian Crown",
+        "enUS": "Guardian Crown |EL",
         "zhTW": "守護者皇冠面甲|精",
         "deDE": "[fs]Wächterkrone",
         "esES": "[fs]Corona guardiana",
@@ -16509,7 +16509,7 @@
     {
         "id": 20417,
         "Key": "pab",
-        "enUS": "Sacred Targe",
+        "enUS": "Sacred Targe |EL",
         "zhTW": "神聖小盾|精.轻ÿc1Sacred Targe",
         "deDE": "[fs]Heilige Targe",
         "esES": "[fs]Adarga sacra",
@@ -16526,7 +16526,7 @@
     {
         "id": 20418,
         "Key": "pac",
-        "enUS": "Sacred Rondache",
+        "enUS": "Sacred Rondache |EL",
         "zhTW": "神聖輕圓盾|精.轻ÿc1Sacred Rondache",
         "deDE": "[fs]Heilige Rondache",
         "esES": "[fs]Rodela sacra",
@@ -16543,7 +16543,7 @@
     {
         "id": 20419,
         "Key": "pae",
-        "enUS": "Zakarum Shield",
+        "enUS": "Zakarum Shield |EL",
         "zhTW": "撒卡蘭姆盾牌|精.轻ÿc1Zakarum Shield",
         "deDE": "[ms]Zakarumschild",
         "esES": "[ms]Escudo de Zakarum",
@@ -16560,7 +16560,7 @@
     {
         "id": 20420,
         "Key": "paf",
-        "enUS": "Vortex Shield",
+        "enUS": "Vortex Shield |EL",
         "zhTW": "旋風盾|精.轻ÿc1渦旋盾",
         "deDE": "[ms]Wirbelschild",
         "esES": "[ms]Escudo vórtice",
@@ -16577,7 +16577,7 @@
     {
         "id": 20421,
         "Key": "neb",
-        "enUS": "Minion Skull",
+        "enUS": "Minion Skull |EL",
         "zhTW": "隨侍之骨|精.轻",
         "deDE": "[ms]Dienerschädel",
         "esES": "[ms]Cráneo de esbirro",
@@ -16594,7 +16594,7 @@
     {
         "id": 20422,
         "Key": "nec",
-        "enUS": "Hellspawn Skull",
+        "enUS": "Hellspawn Skull |EL",
         "zhTW": "地獄爪牙之骨|精.轻",
         "deDE": "[ms]Höllenbrutschädel",
         "esES": "[ms]Cráneo del averno",
@@ -16611,7 +16611,7 @@
     {
         "id": 20423,
         "Key": "ned",
-        "enUS": "Overseer Skull",
+        "enUS": "Overseer Skull |EL",
         "zhTW": "監視者之骨|精.轻",
         "deDE": "[ms]Aufseherschädel",
         "esES": "[ms]Cráneo de supervisor",
@@ -16628,7 +16628,7 @@
     {
         "id": 20424,
         "Key": "nee",
-        "enUS": "Succubus Skull",
+        "enUS": "Succubus Skull |EL",
         "zhTW": "女妖之骨|精.轻",
         "deDE": "Sukkubusschädel",
         "esES": "[ms]Cráneo de súcubo",
@@ -16645,7 +16645,7 @@
     {
         "id": 20425,
         "Key": "nef",
-        "enUS": "Bloodlord Skull",
+        "enUS": "Bloodlord Skull |EL",
         "zhTW": "血王之骨|精.轻",
         "deDE": "[ms]Blutlordschädel",
         "esES": "[ms]Cráneo de señor de la sangre",
@@ -16951,7 +16951,7 @@
     {
         "id": 21286,
         "Key": "Coldkill",
-        "enUS": "Coldkill",
+        "enUS": "ÿc1[MAX:190ED]\nÿc4Coldkillÿc9",
         "zhTW": "ÿc1[MAX:190ED]\nÿc4冷殺 ÿc5Coldkillÿc9",
         "deDE": "Kältetod",
         "esES": "Sanguinaria",
@@ -16985,7 +16985,7 @@
     {
         "id": 21288,
         "Key": "Butcher's Pupil",
-        "enUS": "Butcher's Pupil",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Butcher's Pupilÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc:雙熱開荒常說的屠夫就是它。高ed值得升級\nÿc4屠夫之瞳 ÿc5Butcher's Pupilÿc9",
         "deDE": "Schlachtergeselle",
         "esES": "Discípula del carnicero",
@@ -17002,7 +17002,7 @@
     {
         "id": 21289,
         "Key": "Islestrike",
-        "enUS": "Islestrike",
+        "enUS": "ÿc1[MAX:190ED]\nÿc4Islestrikeÿc9",
         "zhTW": "ÿc1[MAX:190ED]\nÿc4島擊 ÿc5Islestrikeÿc9",
         "deDE": "Inselschlag",
         "esES": "Azote de la isla",
@@ -17019,7 +17019,7 @@
     {
         "id": 21290,
         "Key": "Pompe's Wrath",
-        "enUS": "Pompeii's Wrath",
+        "enUS": "ÿc1[MAX:170ED]\nÿc4Pompeii's Wrathÿc9",
         "zhTW": "ÿc1[MAX:170ED]\nÿc4龐貝之怒 ÿc5Pompeii's Wrathÿc9",
         "deDE": "Pompejis Zorn",
         "esES": "Ira de Pompeya",
@@ -17036,7 +17036,7 @@
     {
         "id": 21291,
         "Key": "Guardian Naga",
-        "enUS": "Guardian Naga",
+        "enUS": "ÿc1[MAX:180ED]\nÿc4Guardian Nagaÿc9",
         "zhTW": "ÿc1[MAX:180ED]\nÿc4蛇神守護者 ÿc5Guardian Nagaÿc9",
         "deDE": "Wächter-Dao",
         "esES": "Naga guardiana",
@@ -17070,7 +17070,7 @@
     {
         "id": 21293,
         "Key": "Spellsteel",
-        "enUS": "Spellsteel",
+        "enUS": "ÿc1[MAX:15MDR]\nÿc4Spellsteelÿc9",
         "zhTW": "ÿc1[MAX:15MDR]\nÿc4鋼鐵魔咒 ÿc5Spellsteelÿc9",
         "deDE": "Zauberstahl",
         "esES": "Hechizo de acero",
@@ -17087,7 +17087,7 @@
     {
         "id": 21294,
         "Key": "Stormrider",
-        "enUS": "Stormrider",
+        "enUS": "ÿc1[MAX:20cb(10%)]\nÿc4Stormriderÿc9",
         "zhTW": "ÿc1[MAX:20充能彈(10%)]\nÿc4暴風騎士 ÿc5Stormriderÿc9",
         "deDE": "Sturmreiter",
         "esES": "Jinete de la tormenta",
@@ -17104,7 +17104,7 @@
     {
         "id": 21295,
         "Key": "Boneslayer Blade",
-        "enUS": "Boneslayer Blade",
+        "enUS": "ÿc1[MAX:220ED]\nÿc4Boneslayer Bladeÿc9",
         "zhTW": "ÿc1[MAX:220ED]\nÿc4碎骨者之刃 ÿc5Boneslayer Bladeÿc9",
         "deDE": "Knochenschlächterklinge",
         "esES": "Hacha inmolahuesos",
@@ -17206,7 +17206,7 @@
     {
         "id": 21301,
         "Key": "Dark Clan Crusher",
-        "enUS": "Dark Clan Crusher",
+        "enUS": "ÿc1[MAX:25AR]\nÿc4Dark Clan Crusherÿc9",
         "zhTW": "ÿc1[MAX:25AR]\nÿc4暗族碎滅者 ÿc5Dark Clan Crusherÿc9",
         "deDE": "Zerschmetterer des Dunkelclans",
         "esES": "Aplastador del clan oscuro",
@@ -17257,7 +17257,7 @@
     {
         "id": 21304,
         "Key": "The Fetid Sprinkler",
-        "enUS": "The Fetid Sprinkler",
+        "enUS": "ÿc1[MAX:190ED/200AR]\nÿc4The Fetid Sprinklerÿc9",
         "zhTW": "ÿc1[MAX:190ED/200AR]\nÿc:用途不大，很多新人出了都拿出來問\nÿc4惡臭散布者 ÿc5The Fetid Sprinklerÿc9",
         "deDE": "Der Stinksprinkler",
         "esES": "Hisopo fétido",
@@ -17274,7 +17274,7 @@
     {
         "id": 21305,
         "Key": "Hand of Blessed Light",
-        "enUS": "Hand of Blessed Light",
+        "enUS": "ÿc1[MAX:160ED]\nÿc4Hand of Blessed Lightÿc9",
         "zhTW": "ÿc1[MAX:160ED]\nÿc:用途不大，好多新人開荒都拿出來問\nÿc4祝福之光之手 ÿc5Hand of Blessed Lightÿc9",
         "deDE": "Hand des gesegneten Lichtes",
         "esES": "Mano de luz bendita",
@@ -17291,7 +17291,7 @@
     {
         "id": 21306,
         "Key": "Fleshrender",
-        "enUS": "Fleshrender",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Fleshrenderÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc4血肉裁決者 ÿc5Fleshrenderÿc9",
         "deDE": "Fleischwolf",
         "esES": "Desgarrador de carne",
@@ -17308,7 +17308,7 @@
     {
         "id": 21307,
         "Key": "Sureshrill Frost",
-        "enUS": "Sureshrill Frost",
+        "enUS": "ÿc1[MAX:180ED]\nÿc4Sureshrill Frostÿc9",
         "zhTW": "ÿc1[MAX:180ED]\nÿc4尖嘯冰霜 ÿc5Sureshrill Frostÿc9",
         "deDE": "Schrillfrost",
         "esES": "Escarcha estridente",
@@ -17325,7 +17325,7 @@
     {
         "id": 21308,
         "Key": "Moonfall",
-        "enUS": "Moonfall",
+        "enUS": "ÿc1[MAX:150ED/12MDR]\nÿc4Moonfallÿc9",
         "zhTW": "ÿc1[MAX:150ED/12MDR]\nÿc4月隕 ÿc5Moonfallÿc9",
         "deDE": "Mondfall",
         "esES": "Caída de la luna",
@@ -17376,7 +17376,7 @@
     {
         "id": 21311,
         "Key": "Bloodtree Stump",
-        "enUS": "Bloodtree Stump",
+        "enUS": "ÿc1[MAX:220ED]\nÿc4Bloodtree Stumpÿc9",
         "zhTW": "ÿc1[MAX:220ED]\nÿc4血樹殘株 ÿc5Bloodtree Stumpÿc9",
         "deDE": "Blutbaumstumpf",
         "esES": "Cepa del árbol sangriento",
@@ -17393,7 +17393,7 @@
     {
         "id": 21312,
         "Key": "The Gavel of Pain",
-        "enUS": "The Gavel of Pain",
+        "enUS": "ÿc1[MAX:160ED]\nÿc4The Gavel of Painÿc9",
         "zhTW": "ÿc1[MAX:160ED]\nÿc:打錢蠻子常用\nÿc4痛苦木槌 ÿc5The Gavel of Painÿc9",
         "deDE": "Der Hammer der Schmerzen",
         "esES": "Mazo del dolor",
@@ -17410,7 +17410,7 @@
     {
         "id": 21313,
         "Key": "Bloodletter",
-        "enUS": "Bloodletter",
+        "enUS": "ÿc1[MAX:3ww/4sm]\nÿc4Bloodletterÿc9",
         "zhTW": "ÿc1[MAX:3旋風/4支配長劍]\nÿc:破財劍\nÿc4血書 ÿc5Bloodletterÿc9",
         "deDE": "Blutvergießer",
         "esES": "Flebotomista",
@@ -17444,7 +17444,7 @@
     {
         "id": 21315,
         "Key": "Hexfire",
-        "enUS": "Hexfire",
+        "enUS": "ÿc1[MAX:160ED]\nÿc4Hexfireÿc9",
         "zhTW": "ÿc1[MAX:160ED]\nÿc:強化法師自用\nÿc4六角之火 ÿc5Hexfireÿc9",
         "deDE": "Hexenfeuer",
         "esES": "Fuego maléfico",
@@ -17461,7 +17461,7 @@
     {
         "id": 21316,
         "Key": "Blade of Ali Baba",
-        "enUS": "Blade of Ali Baba",
+        "enUS": "ÿc1[MAX:120ED/15DEX]\nÿc4Blade of Ali Babaÿc9",
         "zhTW": "ÿc1[MAX:120ED/15DEX]\nÿc:馬雲之刃，打錢常用，可鑲2個20號\nÿc4阿里巴巴之刃 ÿc5Blade of Ali Babaÿc9",
         "deDE": "Klinge des Ali Baba",
         "esES": "Espada de Alí Babá",
@@ -17546,7 +17546,7 @@
     {
         "id": 21321,
         "Key": "Crainte Vomir",
-        "enUS": "Crainte Vomir",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Crainte Vomirÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc4克林鐵-弗姆 ÿc5Crainte Vomirÿc9",
         "deDE": "Crainte Vomir",
         "esES": "Crainte Vomir",
@@ -17563,7 +17563,7 @@
     {
         "id": 21322,
         "Key": "Bing Sz Wang",
-        "enUS": "Bing Sz Wang",
+        "enUS": "ÿc1[MAX:160ED]\nÿc4Bing Sz Wangÿc9",
         "zhTW": "ÿc1[MAX:160ED]\nÿc4兵之王 ÿc5Bing Sz Wangÿc9",
         "deDE": "Bing Sz Wang",
         "esES": "Bing Sz Wang",
@@ -17580,7 +17580,7 @@
     {
         "id": 21323,
         "Key": "The Vile Husk",
-        "enUS": "The Vile Husk",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4The Vile Huskÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc:無形的留（kp利器！）給A5傭兵升級後使用，實際用的少\nÿc4卑劣軀殼 ÿc5The Vile Huskÿc9",
         "deDE": "Die böse Schale",
         "esES": "Élitro vil",
@@ -17597,7 +17597,7 @@
     {
         "id": 21324,
         "Key": "Cloudcrack",
-        "enUS": "Cloudcrack",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Cloudcrackÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc4雲裂 ÿc5Cloudcrackÿc9",
         "deDE": "Wolkenbrecher",
         "esES": "Grieta de nube",
@@ -17614,7 +17614,7 @@
     {
         "id": 21325,
         "Key": "Todesfaelle Flamme",
-        "enUS": "Todesfaelle Flamme",
+        "enUS": "ÿc1[MAX:160ED]\nÿc4Todesfaelle Flammeÿc9",
         "zhTW": "ÿc1[MAX:160ED]\nÿc4特迪斯法雷-芙法米 ÿc5Todesfaelle Flammeÿc9",
         "deDE": "Todesfallenflamme",
         "esES": "Todesflamme",
@@ -17631,7 +17631,7 @@
     {
         "id": 21326,
         "Key": "Swordguard",
-        "enUS": "Swordguard",
+        "enUS": "ÿc1[MAX:180ED/20RES]\nÿc4Swordguardÿc9",
         "zhTW": "ÿc1[MAX:180ED/20RES]\nÿc4劍衛 ÿc5Swordguardÿc9",
         "deDE": "Schwertwache",
         "esES": "Espada guardiana",
@@ -17648,7 +17648,7 @@
     {
         "id": 21327,
         "Key": "Spineripper",
-        "enUS": "Spineripper",
+        "enUS": "ÿc1[MAX:240ED]\nÿc4Spineripperÿc9",
         "zhTW": "ÿc1[MAX:240ED]\nÿc4裂脊者 ÿc5Spineripperÿc9",
         "deDE": "Rückenbrecher",
         "esES": "Desgarramédulas",
@@ -17665,7 +17665,7 @@
     {
         "id": 21328,
         "Key": "Heart Carver",
-        "enUS": "Heart Carver",
+        "enUS": "ÿc1[MAX:240ED]\nÿc4Heart Carverÿc9",
         "zhTW": "ÿc1[MAX:240ED]\nÿc4刻心者 ÿc5Heart Carverÿc9",
         "deDE": "Herzausreißer",
         "esES": "Trinchacorazones",
@@ -17716,7 +17716,7 @@
     {
         "id": 21331,
         "Key": "The Impaler",
-        "enUS": "The Impaler",
+        "enUS": "ÿc1[MAX:170ED]\nÿc4The Impalerÿc9",
         "zhTW": "ÿc1[MAX:170ED]\nÿc4穿刺者 ÿc5The Impalerÿc9",
         "deDE": "Der Aufspießer",
         "esES": "La empaladora",
@@ -17733,7 +17733,7 @@
     {
         "id": 21332,
         "Key": "Kelpie Snare",
-        "enUS": "Kelpie Snare",
+        "enUS": "ÿc1[MAX:180ED]\nÿc4Kelpie Snareÿc9",
         "zhTW": "ÿc1[MAX:180ED]\nÿc:俗稱減速叉，巴爾專用振動棒\nÿc4水魔陷阱 ÿc5Kelpie Snareÿc9",
         "deDE": "Kelpiefalle",
         "esES": "Cepo de kelpies",
@@ -17750,7 +17750,7 @@
     {
         "id": 21333,
         "Key": "Soulfeast Tine",
-        "enUS": "Soulfeast Tine",
+        "enUS": "ÿc1[MAX:190ED/250AR]\nÿc4Soulfeast Tineÿc9",
         "zhTW": "ÿc1[MAX:190ED/250AR]\nÿc:用途不大，好多新人出了都拿出來問\nÿc4噬魂叉 ÿc5Soulfeast Tineÿc9",
         "deDE": "Seelenernter",
         "esES": "Diente devoraalmas",
@@ -17767,7 +17767,7 @@
     {
         "id": 21334,
         "Key": "Hone Sundan",
-        "enUS": "Hone Sundan",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Hone Sundanÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc:通常說的hsd就是它，注意無形升級後敏捷需求很高\nÿc4宏-森丹 ÿc5Hone Sundanÿc9",
         "deDE": "Hone Sundan",
         "esES": "Hone sundan",
@@ -17784,7 +17784,7 @@
     {
         "id": 21335,
         "Key": "Spire of Honor",
-        "enUS": "Spire of Honor",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Spire of Honorÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc4榮耀的尖塔 ÿc5Spire of Honorÿc9",
         "deDE": "Spitze der Ehre",
         "esES": "Aguja de honor",
@@ -17801,7 +17801,7 @@
     {
         "id": 21336,
         "Key": "The Meat Scraper",
-        "enUS": "The Meat Scraper",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4The Meat Scraperÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc4刮肉者 ÿc5The Meat Scraperÿc9",
         "deDE": "Der Beinschaber",
         "esES": "Espátula de carne",
@@ -17818,7 +17818,7 @@
     {
         "id": 21337,
         "Key": "Blackleach Blade",
-        "enUS": "Blackleach Blade",
+        "enUS": "ÿc1[MAX:140ED]\nÿc4Blackleach Bladeÿc9",
         "zhTW": "ÿc1[MAX:140ED]\nÿc4黑水之刃 ÿc5Blackleach Bladeÿc9",
         "deDE": "Schwarzegelklinge",
         "esES": "Hoja de filo negro",
@@ -17835,7 +17835,7 @@
     {
         "id": 21338,
         "Key": "Athena's Wrath",
-        "enUS": "Athena's Wrath",
+        "enUS": "ÿc1[MAX:3DRU/180ED]\nÿc4Athena's Wrathÿc9",
         "zhTW": "ÿc1[MAX:3DRU/180ED]\nÿc4阿西娜的忿怒 ÿc5Athena's Wrathÿc9",
         "deDE": "Athenes Zorn",
         "esES": "Ira de Atenea",
@@ -17852,7 +17852,7 @@
     {
         "id": 21339,
         "Key": "Pierre Tombale Couant",
-        "enUS": "Pierre Tombale Couant",
+        "enUS": "ÿc1[MAX:220ED/200AR]\nÿc4Pierre Tombale Couantÿc9",
         "zhTW": "ÿc1[MAX:220ED/200AR]\nÿc:被低估的一把武器，無形升級後實際輸出不俗\nÿc4皮爾-通把-考恩特 ÿc5Pierre Tombale Couantÿc9",
         "deDE": "Pierre Tombale Couant",
         "esES": "Pierre tombale couant",
@@ -17869,7 +17869,7 @@
     {
         "id": 21340,
         "Key": "Husoldal Evo",
-        "enUS": "Husoldal Evo",
+        "enUS": "ÿc1[MAX:200ED/250AR]\nÿc4Husoldal Evoÿc9",
         "zhTW": "ÿc1[MAX:200ED/250AR]\nÿc4胡索丹-依弗 ÿc5Husoldal Evoÿc9",
         "deDE": "Husoldal Evo",
         "esES": "Husoldal evo",
@@ -17886,7 +17886,7 @@
     {
         "id": 21341,
         "Key": "Grim's Burning Dead",
-        "enUS": "Grim's Burning Dead",
+        "enUS": "ÿc1[MAX:180ED/250AR]\nÿc4Grim's Burning Deadÿc9",
         "zhTW": "ÿc1[MAX:180ED/250AR]\nÿc:別以爲加了NEC技能就是他用的\nÿc4驚怖焰亡靈 ÿc5Grim's Burning Deadÿc9",
         "deDE": "Grims Brennender Tod",
         "esES": "La segadora ardiente",
@@ -17903,7 +17903,7 @@
     {
         "id": 21342,
         "Key": "Ribcracker",
-        "enUS": "Ribcracker",
+        "enUS": "ÿc1[MAX:300ED]\nÿc4Ribcrackerÿc9",
         "zhTW": "ÿc1[MAX:300ED]\nÿc:暴力狼過渡武器，通常升級後使用\nÿc4肋骨粉碎者 ÿc5Ribcrackerÿc9",
         "deDE": "Rippenbrecher",
         "esES": "Aplastacostillas",
@@ -17920,7 +17920,7 @@
     {
         "id": 21343,
         "Key": "Chromatic Ire",
-        "enUS": "Chromatic Ire",
+        "enUS": "ÿc1[MAX:25LF/40RES]\nÿc4Chromatic Ireÿc9",
         "zhTW": "ÿc1[MAX:25LF/40RES]\nÿc4五彩的怒氣 ÿc5Chromatic Ireÿc9",
         "deDE": "Wallender Zorn",
         "esES": "Ira cromática",
@@ -17971,7 +17971,7 @@
     {
         "id": 21346,
         "Key": "Skystrike",
-        "enUS": "Skystrike",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Skystrikeÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc4天擊 ÿc5Skystrikeÿc9",
         "deDE": "Himmelsschlag",
         "esES": "Azote celestial",
@@ -17988,7 +17988,7 @@
     {
         "id": 21347,
         "Key": "Kuko Shakaku",
-        "enUS": "Kuko Shakaku",
+        "enUS": "ÿc1[MAX:180ED]\nÿc4Kuko Shakakuÿc9",
         "zhTW": "ÿc1[MAX:180ED]\nÿc:俗稱日本弓，戰網某些刷噩夢牛場升級的常用它\nÿc4社角久子 ÿc5Kuko Shakakuÿc9",
         "deDE": "Kuko Shakaku",
         "esES": "Kuko shakaku",
@@ -18022,7 +18022,7 @@
     {
         "id": 21350,
         "Key": "Godstrike Arch",
-        "enUS": "Goldstrike Arch",
+        "enUS": "ÿc1[MAX:250ED/150AR/200ddmg/200uddmg]\nÿc4Goldstrike Archÿc9",
         "zhTW": "ÿc1[MAX:250ED/150AR/200惡魔傷害/200亡靈傷害]\nÿc:用途不大，天堂拳技能毀了它\nÿc4金擊圓弧 ÿc5Goldstrike Archÿc9",
         "deDE": "Goldschlagbogen",
         "esES": "Arco del azote áureo",
@@ -18039,7 +18039,7 @@
     {
         "id": 21351,
         "Key": "Langer Briser",
-        "enUS": "Langer Briser",
+        "enUS": "ÿc1[MAX:200ED/30MAX/60MF]\nÿc4Langer Briserÿc9",
         "zhTW": "ÿc1[MAX:200ED/30MAX/60MF]\nÿc4蘭格-布里瑟 ÿc5Langer Briserÿc9",
         "deDE": "Langer Briser",
         "esES": "Langer Briser",
@@ -18056,7 +18056,7 @@
     {
         "id": 21352,
         "Key": "Pus Spiter",
-        "enUS": "Pus Spitter",
+        "enUS": "ÿc1[MAX:220ED]\nÿc4Pus Spitterÿc9",
         "zhTW": "ÿc1[MAX:220ED]\nÿc4毒液怪 ÿc5Pus Spitterÿc9",
         "deDE": "Eiterspeier",
         "esES": "Maldad de pus",
@@ -18073,7 +18073,7 @@
     {
         "id": 21353,
         "Key": "Buriza-Do Kyanon",
-        "enUS": "Buriza-Do Kyanon",
+        "enUS": "ÿc1[MAX:200ED/150DEF]\nÿc4Buriza-Do Kyanonÿc9",
         "zhTW": "ÿc1[MAX:200ED/150DEF]\nÿc:俗稱大炮。輸出不俗，弓馬常用弓\nÿc4布理撒-多-凱南 ÿc5Buriza-Do Kyanonÿc9",
         "deDE": "Buriza-Do Kyanon",
         "esES": "Buriza-do kyanon",
@@ -18090,7 +18090,7 @@
     {
         "id": 21354,
         "Key": "Vampiregaze",
-        "enUS": "Vampire Gaze",
+        "enUS": "ÿc1[MAX:8LM/8LL/20DR/15MDR]\nÿc4Vampire Gazeÿc9",
         "zhTW": "ÿc1[MAX:8LM/8LL/20DR/15MDR]\nÿc:物免盔（wmk），一般給傭兵用，無形的更好\nÿc4吸血鬼的凝視 ÿc5Vampire Gazeÿc9",
         "deDE": "Vampirblick",
         "esES": "Mirada de vampiro",
@@ -18107,7 +18107,7 @@
     {
         "id": 21355,
         "Key": "String of Ears",
-        "enUS": "String of Ears",
+        "enUS": "ÿc1[MAX:188def(UP)/8LL/180ED/15DR/15MDR]\nÿc4String of Earsÿc9",
         "zhTW": "ÿc1[MAX:防禦188(UP)/8LL/180ED/15DR/15MDR]\nÿc:109物免腰帶，有心結在它的用途不大了\nÿc4長串之耳 ÿc5String of Earsÿc9",
         "deDE": "Ohrenkette",
         "esES": "Cordel de orejas",
@@ -18124,7 +18124,7 @@
     {
         "id": 21356,
         "Key": "Gorerider",
-        "enUS": "Gore Rider",
+        "enUS": "ÿc1[MAX:213def(UP)/200ED]\nÿc4Gore Riderÿc9",
         "zhTW": "ÿc1[MAX:防禦213(UP)/200ED]\nÿc:cb鞋，肉搏角色利器\nÿc4蝕肉騎士 ÿc5Gore Riderÿc9",
         "deDE": "Blutreiter",
         "esES": "Jinete sangriento",
@@ -18141,7 +18141,7 @@
     {
         "id": 21357,
         "Key": "Lavagout",
-        "enUS": "Lava Gout",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Lava Goutÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc4熔岩角羊 ÿc5Lava Goutÿc9",
         "deDE": "Lavastoß",
         "esES": "Gotas de lava",
@@ -18158,7 +18158,7 @@
     {
         "id": 21358,
         "Key": "Venom Grip",
-        "enUS": "Venom Grip",
+        "enUS": "ÿc1[MAX:160ED/25DEF]\nÿc4Venom Gripÿc9",
         "zhTW": "ÿc1[MAX:160ED/25DEF]\nÿc4劇毒之抓 ÿc5Venom Gripÿc9",
         "deDE": "Giftgriff",
         "esES": "Apretón de la ponzoña",
@@ -18175,7 +18175,7 @@
     {
         "id": 21359,
         "Key": "Visceratuant",
-        "enUS": "Visceratuant",
+        "enUS": "ÿc1[MAX:150ED]\nÿc4Visceratuantÿc9",
         "zhTW": "ÿc1[MAX:150ED]\nÿc4維斯爾坦特 ÿc5Visceratuantÿc9",
         "deDE": "Eingeweidebeißer",
         "esES": "Visceratuant",
@@ -18192,7 +18192,7 @@
     {
         "id": 21360,
         "Key": "Guardian Angle",
-        "enUS": "Guardian Angel",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Guardian Angleÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc:自用情況居多\nÿc9守護天使ÿc8",
         "deDE": "Schutzengel",
         "esES": "Ángel guardián",
@@ -18209,7 +18209,7 @@
     {
         "id": 21361,
         "Key": "Shaftstop",
-        "enUS": "Shaftstop",
+        "enUS": "ÿc1[MAX:2422def(ETHUP)/220ED]\nÿc4Shaftstopÿc9",
         "zhTW": "ÿc1[MAX:防禦2422(ETHUP)/220ED]\nÿc:109物免甲（wmj），米山過渡可用\nÿc4謝夫特斯坦布 ÿc5Shaftstopÿc9",
         "deDE": "Schaftstopper",
         "esES": "Óbice troncal",
@@ -18226,7 +18226,7 @@
     {
         "id": 21362,
         "Key": "Skin of the Vipermagi",
-        "enUS": "Skin of the Vipermagi",
+        "enUS": "ÿc1[MAX:1034def(UP)/35RES/13MDR]\nÿc4Skin of the Vipermagiÿc9",
         "zhTW": "ÿc1[MAX:防禦1034(UP)/35RES/13MDR]\nÿc:法術系角色好用，35r滿防的可升級\nÿc4蛇魔法師之皮 ÿc5Skin of the Vipermagiÿc9",
         "deDE": "Haut des Vipernmagiers",
         "esES": "Piel de mago viperino",
@@ -18260,7 +18260,7 @@
     {
         "id": 21364,
         "Key": "Valkiry Wing",
-        "enUS": "Valkyrie Wing",
+        "enUS": "ÿc1[MAX:2Skill/200ED/4EK]\nÿc4Valkyrie Wingÿc9",
         "zhTW": "ÿc1[MAX:2Skill/200ED/4EK]\nÿc:窮人亞馬遜殺牛（kc）專用\nÿc4女神之翼 ÿc5Valkyrie Wingÿc9",
         "deDE": "Walkürenflügel",
         "esES": "Ala de valquiria",
@@ -18277,7 +18277,7 @@
     {
         "id": 21365,
         "Key": "Peasent Crown",
-        "enUS": "Peasant Crown",
+        "enUS": "ÿc1[MAX:12REP]\nÿc4Peasant Crownÿc9",
         "zhTW": "ÿc1[MAX:12REP]\nÿc:京子常用，物理系也可過渡時使用\nÿc4粗野之冠 ÿc5Peasant Crownÿc9",
         "deDE": "Bauernkrone",
         "esES": "Corona campesina",
@@ -18311,7 +18311,7 @@
     {
         "id": 21367,
         "Key": "Magewrath",
-        "enUS": "Magewrath",
+        "enUS": "ÿc1[MAX:150ED/250AR/13MDR]\nÿc4Magewrathÿc9",
         "zhTW": "ÿc1[MAX:150ED/250AR/13MDR]\nÿc4巫師之怒 ÿc5Magewrathÿc9",
         "deDE": "Magierzorn",
         "esES": "Ira del mago",
@@ -18328,7 +18328,7 @@
     {
         "id": 21368,
         "Key": "Cliffkiller",
-        "enUS": "Cliffkiller",
+        "enUS": "ÿc1[MAX:230ED/10-30DAM]\nÿc4Cliffkillerÿc9",
         "zhTW": "ÿc1[MAX:230ED/10-30DAM]\nÿc4岩壁殺手 ÿc5Cliffkillerÿc9",
         "deDE": "Klippentöter",
         "esES": "Asesino del acantilado",
@@ -18345,7 +18345,7 @@
     {
         "id": 21369,
         "Key": "Riphook",
-        "enUS": "Riphook",
+        "enUS": "ÿc1[MAX:220ED/10LL]\nÿc4Riphookÿc9",
         "zhTW": "ÿc1[MAX:220ED/10LL]\nÿc4撕裂之鉤 ÿc5Riphookÿc9",
         "deDE": "Reißhaken",
         "esES": "Garfio desgarrador",
@@ -18396,7 +18396,7 @@
     {
         "id": 21372,
         "Key": "Coldsteel Eye",
-        "enUS": "Coldsteel Eye",
+        "enUS": "ÿc1[MAX:250ED]\nÿc4Coldsteel Eyeÿc9",
         "zhTW": "ÿc1[MAX:250ED]\nÿc4冰鋼之眼 ÿc5Coldsteel Eyeÿc9",
         "deDE": "Kältestahlauge",
         "esES": "Ojo de acero frío",
@@ -18447,7 +18447,7 @@
     {
         "id": 21375,
         "Key": "Ondal's Wisdom",
-        "enUS": "Ondal's Wisdom",
+        "enUS": "ÿc1[MAX:4Skill/550DEF/50ENG/8MDR]\nÿc4Ondal's Wisdomÿc9",
         "zhTW": "ÿc1[MAX:4Skill/550DEF/50ENG/8MDR]\nÿc:俗稱經驗杖，戰網混kb的人手一把，單機意義不大，收藏\nÿc4安戴爾的智慧 ÿc5Ondal's Wisdomÿc9",
         "deDE": "Ondals Weisheit",
         "esES": "Sabiduría de Ondal",
@@ -18515,7 +18515,7 @@
     {
         "id": 21379,
         "Key": "Deathbit",
-        "enUS": "Deathbit",
+        "enUS": "ÿc1[MAX:180ED/450AR/6LM/9LL]\nÿc4Deathbitÿc9",
         "zhTW": "ÿc1[MAX:180ED/450AR/6LM/9LL]\nÿc4死亡碎片 ÿc5Deathbitÿc9",
         "deDE": "Todesbiss",
         "esES": "Trozo de muerte",
@@ -18532,7 +18532,7 @@
     {
         "id": 21380,
         "Key": "Warshrike",
-        "enUS": "Warshrike",
+        "enUS": "ÿc1[MAX:250ED]\nÿc4Warshrikeÿc9",
         "zhTW": "ÿc1[MAX:250ED]\nÿc:無形的可能有人要（投擲型野蠻人）\nÿc4戰爭之鳥 ÿc5Warshrikeÿc9",
         "deDE": "Kriegswürger",
         "esES": "Alcaudón guerrero",
@@ -18549,7 +18549,7 @@
     {
         "id": 21381,
         "Key": "Gutsiphon",
-        "enUS": "Gut Siphon",
+        "enUS": "ÿc1[MAX:220ED/18LL]\nÿc4Gut Siphonÿc9",
         "zhTW": "ÿc1[MAX:220ED/18LL]\nÿc4內臟吸管 ÿc5Gut Siphonÿc9",
         "deDE": "Gedärmesauger",
         "esES": "Sifón de tripas",
@@ -18566,7 +18566,7 @@
     {
         "id": 21382,
         "Key": "Razoredge",
-        "enUS": "Razor's Edge",
+        "enUS": "ÿc1[MAX:225ED]\nÿc4Razor's Edgeÿc9",
         "zhTW": "ÿc1[MAX:225ED]\nÿc4刀鋒邊緣 ÿc5Razor's Edgeÿc9",
         "deDE": "Messers Schneide",
         "esES": "Filo de cuchilla",
@@ -18651,7 +18651,7 @@
     {
         "id": 21387,
         "Key": "Demonlimb",
-        "enUS": "Demon Limb",
+        "enUS": "ÿc1[MAX:230ED/13LL/20FR]\nÿc4Demon Limbÿc9",
         "zhTW": "ÿc1[MAX:230ED/13LL/20FR]\nÿc:俗稱燒火棍，近戰AR不夠時副手可帶它強化\nÿc4惡魔爪牙 ÿc5Demon Limbÿc9",
         "deDE": "Dämonenglied",
         "esES": "Extremidad demoníaca",
@@ -18668,7 +18668,7 @@
     {
         "id": 21388,
         "Key": "Steelshade",
-        "enUS": "Steel Shade",
+        "enUS": "ÿc1[MAX:8LM/130ED/18REP/11fa]\nÿc4Steel Shadeÿc9",
         "zhTW": "ÿc1[MAX:8LM/130ED/18REP/火焰吸收11]\nÿc4鋼影 ÿc5Steel Shadeÿc9",
         "deDE": "Stahlschatten",
         "esES": "Sombra de acero",
@@ -18685,7 +18685,7 @@
     {
         "id": 21389,
         "Key": "Tomb Reaver",
-        "enUS": "Tomb Reaver",
+        "enUS": "ÿc1[MAX:280ED/230uddmg/350udar/50RES/14LK/80MF/3S]\nÿc4Tomb Reaverÿc9",
         "zhTW": "ÿc1[MAX:280ED/230亡靈傷害/350亡靈準確/50RES/14LK/80MF/3S]\nÿc:俗稱大妹子，狼德終極神兵。無形3孔的值得鑲嵌33.滿變至今無人打出\nÿc4盜墓者 ÿc5Tomb Reaverÿc9",
         "deDE": "Grabräuber",
         "esES": "Asaltatumbas",
@@ -18770,7 +18770,7 @@
     {
         "id": 21394,
         "Key": "The Reedeemer",
-        "enUS": "The Redeemer",
+        "enUS": "ÿc1[MAX:300ED/120DAM/250ddmg/4red/4hb]\nÿc4The Redeemerÿc9",
         "zhTW": "ÿc1[MAX:300ED/120DAM/250惡魔傷害/4救贖/4聖光彈]\nÿc:天堂的弟弟，通常拿來貼吧騙精用\nÿc4懺悔者 ÿc5The Redeemerÿc9",
         "deDE": "Der Erlöser",
         "esES": "El redentor",
@@ -18838,7 +18838,7 @@
     {
         "id": 21398,
         "Key": "Bonehew",
-        "enUS": "Bonehew",
+        "enUS": "ÿc1[MAX:320ED]\nÿc4Bonehewÿc9",
         "zhTW": "ÿc1[MAX:320ED]\nÿc:破骨 Bonehew\nÿc4破骨 ÿc5Bonehewÿc9",
         "deDE": "Knochenhacker",
         "esES": "Tallahuesos",
@@ -18855,7 +18855,7 @@
     {
         "id": 21399,
         "Key": "Steelrend",
-        "enUS": "Steelrend",
+        "enUS": "ÿc1[MAX:281def/60ED/210DEF/20STR]\nÿc4Steelrendÿc9",
         "zhTW": "ÿc1[MAX:防禦281/60ED/210DEF/20STR]\nÿc:20大，恭喜。收藏用，武學刺也能拿來用\nÿc4碎鋼 ÿc5Steelrendÿc9",
         "deDE": "Stahlhäcksler",
         "esES": "Desgarradores de acero",
@@ -18872,7 +18872,7 @@
     {
         "id": 21400,
         "Key": "Stone Crusher",
-        "enUS": "Stone Crusher",
+        "enUS": "ÿc1[MAX:320ED/30DAM/30STR]\nÿc4Stone Crusherÿc9",
         "zhTW": "ÿc1[MAX:320ED/30DAM/30STR]\nÿc4碎石者 ÿc5Stone Crusherÿc9",
         "deDE": "Zermalmer",
         "esES": "Machacapiedras",
@@ -18906,7 +18906,7 @@
     {
         "id": 21402,
         "Key": "Arioc's Needle",
-        "enUS": "Arioc's Needle",
+        "enUS": "ÿc1[MAX:4Skill/230ED]\nÿc4Arioc's Needleÿc9",
         "zhTW": "ÿc1[MAX:4Skill/230ED]\nÿc:愛針就是它。無形4技能輸出不俗，撐技能亦可\nÿc4艾理歐克之針 ÿc5Arioc's Needleÿc9",
         "deDE": "Ariocs Nadel",
         "esES": "Aguja de Arioc",
@@ -18923,7 +18923,7 @@
     {
         "id": 21403,
         "Key": "Shadowdancer",
-        "enUS": "Shadow Dancer",
+        "enUS": "ÿc1[MAX:2sha/100ED/25DEX]\nÿc4Shadow Dancerÿc9",
         "zhTW": "ÿc1[MAX:2影子/100ED/25DEX]\nÿc:鸚鵡就是它，武學刺必備，20大之一\nÿc4影舞者 ÿc5Shadow Dancerÿc9",
         "deDE": "Schattentänzer",
         "esES": "Bailarín sombrío",
@@ -18991,7 +18991,7 @@
     {
         "id": 21407,
         "Key": "Souldrain",
-        "enUS": "Soul Drainer",
+        "enUS": "ÿc1[MAX:7LM/7LL/120ED]\nÿc4Soul Drainerÿc9",
         "zhTW": "ÿc1[MAX:7LM/7LL/120ED]\nÿc4吸魂者 ÿc5Soul Drainerÿc9",
         "deDE": "Seelensauger",
         "esES": "Drenadores de almas",
@@ -19008,7 +19008,7 @@
     {
         "id": 21408,
         "Key": "Runemaster",
-        "enUS": "Rune Master",
+        "enUS": "ÿc1[MAX:270ED/5S]\nÿc4Rune Masterÿc9",
         "zhTW": "ÿc1[MAX:270ED/5S]\nÿc:土豪玩物，無形5s的收藏一把即可\nÿc4符文大師 ÿc5Rune Masterÿc9",
         "deDE": "Runenmeister",
         "esES": "Maestra rúnica",
@@ -19025,7 +19025,7 @@
     {
         "id": 21409,
         "Key": "Deathcleaver",
-        "enUS": "Death Cleaver",
+        "enUS": "ÿc1[MAX:280ED/9LK]\nÿc4Death Cleaverÿc9",
         "zhTW": "ÿc1[MAX:280ED/9LK]\nÿc:20大之一，恭喜。\nÿc4死亡之刀 ÿc5Death Cleaverÿc9",
         "deDE": "Todesbeil",
         "esES": "Tajadera mortal",
@@ -19042,7 +19042,7 @@
     {
         "id": 21410,
         "Key": "Executioner's Justice",
-        "enUS": "Executioner's Justice",
+        "enUS": "ÿc1[MAX:290ED]\nÿc4Executioner's Justiceÿc9",
         "zhTW": "ÿc1[MAX:290ED]\nÿc:20大之一，收藏\nÿc4劊子手的裁決 ÿc5Executioner's Justiceÿc9",
         "deDE": "Henkers Gerechtigkeit",
         "esES": "Justicia del verdugo",
@@ -19076,7 +19076,7 @@
     {
         "id": 21412,
         "Key": "Leviathan",
-        "enUS": "Leviathan",
+        "enUS": "ÿc1[MAX:200ED/150DEF/50STR/25DR]\nÿc4Leviathanÿc9",
         "zhTW": "ÿc1[MAX:200ED/150DEF/50STR/25DR]\nÿc:110物免甲，米山過渡穿穿，多用於收藏，不要也行\nÿc4海王利維亞桑 ÿc5Leviathanÿc9",
         "deDE": "Leviathan",
         "esES": "Leviatán",
@@ -19161,7 +19161,7 @@
     {
         "id": 21417,
         "Key": "Wisp",
-        "enUS": "Wisp Projector",
+        "enUS": "ÿc1[MAX:20la/20MF]\nÿc4Wisp Projectorÿc9",
         "zhTW": "ÿc1[MAX:20閃電吸收/20MF]\nÿc:戰網賣的貴，單機混王座有奇效\nÿc4鬼火投射者 ÿc5Wisp Projectorÿc9",
         "deDE": "Irrlichtprojektor",
         "esES": "Proyector de fuego fatuo",
@@ -19178,7 +19178,7 @@
     {
         "id": 21418,
         "Key": "Gargoyle's Bite",
-        "enUS": "Gargoyle's Bite",
+        "enUS": "ÿc1[MAX:230ED/15LL]\nÿc4Gargoyle's Biteÿc9",
         "zhTW": "ÿc1[MAX:230ED/15LL]\nÿc:20大之一，收藏\nÿc4石像鬼之噬 ÿc5Gargoyle's Biteÿc9",
         "deDE": "Gargoylebiss",
         "esES": "Mordisco de la gárgola",
@@ -19195,7 +19195,7 @@
     {
         "id": 21419,
         "Key": "Lacerator",
-        "enUS": "Lacerator",
+        "enUS": "ÿc1[MAX:210ED]\nÿc4Laceratorÿc9",
         "zhTW": "ÿc1[MAX:210ED]\nÿc:無形的或許有人要，還是很犀利的\nÿc4撕裂者 ÿc5Laceratorÿc9",
         "deDE": "Zerfleischer",
         "esES": "Laceradora",
@@ -19212,7 +19212,7 @@
     {
         "id": 21420,
         "Key": "Mang Song's Lesson",
-        "enUS": "Mang Song's Lesson",
+        "enUS": "ÿc1[MAX:-15LR/-15FR/-15CR]\nÿc4Mang Song's Lessonÿc9",
         "zhTW": "ÿc1[MAX:-15LR/-15FR/-15CR]\nÿc:20大之一，好多人的怨念物，5全技能，恭喜\nÿc4梅格之歌的教訓 ÿc5Mang Song's Lessonÿc9",
         "deDE": "Mang Songs Lektion",
         "esES": "Lección de Mang Song",
@@ -19229,7 +19229,7 @@
     {
         "id": 21421,
         "Key": "Viperfork",
-        "enUS": "Viperfork",
+        "enUS": "ÿc1[MAX:240ED/250AR/50PR]\nÿc4Viperforkÿc9",
         "zhTW": "ÿc1[MAX:240ED/250AR/50PR]\nÿc:用途不大，好多新人出了都拿出來問\nÿc4蝮蛇叉 ÿc5Viperforkÿc9",
         "deDE": "Viperngabel",
         "esES": "Horquilla viperina",
@@ -19297,7 +19297,7 @@
     {
         "id": 21425,
         "Key": "Demonhorn's Edge",
-        "enUS": "Demonhorn's Edge",
+        "enUS": "ÿc1[MAX:3/3/3/6LL/160ED/77atd]\nÿc4Demonhorn's Edgeÿc9",
         "zhTW": "ÿc1[MAX:3/3/3/6LL/160ED/77反彈]\nÿc4惡魔號角的邊緣 ÿc5Demonhorn's Edgeÿc9",
         "deDE": "Dämonenhorns Schneide",
         "esES": "Filo del cuerno del demonio",
@@ -19331,7 +19331,7 @@
     {
         "id": 21427,
         "Key": "The Reaper's Toll",
-        "enUS": "The Reaper's Toll",
+        "enUS": "ÿc1[MAX:240ED/15LL]\nÿc4The Reaper's Tollÿc9",
         "zhTW": "ÿc1[MAX:240ED/15LL]\nÿc:物理系破免必備，米山神兵之一，出了它趕緊拿來水經驗\nÿc4死神的喪鐘 ÿc5The Reaper's Tollÿc9",
         "deDE": "Schnitters Tribut",
         "esES": "El peaje del segador",
@@ -19348,7 +19348,7 @@
     {
         "id": 21428,
         "Key": "Spiritkeeper",
-        "enUS": "Spirit Keeper",
+        "enUS": "ÿc1[MAX:2Skill/190ED/40FR/14la/25ca]\nÿc4Spirit Keeperÿc9",
         "zhTW": "ÿc1[MAX:2Skill/190ED/40FR/14閃電吸收/25寒冷吸收]\nÿc:收藏品，用途不大\nÿc4靈魂看守者 ÿc5Spirit Keeperÿc9",
         "deDE": "Geistwächter",
         "esES": "Guardián de los espíritus",
@@ -19365,7 +19365,7 @@
     {
         "id": 21429,
         "Key": "Hellrack",
-        "enUS": "Hellrack",
+        "enUS": "ÿc1[MAX:230ED/150AR]\nÿc4Hellrackÿc9",
         "zhTW": "ÿc1[MAX:230ED/150AR]\nÿc:不如大炮，沒啥大用。可N\nÿc4地獄拷問 ÿc5Hellrackÿc9",
         "deDE": "Höllenplage",
         "esES": "Potro infernal",
@@ -19382,7 +19382,7 @@
     {
         "id": 21430,
         "Key": "Alma Negra",
-        "enUS": "Alma Negra",
+        "enUS": "ÿc1[MAX:2Skill/75/75/210/9]\nÿc4Alma Negraÿc9",
         "zhTW": "ÿc1[MAX:2Skill/75/75/210/9]\nÿc:名字好聽，用途不大，可N\nÿc4阿爾瑪-尼格拉 ÿc5Alma Negraÿc9",
         "deDE": "Alma Negra",
         "esES": "Alma negra",
@@ -19399,7 +19399,7 @@
     {
         "id": 21431,
         "Key": "Darkforge Spawn",
-        "enUS": "Darkforce Spawn",
+        "enUS": "ÿc1[MAX:3/3/3/180ED]\nÿc4Darkforce Spawnÿc9",
         "zhTW": "ÿc1[MAX:3/3/3/180ED]\nÿc:20大之一，收藏爲主，有些毒招也拿它湊檔\nÿc4魔力肇生 ÿc5Darkforce Spawnÿc9",
         "deDE": "Brut der Dunkelmacht",
         "esES": "Engendro de fuerza oscura",
@@ -19518,7 +19518,7 @@
     {
         "id": 21438,
         "Key": "Ghostflame",
-        "enUS": "Ghostflame",
+        "enUS": "ÿc1[MAX:240ED/15LM]\nÿc4Ghostflameÿc9",
         "zhTW": "ÿc1[MAX:240ED/15LM]\nÿc:20大之一，收藏\nÿc4鬼火焰 ÿc5Ghostflameÿc9",
         "deDE": "Geisterflamme",
         "esES": "Llama fantasmal",
@@ -19535,7 +19535,7 @@
     {
         "id": 21439,
         "Key": "Shadowkiller",
-        "enUS": "Shadow Killer",
+        "enUS": "ÿc1[MAX:220ED/15EK]\nÿc4Shadow Killerÿc9",
         "zhTW": "ÿc1[MAX:220ED/15EK]\nÿc:用途不大，可N\nÿc4影殺者 ÿc5Shadow Killerÿc9",
         "deDE": "Schattentöter",
         "esES": "Asesino sombrío",
@@ -19586,7 +19586,7 @@
     {
         "id": 21442,
         "Key": "Griffon's Eye",
-        "enUS": "Griffon's Eye",
+        "enUS": "ÿc1[MAX:260def/-20LR/15LD/200DEF]\nÿc4Griffon's Eyeÿc9",
         "zhTW": "ÿc1[MAX:防禦260/-20LR/15LD/200DEF]\nÿc:四神器之一，電系練法必備，出了無形請自掛東南枝\nÿc4格利風之眼 ÿc5Griffon's Eyeÿc9",
         "deDE": "Greifenauge",
         "esES": "Ojo del grifo",
@@ -19620,7 +19620,7 @@
     {
         "id": 21444,
         "Key": "Windhammer",
-        "enUS": "Windhammer",
+        "enUS": "ÿc1[MAX:230ED]\nÿc4Windhammerÿc9",
         "zhTW": "ÿc1[MAX:230ED]\nÿc:用途不大，狼德過渡用用，可N\nÿc4風之錘 ÿc5Windhammerÿc9",
         "deDE": "Windhammer",
         "esES": "Martillo de viento",
@@ -19637,7 +19637,7 @@
     {
         "id": 21445,
         "Key": "Thunderstroke",
-        "enUS": "Thunderstroke",
+        "enUS": "ÿc1[MAX:4sk/200ED]\nÿc4Thunderstrokeÿc9",
         "zhTW": "ÿc1[MAX:4鏢槍/200ED]\nÿc:用途不大，可N，無形好變量的可留一把收藏\nÿc4雷擊 ÿc5Thunderstrokeÿc9",
         "deDE": "Donnerschlag",
         "esES": "Azote de trueno",
@@ -19671,7 +19671,7 @@
     {
         "id": 21447,
         "Key": "Demon's Arch",
-        "enUS": "Demon's Arch",
+        "enUS": "ÿc1[MAX:210ED/12LL]\nÿc4Demon's Archÿc9",
         "zhTW": "ÿc1[MAX:210ED/12LL]\nÿc4惡魔之王 ÿc5Demon's Archÿc9",
         "deDE": "Dämonenspeer",
         "esES": "Arco del demonio",
@@ -19688,7 +19688,7 @@
     {
         "id": 21448,
         "Key": "The Scalper",
-        "enUS": "The Scalper",
+        "enUS": "ÿc1[MAX:200ED/6LL]\nÿc4The Scalperÿc9",
         "zhTW": "ÿc1[MAX:200ED/6LL]\nÿc4圓鑿 ÿc5The Scalperÿc9",
         "deDE": "Der Skalpierer",
         "esES": "Arrancacabelleras",
@@ -19705,7 +19705,7 @@
     {
         "id": 21449,
         "Key": "Bloodmoon",
-        "enUS": "Bloodmoon",
+        "enUS": "ÿc1[MAX:260ED/15LL/13LK]\nÿc4Bloodmoonÿc9",
         "zhTW": "ÿc1[MAX:260ED/15LL/13LK]\nÿc4血月 ÿc5Bloodmoonÿc9",
         "deDE": "Blutmond",
         "esES": "Luna sangrienta",
@@ -19722,7 +19722,7 @@
     {
         "id": 21450,
         "Key": "Djinnslayer",
-        "enUS": "Djinn Slayer",
+        "enUS": "ÿc1[MAX:240ED/150ddmg/300dar/6LM/7la/2S]\nÿc4Djinn Slayerÿc9",
         "zhTW": "ÿc1[MAX:240ED/150惡魔傷害/300惡魔準確/6LM/7閃電吸收/2S]\nÿc4魔靈殺手 ÿc5Djinn Slayerÿc9",
         "deDE": "Dschinnschlächter",
         "esES": "Exterminagenios",
@@ -19739,7 +19739,7 @@
     {
         "id": 21451,
         "Key": "Cranebeak",
-        "enUS": "Cranebeak",
+        "enUS": "ÿc1[MAX:300ED/50MF]\nÿc4Cranebeakÿc9",
         "zhTW": "ÿc1[MAX:300ED/50MF]\nÿc4鶴嘴 ÿc5Cranebeakÿc9",
         "deDE": "Kranichschnabel",
         "esES": "Pico de grulla",
@@ -19807,7 +19807,7 @@
     {
         "id": 21455,
         "Key": "Headhunter's Glory",
-        "enUS": "Head Hunter's Glory",
+        "enUS": "ÿc1[MAX:593def/420DEF/350rdef/30FR/40PR/7LK/3S]\nÿc4Head Hunter's Gloryÿc9",
         "zhTW": "ÿc1[MAX:防禦593/420DEF/350遠程防禦/30FR/40PR/7LK/3S]\nÿc:自己開發着用用，3s可自行diy\nÿc4獵頭人的榮耀 ÿc5Head Hunter's Gloryÿc9",
         "deDE": "Kopfjägers Ruhm",
         "esES": "Gloria del cazarrecompensas",
@@ -19909,7 +19909,7 @@
     {
         "id": 21461,
         "Key": "Earthshifter",
-        "enUS": "Earth Shifter",
+        "enUS": "ÿc1[MAX:300ED]\nÿc4Earth Shifterÿc9",
         "zhTW": "ÿc1[MAX:300ED]\nÿc:20大之一，收藏\nÿc4大地變形者 ÿc5Earth Shifterÿc9",
         "deDE": "Erdschieber",
         "esES": "Desplazatierras",
@@ -19926,7 +19926,7 @@
     {
         "id": 21462,
         "Key": "Nature's Peace",
-        "enUS": "Nature's Peace",
+        "enUS": "ÿc1[MAX:30PR/11DR]\nÿc4Nature's Peaceÿc9",
         "zhTW": "ÿc1[MAX:30PR/11DR]\nÿc:K尼拉塞克時候用的多，防止怪物復活的\nÿc4大自然的和平 ÿc5Nature's Peaceÿc9",
         "deDE": "Friede der Natur",
         "esES": "Paz de la naturaleza",
@@ -19960,7 +19960,7 @@
     {
         "id": 21464,
         "Key": "Seraph's Hymn",
-        "enUS": "Seraph's Hymn",
+        "enUS": "ÿc1[MAX:2aura/50/250/50/250]\nÿc4Seraph's Hymnÿc9",
         "zhTW": "ÿc1[MAX:2靈氣/50/250/50/250]\nÿc:收藏用，實際用途不大\nÿc4熾天使之韻 ÿc5Seraph's Hymnÿc9",
         "deDE": "Seraphims Psalm",
         "esES": "Himno del serafín",
@@ -19994,7 +19994,7 @@
     {
         "id": 21466,
         "Key": "Fleshripper",
-        "enUS": "Fleshripper",
+        "enUS": "ÿc1[MAX:300ED]\nÿc4Fleshripperÿc9",
         "zhTW": "ÿc1[MAX:300ED]\nÿc:可拿來K6用\nÿc4裂肉者 ÿc5Fleshripperÿc9",
         "deDE": "Fleischreißer",
         "esES": "Desgarracarnes",
@@ -20045,7 +20045,7 @@
     {
         "id": 21469,
         "Key": "Horizon's Tornado",
-        "enUS": "Horizon's Tornado",
+        "enUS": "ÿc1[MAX:280ED]\nÿc4Horizon's Tornadoÿc9",
         "zhTW": "ÿc1[MAX:280ED]\nÿc:風結的弟弟，人品失敗的產物\nÿc4地平線的颱風 ÿc5Horizon's Tornadoÿc9",
         "deDE": "Horazons Tornado",
         "esES": "Tornado en el horizonte",
@@ -20062,7 +20062,7 @@
     {
         "id": 21470,
         "Key": "Nord's Tenderizer",
-        "enUS": "Nord's Tenderizer",
+        "enUS": "ÿc1[MAX:330ED/180AR/4fro/15ca]\nÿc4Nord's Tenderizerÿc9",
         "zhTW": "ÿc1[MAX:330ED/180AR/4凍結目標/15寒冷吸收]\nÿc:用途不大，可N\nÿc4諾德的蝕肉藥 ÿc5Nord's Tenderizerÿc9",
         "deDE": "Nords Weichklopfer",
         "esES": "Ablandadora de Nord",
@@ -20113,7 +20113,7 @@
     {
         "id": 21473,
         "Key": "Jadetalon",
-        "enUS": "Jade Talon",
+        "enUS": "ÿc1[MAX:2mat/2sha/240ED/15LM/50RES]\nÿc4Jade Talonÿc9",
         "zhTW": "ÿc1[MAX:2武學/2影子/240ED/15LM/50RES]\nÿc:覺得缺抗的用用，實際用的不多\nÿc4碧玉爪 ÿc5Jade Talonÿc9",
         "deDE": "Jadeklaue",
         "esES": "Garfa de jade",
@@ -20164,7 +20164,7 @@
     {
         "id": 21476,
         "Key": "Cerebus",
-        "enUS": "Cerebus' Bite",
+        "enUS": "ÿc1[MAX:4sha/120AR/10LL/2fer/140ED]\nÿc4Cerebus' Biteÿc9",
         "zhTW": "ÿc1[MAX:4變形/120AR/10LL/2野性狂暴/140ED]\nÿc:不如狗頭，用途不大，可N或留個好的收藏\nÿc4地獄之吻 ÿc5Cerebus' Biteÿc9",
         "deDE": "Zerebus' Biss",
         "esES": "Mordisco de Cerebus",
@@ -20266,7 +20266,7 @@
     {
         "id": 21482,
         "Key": "Stoneraven",
-        "enUS": "Stoneraven",
+        "enUS": "ÿc1[MAX:3sk/280ED/600DEF/50RES]\nÿc4Stoneravenÿc9",
         "zhTW": "ÿc1[MAX:3鏢槍/280ED/600DEF/50RES]\nÿc:玩長矛的亞馬遜的人比較少\nÿc4石烏鴉 ÿc5Stoneravenÿc9",
         "deDE": "Steinrabe",
         "esES": "Cuervo de piedra",
@@ -20691,7 +20691,7 @@
     {
         "id": 21508,
         "Key": "Bloodraven's Charge",
-        "enUS": "Blood Raven's Charge",
+        "enUS": "ÿc1[MAX:4bow/230ED/300AR]\nÿc4Blood Raven's Chargeÿc9",
         "zhTW": "ÿc1[MAX:4弓/230ED/300AR]\nÿc4血鳥的襲擊 ÿc5Blood Raven's Chargeÿc9",
         "deDE": "Blutrabes Ansturm",
         "esES": "Carga de Cuervo Sangriento",
@@ -20759,7 +20759,7 @@
     {
         "id": 21512,
         "Key": "Wraithflight",
-        "enUS": "Wraith Flight",
+        "enUS": "ÿc1[MAX:190ED/13LL]\nÿc4Wraith Flightÿc9",
         "zhTW": "ÿc1[MAX:190ED/13LL]\nÿc:很多人誤認爲它是20大，其實不是\nÿc4死靈夜翔 ÿc5Wraith Flightÿc9",
         "deDE": "Gespensterflucht",
         "esES": "Vuelo del ánima",
@@ -20827,7 +20827,7 @@
     {
         "id": 21516,
         "Key": "Medusa's Gaze",
-        "enUS": "Medusa's Gaze",
+        "enUS": "ÿc1[MAX:9LL/180ED/80CR]\nÿc4Medusa's Gazeÿc9",
         "zhTW": "ÿc1[MAX:9LL/180ED/80CR]\nÿc:名字嚇人，實際沒啥用，收藏\nÿc4梅杜莎的凝視 ÿc5Medusa's Gazeÿc9",
         "deDE": "Medusas Blick",
         "esES": "Mirada de Medusa",
@@ -20879,7 +20879,7 @@
         "id": 21519,
         "Key": "Rockstopper",
         "enUS": "Rockstopper",
-        "zhTW": "ÿc1[MAX:防禦694(ETHUP)/220ED/40CR/40LR/50FR]\nÿc:開荒用用，小wmk，抗性挺高的\nÿc4岩石制動器 ÿc5Rockstopperÿc9",
+        "zhTW": "ÿc1[MAX:694def(ETHUP)/220ED/40CR/40LR/50FR]\nÿc4Rockstopperÿc9",
         "deDE": "Felsstopper",
         "esES": "Pararrocas",
         "frFR": "Bloc-roc",
@@ -20895,7 +20895,7 @@
     {
         "id": 21520,
         "Key": "Stealskull",
-        "enUS": "Stealskull",
+        "enUS": "ÿc1[MAX:758def(ETHUP)/240ED/50MF]\nÿc4Stealskullÿc9",
         "zhTW": "ÿc1[MAX:防禦758(ETHUP)/240ED/50MF]\nÿc:功能不少，傭兵用的時候多\nÿc4偷取骷髏 ÿc5Stealskullÿc9",
         "deDE": "Raubschädel",
         "esES": "Cráneo de acero",
@@ -20912,7 +20912,7 @@
     {
         "id": 21521,
         "Key": "Darksight Helm",
-        "enUS": "Darksight Helm",
+        "enUS": "ÿc1[MAX:84def/40FR]\nÿc4Darksight Helmÿc9",
         "zhTW": "ÿc1[MAX:基本防禦84/40FR]\nÿc4暗視之盔 ÿc5Darksight Helmÿc9",
         "deDE": "Dunkelsichthelm",
         "esES": "Yelmo de vista oscura",
@@ -20929,7 +20929,7 @@
     {
         "id": 21522,
         "Key": "Crown of Thieves",
-        "enUS": "Crown of Thieves",
+        "enUS": "ÿc1[MAX:741def(ETHUP)/12LL/200ED/100EG]\nÿc4Crown of Thievesÿc9",
         "zhTW": "ÿc1[MAX:防禦741(ETHUP)/12LL/200ED/100EG]\nÿc:過渡期米山常用\nÿc4盜賊皇冠 ÿc5Crown of Thievesÿc9",
         "deDE": "Krone der Diebe",
         "esES": "Corona de ladrones",
@@ -20946,7 +20946,7 @@
     {
         "id": 21523,
         "Key": "Blackhorn's Face",
-        "enUS": "Blackhorn's Face",
+        "enUS": "ÿc1[MAX:739def(ETHUP)/220ED]\nÿc4Blackhorn's Faceÿc9",
         "zhTW": "ÿc1[MAX:防禦739(ETHUP)/220ED]\nÿc:減速吸電盔，常給京子用\nÿc4黑角面具 ÿc5Blackhorn's Faceÿc9",
         "deDE": "Schwarzhorns Gesicht",
         "esES": "Cara del cuerno negro",
@@ -20963,7 +20963,7 @@
     {
         "id": 21524,
         "Key": "The Spirit Shroud",
-        "enUS": "The Spirit Shroud",
+        "enUS": "ÿc1[MAX:11MDR]\nÿc4The Spirit Shroudÿc9",
         "zhTW": "ÿc1[MAX:11MDR]\nÿc4靈魂帷幕 ÿc5The Spirit Shroudÿc9",
         "deDE": "Der Geisterschleier",
         "esES": "Mortaja del espíritu",
@@ -20997,7 +20997,7 @@
     {
         "id": 21526,
         "Key": "Ironpelt",
-        "enUS": "Iron Pelt",
+        "enUS": "ÿc1[MAX:100ED/20DR/16MDR]\nÿc4Iron Peltÿc9",
         "zhTW": "ÿc1[MAX:100ED/20DR/16MDR]\nÿc4擲鐵 ÿc5Iron Peltÿc9",
         "deDE": "Eisenpelz",
         "esES": "Cuero de hierro",
@@ -21014,7 +21014,7 @@
     {
         "id": 21527,
         "Key": "Spiritforge",
-        "enUS": "Spirit Forge",
+        "enUS": "ÿc1[MAX:160ED]\nÿc4Spirit Forgeÿc9",
         "zhTW": "ÿc1[MAX:160ED]\nÿc4靈魂熔爐 ÿc5Spirit Forgeÿc9",
         "deDE": "Geisterschmiede",
         "esES": "Fragua espiritual",
@@ -21031,7 +21031,7 @@
     {
         "id": 21528,
         "Key": "Crow Caw",
-        "enUS": "Crow Caw",
+        "enUS": "ÿc1[MAX:180ED]\nÿc4Crow Cawÿc9",
         "zhTW": "ÿc1[MAX:180ED]\nÿc4鴉鳴 ÿc5Crow Cawÿc9",
         "deDE": "Krähenkrächzen",
         "esES": "Graznido del cuervo",
@@ -21048,7 +21048,7 @@
     {
         "id": 21529,
         "Key": "Duriel's Shell",
-        "enUS": "Duriel's Shell",
+        "enUS": "ÿc1[MAX:2256def(ETHUP)/200ED]\nÿc4Duriel's Shellÿc9",
         "zhTW": "ÿc1[MAX:防禦2256(ETHUP)/200ED]\nÿc:通常說的蟲殼就是它，自用或者米山用均可，無形可升級\nÿc4都瑞爾的殼 ÿc5Duriel's Shellÿc9",
         "deDE": "Duriels Schale",
         "esES": "Concha de Duriel",
@@ -21065,7 +21065,7 @@
     {
         "id": 21530,
         "Key": "Skullder's Ire",
-        "enUS": "Skullder's Ire",
+        "enUS": "ÿc1[MAX:2331def(ETHUP)/200ED]\nÿc4Skullder's Ireÿc9",
         "zhTW": "ÿc1[MAX:防禦2331(ETHUP)/200ED]\nÿc:俗稱IRE，湊高MF必備，無形價格高\nÿc4詩寇蒂的憤怒 ÿc5Skullder's Ireÿc9",
         "deDE": "Skullders Zorn",
         "esES": "Ira del skullder",
@@ -21082,7 +21082,7 @@
     {
         "id": 21531,
         "Key": "Toothrow",
-        "enUS": "Toothrow",
+        "enUS": "ÿc1[MAX:220ED/60DEF/40atd]\nÿc4Toothrowÿc9",
         "zhTW": "ÿc1[MAX:220ED/60DEF/40反彈]\nÿc:OW甲，野蠻人用的多\nÿc4排齒 ÿc5Toothrowÿc9",
         "deDE": "Zahnreihe",
         "esES": "Fila de dientes",
@@ -21099,7 +21099,7 @@
     {
         "id": 21532,
         "Key": "Atma's Wail",
-        "enUS": "Atma's Wail",
+        "enUS": "ÿc1[MAX:160ED]\nÿc4Atma's Wailÿc9",
         "zhTW": "ÿc1[MAX:160ED]\nÿc4亞特瑪的哭喊 ÿc5Atma's Wailÿc9",
         "deDE": "Atmas Wehklagen",
         "esES": "Gemido de Atma",
@@ -21116,7 +21116,7 @@
     {
         "id": 21533,
         "Key": "Black Hades",
-        "enUS": "Black Hades",
+        "enUS": "ÿc1[MAX:2505def(ETHUP)/60ddmg/250dar/200ED]\nÿc4Black Hadesÿc9",
         "zhTW": "ÿc1[MAX:防禦2505(ETHUP)/60惡魔傷害/250惡魔準確/200ED]\nÿc:過渡米山穿穿，無形的可升級鑲嵌惡魔珠，不過實際使用它的很少\nÿc4黑色黑帝斯 ÿc5Black Hadesÿc9",
         "deDE": "Schwarzer Hades",
         "esES": "Hades negro",
@@ -21133,7 +21133,7 @@
     {
         "id": 21534,
         "Key": "Corpsemourn",
-        "enUS": "Corpsemourn",
+        "enUS": "ÿc1[MAX:180ED]\nÿc4Corpsemournÿc9",
         "zhTW": "ÿc1[MAX:180ED]\nÿc4屍體的哀傷 ÿc5Corpsemournÿc9",
         "deDE": "Leichentrauer",
         "esES": "Luto de cadáver",
@@ -21150,7 +21150,7 @@
     {
         "id": 21535,
         "Key": "Que-hegan's Wisdom",
-        "enUS": "Que-Hegan's Wisdom",
+        "enUS": "ÿc1[MAX:160ED/10MDR]\nÿc4Que-hegan's Wisdomÿc9",
         "zhTW": "ÿc1[MAX:160ED/10MDR]\nÿc:開荒用用還是不錯的\nÿc9魁黑剛的智慧ÿc8",
         "deDE": "Que-Hegans Weisheit",
         "esES": "Sabiduría de Que-Hegan",
@@ -21184,7 +21184,7 @@
     {
         "id": 21537,
         "Key": "Stormchaser",
-        "enUS": "Stormchaser",
+        "enUS": "ÿc1[MAX:220ED]\nÿc4Stormchaserÿc9",
         "zhTW": "ÿc1[MAX:220ED]\nÿc4風暴追逐者 ÿc5Stormchaserÿc9",
         "deDE": "Sturmjäger",
         "esES": "Cazador de tormentas",
@@ -21201,7 +21201,7 @@
     {
         "id": 21538,
         "Key": "Tiamat's Rebuke",
-        "enUS": "Tiamat's Rebuke",
+        "enUS": "ÿc1[MAX:200ED/35RES]\nÿc4Tiamat's Rebukeÿc9",
         "zhTW": "ÿc1[MAX:200ED/35RES]\nÿc4魔龍的非難 ÿc5Tiamat's Rebukeÿc9",
         "deDE": "Tiamats Rüge",
         "esES": "Reprimenda de Tiamat",
@@ -21235,7 +21235,7 @@
     {
         "id": 21540,
         "Key": "Radimant's Sphere",
-        "enUS": "Radament's Sphere",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Radament's Sphereÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc4羅達門特的球體 ÿc5Radament's Sphereÿc9",
         "deDE": "Radaments Kugel",
         "esES": "Esfera de Radament",
@@ -21252,7 +21252,7 @@
     {
         "id": 21541,
         "Key": "Gravepalm",
-        "enUS": "Gravepalm",
+        "enUS": "ÿc1[MAX:200uddmg/200udar/180ED]\nÿc4Gravepalmÿc9",
         "zhTW": "ÿc1[MAX:200亡靈傷害/200亡靈準確/180ED]\nÿc:暗金四淫器之一，通常拿來屁事水經驗混臉熟\nÿc4墓穴的撫弄 ÿc5Gravepalmÿc9",
         "deDE": "Grabpalme",
         "esES": "Palmas sepulcrales",
@@ -21269,7 +21269,7 @@
     {
         "id": 21542,
         "Key": "Ghoulhide",
-        "enUS": "Ghoulhide",
+        "enUS": "ÿc1[MAX:5LM/190ED]\nÿc4Ghoulhideÿc9",
         "zhTW": "ÿc1[MAX:5LM/190ED]\nÿc4食屍鬼外皮 ÿc5Ghoulhideÿc9",
         "deDE": "Ghulleder",
         "esES": "Pieles de necrófago",
@@ -21286,7 +21286,7 @@
     {
         "id": 21543,
         "Key": "Hellmouth",
-        "enUS": "Hellmouth",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Hellmouthÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc:吸火，殺瘸子（3c）不怕火\nÿc4地獄之嘴 ÿc5Hellmouthÿc9",
         "deDE": "Höllenschlund",
         "esES": "Boca del infierno",
@@ -21303,7 +21303,7 @@
     {
         "id": 21544,
         "Key": "Infernostride",
-        "enUS": "Infernostride",
+        "enUS": "ÿc1[MAX:150ED/70EG]\nÿc4Infernostrideÿc9",
         "zhTW": "ÿc1[MAX:150ED/70EG]\nÿc:打錢蠻子標配\nÿc4地獄闊步 ÿc5Infernostrideÿc9",
         "deDE": "Infernosprung",
         "esES": "Paso del averno",
@@ -21320,7 +21320,7 @@
     {
         "id": 21545,
         "Key": "Waterwalk",
-        "enUS": "Waterwalk",
+        "enUS": "ÿc1[MAX:201def(UP)/210ED/65LF]\nÿc4Waterwalkÿc9",
         "zhTW": "ÿc1[MAX:防禦201(UP)/210ED/65LF]\nÿc:65生命的大家搶著要\nÿc4水上飄 ÿc5Waterwalkÿc9",
         "deDE": "Wasserwanderung",
         "esES": "Paseo de agua",
@@ -21337,7 +21337,7 @@
     {
         "id": 21546,
         "Key": "Silkweave",
-        "enUS": "Silkweave",
+        "enUS": "ÿc1[MAX:194def(UP)/190ED]\nÿc4Silkweaveÿc9",
         "zhTW": "ÿc1[MAX:防禦194(UP)/190ED]\nÿc:標馬刷牛常用，電法缺藍也有用它的\nÿc4紗織 ÿc5Silkweaveÿc9",
         "deDE": "Seidenweberei",
         "esES": "Tejido de seda",
@@ -21354,7 +21354,7 @@
     {
         "id": 21547,
         "Key": "Wartraveler",
-        "enUS": "War Traveler",
+        "enUS": "ÿc1[MAX:190ED/10atd/50MF]\nÿc4War Travelerÿc9",
         "zhTW": "ÿc1[MAX:190ED/10反彈/50MF]\nÿc:戰旅就是它，純冰MF或者弓馬必備\nÿc4戰爭旅者 ÿc5War Travelerÿc9",
         "deDE": "Kriegsreisender",
         "esES": "Viajante de la guerra",
@@ -21371,7 +21371,7 @@
     {
         "id": 21548,
         "Key": "Razortail",
-        "enUS": "Razortail",
+        "enUS": "ÿc1[MAX:172def(UP)/150ED]\nÿc4Razortailÿc9",
         "zhTW": "ÿc1[MAX:防禦172(UP)/150ED]\nÿc:俗稱穿刺腰，亞馬遜標配\nÿc4剃刀之尾 ÿc5Razortailÿc9",
         "deDE": "Klingenschweif",
         "esES": "Cola de cuchilla",
@@ -21388,7 +21388,7 @@
     {
         "id": 21549,
         "Key": "Gloomstrap",
-        "enUS": "Gloom's Trap",
+        "enUS": "ÿc1[MAX:150ED]\nÿc4Gloom's Trapÿc9",
         "zhTW": "ÿc1[MAX:150ED]\nÿc4陰影陷阱 ÿc5Gloom's Trapÿc9",
         "deDE": "Düsterfalle",
         "esES": "Trampa de la penumbra",
@@ -21405,7 +21405,7 @@
     {
         "id": 21550,
         "Key": "Snowclash",
-        "enUS": "Snowclash",
+        "enUS": "ÿc1[MAX:20blz/170ED]\nÿc4Snowclashÿc9",
         "zhTW": "ÿc1[MAX:20暴風雪/170ED]\nÿc4雪之衝突 ÿc5Snowclashÿc9",
         "deDE": "Schneeklopfer",
         "esES": "Fragor de nieve",
@@ -21422,7 +21422,7 @@
     {
         "id": 21551,
         "Key": "Thudergod's Vigor",
-        "enUS": "Thundergod's Vigor",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Thundergod's Vigorÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc:吸電腰帶，混王座常帶它\nÿc4雷神之力 ÿc5Thundergod's Vigorÿc9",
         "deDE": "Donnergotts Gedeihen",
         "esES": "Vigor del dios de los truenos",
@@ -21439,7 +21439,7 @@
     {
         "id": 21552,
         "Key": "Lidless Wall",
-        "enUS": "Lidless Wall",
+        "enUS": "ÿc1[MAX:130ED/5EK]\nÿc4Lidless Wallÿc9",
         "zhTW": "ÿc1[MAX:130ED/5EK]\nÿc:開荒用用，有時候也搭配cta在副手使用，\nÿc4警戒之牆 ÿc5Lidless Wallÿc9",
         "deDE": "Lidlose Wand",
         "esES": "Muro vigilante",
@@ -21490,7 +21490,7 @@
     {
         "id": 21555,
         "Key": "Boneflame",
-        "enUS": "Boneflame",
+        "enUS": "ÿc1[MAX:3Skill/150ED/30RES]\nÿc4Boneflameÿc9",
         "zhTW": "ÿc1[MAX:3Skill/150ED/30RES]\nÿc:收藏用，實際價值不大\nÿc4骨焰 ÿc5Boneflameÿc9",
         "deDE": "Knochenflamme",
         "esES": "Llama ósea",
@@ -21507,7 +21507,7 @@
     {
         "id": 21556,
         "Key": "Steelpillar",
-        "enUS": "Steel Pillar",
+        "enUS": "ÿc1[MAX:260ED/80DEF]\nÿc4Steel Pillarÿc9",
         "zhTW": "ÿc1[MAX:260ED/80DEF]\nÿc:20大之一，收藏品\nÿc4鐵柱 ÿc5Steel Pillarÿc9",
         "deDE": "Stahlsäule",
         "esES": "Pilar de acero",
@@ -21524,7 +21524,7 @@
     {
         "id": 21557,
         "Key": "Nightwing's Veil",
-        "enUS": "Nightwing's Veil",
+        "enUS": "ÿc1[MAX:15CD/120ED/20DEX/9ca]\nÿc4Nightwing's Veilÿc9",
         "zhTW": "ÿc1[MAX:15CD/120ED/20DEX/9寒冷吸收]\nÿc:冰頭，純冰法師提升傷害必選\nÿc4夜翼面紗 ÿc5Nightwing's Veilÿc9",
         "deDE": "Nachtschwinges Schleier",
         "esES": "Velo de alanoche",
@@ -21558,7 +21558,7 @@
     {
         "id": 21559,
         "Key": "Crown of Ages",
-        "enUS": "Crown of Ages",
+        "enUS": "ÿc1[MAX:150DEF/30RES/15DR/2S]\nÿc4Crown of Agesÿc9",
         "zhTW": "ÿc1[MAX:150DEF/30RES/15DR/2S]\nÿc:四神器之一，多用於戰網pk，單機多用於與死神搭配\nÿc4年紀之冠 ÿc5Crown of Agesÿc9",
         "deDE": "Krone der Äonen",
         "esES": "Corona de las edades",
@@ -21575,7 +21575,7 @@
     {
         "id": 21560,
         "Key": "Andariel's Visage",
-        "enUS": "Andariel's Visage",
+        "enUS": "ÿc1[MAX:10LL/150ED/30STR]\nÿc4Andariel's Visageÿc9",
         "zhTW": "ÿc1[MAX:10LL/150ED/30STR]\nÿc:米山終配頭之一，弓馬也能用。出了就趕緊到吧里水經驗\nÿc4安達利爾的面貌 ÿc5Andariel's Visageÿc9",
         "deDE": "Andariels Antlitz",
         "esES": "Semblante de Andariel",
@@ -21609,7 +21609,7 @@
     {
         "id": 21562,
         "Key": "Dragonscale",
-        "enUS": "Dragonscale",
+        "enUS": "ÿc1[MAX:200ED/25STR/20fa]\nÿc4Dragonscaleÿc9",
         "zhTW": "ÿc1[MAX:200ED/25STR/火焰吸收20]\nÿc:收藏品，實際價值不大\nÿc4龍鱗 ÿc5Dragonscaleÿc9",
         "deDE": "Drachenschuppen",
         "esES": "Escama de dragón",
@@ -21626,7 +21626,7 @@
     {
         "id": 21563,
         "Key": "Steel Carapice",
-        "enUS": "Steel Carapace",
+        "enUS": "ÿc1[MAX:220ED/15REG/60CR/14DR]\nÿc4Steel Carapaceÿc9",
         "zhTW": "ÿc1[MAX:220ED/15REG/60CR/14DR]\nÿc:收藏品，實際價值不大\nÿc4鋼鐵鎧甲 ÿc5Steel Carapaceÿc9",
         "deDE": "Stahlrückenschild",
         "esES": "Caparazón de acero",
@@ -21660,7 +21660,7 @@
     {
         "id": 21565,
         "Key": "Rainbow Facet",
-        "enUS": "Rainbow Facet",
+        "enUS": "ÿc1[MAX:5/5]\nÿc4Rainbow Facetÿc9",
         "zhTW": "ÿc1[MAX:5/5]\nÿc:遇見彩虹，吃定彩虹(ˇˍˇ）\nÿc4彩虹刻面 ÿc5Rainbow Facetÿc9",
         "deDE": "Regenbogenfacette",
         "esES": "Faceta de arcoíris",
@@ -21677,7 +21677,7 @@
     {
         "id": 21566,
         "Key": "Ravenlore",
-        "enUS": "Ravenlore",
+        "enUS": "ÿc1[MAX:-20FR/150ED/30ENG/25RES]\nÿc4Ravenloreÿc9",
         "zhTW": "ÿc1[MAX:-20FR/150ED/30ENG/25RES]\nÿc:收藏品，使用價值不大\nÿc4烏鴉之王 ÿc5Ravenloreÿc9",
         "deDE": "Rabengarn",
         "esES": "Acervo del cuervo",
@@ -21694,7 +21694,7 @@
     {
         "id": 21567,
         "Key": "Boneshade",
-        "enUS": "Boneshade",
+        "enUS": "ÿc1[MAX:2/3/3/5/5]\nÿc4Boneshadeÿc9",
         "zhTW": "ÿc1[MAX:2/3/3/5/5]\nÿc:全jp的收藏\nÿc4白骨陰影 ÿc5Boneshadeÿc9",
         "deDE": "Knochenschatten",
         "esES": "Sombra ósea",
@@ -21745,7 +21745,7 @@
     {
         "id": 21570,
         "Key": "Flamebellow",
-        "enUS": "Flamebellow",
+        "enUS": "ÿc1[MAX:240ED/18hf/20STR/10VIT/30fa]\nÿc4Flamebellowÿc9",
         "zhTW": "ÿc1[MAX:240ED/18地獄之火/20STR/10VIT/30火焰吸收]\nÿc4火焰號叫 ÿc5Flamebellowÿc9",
         "deDE": "Flammenbeller",
         "esES": "Bramido flamígero",
@@ -21762,7 +21762,7 @@
     {
         "id": 21571,
         "Key": "Fathom",
-        "enUS": "Death's Fathom",
+        "enUS": "ÿc1[MAX:30CD/40LR/40FR]\nÿc4Death's Fathomÿc9",
         "zhTW": "ÿc1[MAX:30CD/40LR/40FR]\nÿc:四神器之一，常說的次元就是它。純冰提升傷害必選，但是地位比較尷尬。\nÿc4死亡深度 ÿc5Death's Fathomÿc9",
         "deDE": "Klafter des Todes",
         "esES": "Profundidad de la muerte",
@@ -21779,7 +21779,7 @@
     {
         "id": 21572,
         "Key": "Wolfhowl",
-        "enUS": "Wolfhowl",
+        "enUS": "ÿc1[MAX:3/6/6/6/150/15/15/15]\nÿc4Wolfhowlÿc9",
         "zhTW": "ÿc1[MAX:3/6/6/6/150/15/15/15]\nÿc:野蠻狼娛樂玩法核心裝備\nÿc4狼嚎 ÿc5Wolfhowlÿc9",
         "deDE": "Wolfsgeheul",
         "esES": "Aullido de lobo",
@@ -21796,7 +21796,7 @@
     {
         "id": 21573,
         "Key": "Spirit Ward",
-        "enUS": "Spirit Ward",
+        "enUS": "ÿc1[MAX:30blo/180ED/40RES/11ca]\nÿc4Spirit Wardÿc9",
         "zhTW": "ÿc1[MAX:30格擋/180ED/40RES/11寒冷吸收]\nÿc:收藏用，實際價值不大\nÿc4魂繫結界 ÿc5Spirit Wardÿc9",
         "deDE": "Geisterschutz",
         "esES": "Custodia espiritual",
@@ -21813,7 +21813,7 @@
     {
         "id": 21574,
         "Key": "Kira's Guardian",
-        "enUS": "Kira's Guardian",
+        "enUS": "ÿc1[MAX:170def/120DEF/70RES]\nÿc4Kira's Guardianÿc9",
         "zhTW": "ÿc1[MAX:防禦170/120DEF/70RES]\nÿc:抗性上不去可以考慮用它\nÿc4奇拉的守護 ÿc5Kira's Guardianÿc9",
         "deDE": "Kiras Wächter",
         "esES": "Guardián de Kira",
@@ -21847,7 +21847,7 @@
     {
         "id": 21576,
         "Key": "Gheed's Fortune",
-        "enUS": "Gheed's Fortune",
+        "enUS": "ÿc1[MAX:160EG/40MF/15pri]\nÿc4Gheed's Fortuneÿc9",
         "zhTW": "ÿc1[MAX:160EG/40MF/15價格]\nÿc:ugc，身上只能放一個\nÿc4基得的運氣 ÿc5Gheed's Fortuneÿc9",
         "deDE": "Gheeds Glück",
         "esES": "Fortuna de Gheed",
@@ -21881,7 +21881,7 @@
     {
         "id": 21578,
         "Key": "Stormlash",
-        "enUS": "Stormlash",
+        "enUS": "ÿc1[MAX:300ED/9la]\nÿc4Stormlashÿc9",
         "zhTW": "ÿc1[MAX:300ED/9閃電吸收]\nÿc:聖騎K6常用武器之一\nÿc4暴風之結 ÿc5Stormlashÿc9",
         "deDE": "Sturmgeißel",
         "esES": "Látigo de tormenta",
@@ -21898,7 +21898,7 @@
     {
         "id": 21579,
         "Key": "Halaberd's Reign",
-        "enUS": "Halaberd's Reign",
+        "enUS": "ÿc1[MAX:2bo/2bc/170ED/23REP]\nÿc4Halaberd's Reignÿc9",
         "zhTW": "ÿc1[MAX:2戰鬥指揮/2戰鬥體制/170ED/23REP]\nÿc:戰網肉BO沒有好頭之前可過渡用，單機收藏爲主 \nÿc4海拉柏得的國度 ÿc5Halaberd's Reignÿc9",
         "deDE": "Halaberds Herrschaft",
         "esES": "Reinado de Halaberd",
@@ -21949,7 +21949,7 @@
     {
         "id": 21582,
         "Key": "Spike Thorn",
-        "enUS": "Spike Thorn",
+        "enUS": "ÿc1[MAX:150ED/20DR]\nÿc4Spike Thornÿc9",
         "zhTW": "ÿc1[MAX:150ED/20DR]\nÿc4尖刺根源 ÿc5Spike Thornÿc9",
         "deDE": "Stacheldorn",
         "esES": "Espina de puntas",
@@ -21966,7 +21966,7 @@
     {
         "id": 21583,
         "Key": "Dracul's Grasp",
-        "enUS": "Dracul's Grasp",
+        "enUS": "ÿc1[MAX:10LL/120ED/15STR/10LK]\nÿc4Dracul's Graspÿc9",
         "zhTW": "ÿc1[MAX:10LL/120ED/15STR/10LK]\nÿc:K6或狼德常用，其他情況不如安置。\nÿc4卓古拉之握 ÿc5Dracul's Graspÿc9",
         "deDE": "Draculs Griff",
         "esES": "Control de Drácula",
@@ -21983,7 +21983,7 @@
     {
         "id": 21584,
         "Key": "Frostwind",
-        "enUS": "Frostwind",
+        "enUS": "ÿc1[MAX:230ED/14as/15ca]\nÿc4Frostwindÿc9",
         "zhTW": "ÿc1[MAX:230ED/14極地風暴/15寒冷吸收]\nÿc4冰霜之風 ÿc5Frostwindÿc9",
         "deDE": "Frostwind",
         "esES": "Airescarcha",
@@ -22000,7 +22000,7 @@
     {
         "id": 21585,
         "Key": "Templar's Might",
-        "enUS": "Templar's Might",
+        "enUS": "ÿc1[MAX:2aura/220ED/300rdef/15STR/15VIT/50sta]\nÿc4Templar's Mightÿc9",
         "zhTW": "ÿc1[MAX:2靈氣/220ED/300遠程防禦/15STR/15VIT/50耐力]\nÿc:俗稱鳥乙，秀人品求詛咒裝B失敗的產物，默哀\nÿc4聖堂武士的力量 ÿc5Templar's Mightÿc9",
         "deDE": "Templers Macht",
         "esES": "Poderío del templario",
@@ -22017,7 +22017,7 @@
     {
         "id": 21586,
         "Key": "Eschuta's temper",
-        "enUS": "Eschuta's Temper",
+        "enUS": "ÿc1[MAX:3Skill/20LD/20FD/30ENG]\nÿc4Eschuta's Temperÿc9",
         "zhTW": "ÿc1[MAX:3Skill/20LD/20FD/30ENG]\nÿc:脾氣就是它，電法火法標配\nÿc4艾斯屈塔的脾氣 ÿc5Eschuta's Temperÿc9",
         "deDE": "Eschutas Temperament",
         "esES": "Temperamento de Eschuta",
@@ -22034,7 +22034,7 @@
     {
         "id": 21587,
         "Key": "Firelizard's Talons",
-        "enUS": "Firelizard's Talons",
+        "enUS": "ÿc1[MAX:3ma/270ED/2/2/70FR]\nÿc4Firelizard's Talonsÿc9",
         "zhTW": "ÿc1[MAX:3武學/270ED/2/2/70FR]\nÿc:用途不大，收藏\nÿc4火蜥蜴之爪 ÿc5Firelizard's Talonsÿc9",
         "deDE": "Klauen der Feuerechse",
         "esES": "Garfas del lagarto de fuego",
@@ -22051,7 +22051,7 @@
     {
         "id": 21588,
         "Key": "Sandstorm Trek",
-        "enUS": "Sandstorm Trek",
+        "enUS": "ÿc1[MAX:170ED/15STR/15VIT/70PR]\nÿc4Sandstorm Trekÿc9",
         "zhTW": "ÿc1[MAX:170ED/15STR/15VIT/70PR]\nÿc:無形更好，用途挺多，日用之一\nÿc4沙暴之旅 ÿc5Sandstorm Trekÿc9",
         "deDE": "Sandsturmtreck",
         "esES": "Caminata en tormenta de arena",
@@ -22068,7 +22068,7 @@
     {
         "id": 21589,
         "Key": "Marrowwalk",
-        "enUS": "Marrowwalk",
+        "enUS": "ÿc1[MAX:2sm/200ED/20STR]\nÿc4Marrowwalkÿc9",
         "zhTW": "ÿc1[MAX:2支配骷髏/200ED/20STR]\nÿc:NEC標配鞋\nÿc4骨髓行走 ÿc5Marrowwalkÿc9",
         "deDE": "Knochensteig",
         "esES": "Paseo de tuétano",
@@ -22085,7 +22085,7 @@
     {
         "id": 21590,
         "Key": "Heaven's Light",
-        "enUS": "Heaven's Light",
+        "enUS": "ÿc1[MAX:3PAL/300ED/20LK/2S]\nÿc4Heaven's Lightÿc9",
         "zhTW": "ÿc1[MAX:3PAL/300ED/20LK(惡魔)/2S]\nÿc:三技能兩孔的，殺6boss的利器\nÿc4天堂之光 ÿc5Heaven's Lightÿc9",
         "deDE": "Himmlisches Licht",
         "esES": "Luz de los cielos",
@@ -22119,7 +22119,7 @@
     {
         "id": 21592,
         "Key": "Arachnid Mesh",
-        "enUS": "Arachnid Mesh",
+        "enUS": "ÿc1[MAX:120ED]\nÿc4Arachnid Meshÿc9",
         "zhTW": "ÿc1[MAX:120ED]\nÿc:俗稱技能腰，20fcr無出其右，法系標配\nÿc4蜘蛛之網 ÿc5Arachnid Meshÿc9",
         "deDE": "Spinnenmonsternetz",
         "esES": "Malla arácnida",
@@ -22136,7 +22136,7 @@
     {
         "id": 21593,
         "Key": "Nosferatu's Coil",
-        "enUS": "Nosferatu's Coil",
+        "enUS": "ÿc1[MAX:63def/7LL]\nÿc4Nosferatu's Coilÿc9",
         "zhTW": "ÿc1[MAX:防禦63/7LL]\nÿc:極少數弓馬特殊情況湊檔用，一般收藏一個即可\nÿc4吸血聖王之圈 ÿc5Nosferatu's Coilÿc9",
         "deDE": "Nosferatus Rolle",
         "esES": "Rosca de Nosferatu",
@@ -22170,7 +22170,7 @@
     {
         "id": 21595,
         "Key": "Verdugo's Hearty Cord",
-        "enUS": "Verdungo's Hearty Cord",
+        "enUS": "ÿc1[MAX:140ED/40VIT/13REP/120sta/15DR]\nÿc4Verdungo's Hearty Cordÿc9",
         "zhTW": "ÿc1[MAX:140ED/40VIT/13REP/120耐力/15DR]\nÿc:心結就是它，物理系標配\nÿc4維爾登戈的心結 ÿc5Verdungo's Hearty Cordÿc9",
         "deDE": "Verdungos Herzensband",
         "esES": "Cordón robusto de Verdungo",
@@ -22204,7 +22204,7 @@
     {
         "id": 21597,
         "Key": "Carrion Wind",
-        "enUS": "Carrion Wind",
+        "enUS": "ÿc1[MAX:9LL/160rdef]\nÿc4Carrion Windÿc9",
         "zhTW": "ÿc1[MAX:9LL/160遠程防禦]\nÿc:自用爲主\nÿc4腐肉之風 ÿc5Carrion Windÿc9",
         "deDE": "Aaswind",
         "esES": "Viento de carroña",
@@ -22221,7 +22221,7 @@
     {
         "id": 21598,
         "Key": "Giantskull",
-        "enUS": "Giant Skull",
+        "enUS": "ÿc1[MAX:477def/320DEF/35STR/2S]\nÿc4Giant Skullÿc9",
         "zhTW": "ÿc1[MAX:防禦477/320DEF/35STR/2S]\nÿc:兩孔的可留下玩兒\nÿc4巨骷髏 ÿc5Giant Skullÿc9",
         "deDE": "Riesenschädel",
         "esES": "Cráneo gigante",
@@ -22238,7 +22238,7 @@
     {
         "id": 21599,
         "Key": "Ironward",
-        "enUS": "Astreon's Iron Ward",
+        "enUS": "ÿc1[MAX:4sk/290ED/85DAM/200AR/7DR]\nÿc4Astreon's Iron Wardÿc9",
         "zhTW": "ÿc1[MAX:4戰鬥/290ED/85DAM/200AR/7DR]\nÿc:龍鐵就是它，20大之一，收藏或者用於K6\nÿc4愛斯特龍之鐵的保護區 ÿc5Astreon's Iron Wardÿc9",
         "deDE": "Astreons Eisenschutz",
         "esES": "Custodia de hierro de Astreon",
@@ -22391,7 +22391,7 @@
     {
         "id": 21608,
         "Key": "Saracen's Chance",
-        "enUS": "Saracen's Chance",
+        "enUS": "ÿc1[MAX:25RES]\nÿc4Saracen's Chanceÿc9",
         "zhTW": "ÿc1[MAX:25RES]\nÿc4薩拉森的機會 ÿc5Saracen's Chanceÿc9",
         "deDE": "Sarazenenglück",
         "esES": "Suerte del sarraceno",
@@ -22425,7 +22425,7 @@
     {
         "id": 21610,
         "Key": "Raven Frost",
-        "enUS": "Raven Frost",
+        "enUS": "ÿc1[MAX:250AR/20DEX]\nÿc4Raven Frostÿc9",
         "zhTW": "ÿc1[MAX:250AR/20DEX]\nÿc:物理系角色戒指一般都要帶一個它，實用戒指\nÿc4烏鴉之霜 ÿc5Raven Frostÿc9",
         "deDE": "Rabenfrost",
         "esES": "Escarcha del cuervo",
@@ -22442,7 +22442,7 @@
     {
         "id": 21611,
         "Key": "Dwarf Star",
-        "enUS": "Dwarf Star",
+        "enUS": "ÿc1[MAX:15MDR]\nÿc4Dwarf Starÿc9",
         "zhTW": "ÿc1[MAX:15MDR]\nÿc:吸火用，打錢戒指\nÿc4矮人之星 ÿc5Dwarf Starÿc9",
         "deDE": "Zwergenstern",
         "esES": "Estrella enana",
@@ -22476,7 +22476,7 @@
     {
         "id": 21613,
         "Key": "Mara's Kaleidoscope",
-        "enUS": "Mara's Kaleidoscope",
+        "enUS": "ÿc1[MAX:30RES]\nÿc4Mara's Kaleidoscopeÿc9",
         "zhTW": "ÿc1[MAX:30RES]\nÿc:法系鏈萬金油，不缺fcr的都帶它\nÿc4馬拉的萬花筒 ÿc5Mara's Kaleidoscopeÿc9",
         "deDE": "Maras Kaleidoskop",
         "esES": "Caleidoscopio de Mara",
@@ -22493,7 +22493,7 @@
     {
         "id": 21614,
         "Key": "Crescent Moon",
-        "enUS": "Crescent Moon",
+        "enUS": "ÿc1[MAX:15LM/6LL]\nÿc4Crescent Moonÿc9",
         "zhTW": "ÿc1[MAX:15LM/6LL]\nÿc:收藏，用途不大\nÿc4新月 ÿc5Crescent Moonÿc9",
         "deDE": "Mondsichel",
         "esES": "Luna creciente",
@@ -22510,7 +22510,7 @@
     {
         "id": 21615,
         "Key": "The Rising Sun",
-        "enUS": "The Rising Sun",
+        "enUS": "ÿc1[MAX:19meteor]\nÿc4The Rising Sunÿc9",
         "zhTW": "ÿc1[MAX:19隕石]\nÿc:收藏，實際用途不大\nÿc4旭日東升 ÿc5The Rising Sunÿc9",
         "deDE": "Die aufgehende Sonne",
         "esES": "El sol naciente",
@@ -22544,7 +22544,7 @@
     {
         "id": 21617,
         "Key": "Bul Katho's Wedding Band",
-        "enUS": "Bul-Kathos' Wedding Band",
+        "enUS": "ÿc1[MAX:5LL]\nÿc4Bul-Kathos' Wedding Bandÿc9",
         "zhTW": "ÿc1[MAX:5LL]\nÿc:俗稱婚戒，兩種暗金加技能戒指之一\nÿc4布爾凱索的婚戒 ÿc5Bul-Kathos' Wedding Bandÿc9",
         "deDE": "Bul Kathos' Hochzeitsring",
         "esES": "Alianza de Bul-Kathos",
@@ -22578,7 +22578,7 @@
     {
         "id": 21619,
         "Key": "Metalgrid",
-        "enUS": "Metalgrid",
+        "enUS": "ÿc1[MAX:450AR/350DEF/35RES]\nÿc4Metalgridÿc9",
         "zhTW": "ÿc1[MAX:450AR/350DEF/35RES]\nÿc:收藏爲主，實用價值不大\nÿc4金屬網格 ÿc5Metalgridÿc9",
         "deDE": "Metallgitter",
         "esES": "Rejilla metálica",
@@ -22595,7 +22595,7 @@
     {
         "id": 21621,
         "Key": "Stormshield",
-        "enUS": "Stormshield",
+        "enUS": "ÿc1[MAX:148def]\nÿc4Stormshieldÿc9",
         "zhTW": "ÿc1[MAX:基本防禦148]\nÿc:物免盾就是它，格擋型練法首選盾之一\nÿc4暴風之盾 ÿc5Stormshieldÿc9",
         "deDE": "Sturmschild",
         "esES": "Escudo de tormenta",
@@ -22612,7 +22612,7 @@
     {
         "id": 21622,
         "Key": "Blackoak Shield",
-        "enUS": "Blackoak Shield",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Blackoak Shieldÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc4黑橡樹盾 ÿc5Blackoak Shieldÿc9",
         "deDE": "Schwarzeichenschild",
         "esES": "Escudo de roble negro",
@@ -22629,7 +22629,7 @@
     {
         "id": 21623,
         "Key": "Ormus' Robes",
-        "enUS": "Ormus' Robes",
+        "enUS": "ÿc1[MAX:487def/15CD/15LD/15FD/20DEF/15REG]\nÿc4Ormus' Robesÿc9",
         "zhTW": "ÿc1[MAX:防禦487/15CD/15LD/15FD/20DEF/15REG]\nÿc:15增傷合適技能的可用，其他可N\nÿc4奧瑪斯的長袍 ÿc5Ormus' Robesÿc9",
         "deDE": "Ormus' Gewänder",
         "esES": "Togas de Ormus",
@@ -22646,7 +22646,7 @@
     {
         "id": 21624,
         "Key": "Arkaine's Valor",
-        "enUS": "Arkaine's Valor",
+        "enUS": "ÿc1[MAX:2Skill/180ED/15DR]\nÿc4Arkaine's Valorÿc9",
         "zhTW": "ÿc1[MAX:2Skill/180ED/15DR]\nÿc:窮人牛場標馬常用，使用等級較高，無形也可給米山撐光環用\nÿc4阿凱尼的榮耀 ÿc5Arkaine's Valorÿc9",
         "deDE": "Arkaines Heldenmut",
         "esES": "Valor de Arkaine",
@@ -22663,7 +22663,7 @@
     {
         "id": 21625,
         "Key": "The Gladiator's Bane",
-        "enUS": "The Gladiator's Bane",
+        "enUS": "ÿc1[MAX:200ED/20DR/20MDR]\nÿcThe Gladiator's Baneÿc9",
         "zhTW": "ÿc1[MAX:200ED/20DR/20MDR]\nÿc:米山常用，無形的比較少見。\nÿc4鬥士的禍根 ÿc5The Gladiator's Baneÿc9",
         "deDE": "Der Fluch des Gladiators",
         "esES": "La pesadilla del gladiador",
@@ -22697,7 +22697,7 @@
     {
         "id": 21627,
         "Key": "Harlequin Crest",
-        "enUS": "Harlequin Crest",
+        "enUS": "ÿc1[MAX:141def]\nÿc4Harlequin Crestÿc9",
         "zhTW": "ÿc1[MAX:防禦141]\nÿc:俗稱軍帽，綠帽子，很多角色適用，好多新人出了它都來水經驗\nÿc4諧角之冠 ÿc5Harlequin Crestÿc9",
         "deDE": "Harlekinskrone",
         "esES": "Cimera de arlequín",
@@ -22714,7 +22714,7 @@
     {
         "id": 21628,
         "Key": "Lance Guard",
-        "enUS": "Lance Guard",
+        "enUS": "ÿc1[MAX:120ED]\nÿc4Lance Guardÿc9",
         "zhTW": "ÿc1[MAX:120ED]\nÿc4長槍守衛 ÿc5Lance Guardÿc9",
         "deDE": "Lanzenwache",
         "esES": "Protección lancera",
@@ -22731,7 +22731,7 @@
     {
         "id": 21629,
         "Key": "Kerke's Sanctuary",
-        "enUS": "Gerke's Sanctuary",
+        "enUS": "ÿc1[MAX:240ED/30RES/16DR/18MDR]\nÿc4Gerke's Sanctuaryÿc9",
         "zhTW": "ÿc1[MAX:240ED/30RES/16DR/18MDR]\nÿc4基爾克的聖堂 ÿc5Gerke's Sanctuaryÿc9",
         "deDE": "Gerkes Zuflucht",
         "esES": "Santuario de Gerke",
@@ -22748,7 +22748,7 @@
     {
         "id": 21630,
         "Key": "Mosers Blessed Circle",
-        "enUS": "Moser's Blessed Circle",
+        "enUS": "ÿc1[MAX:220ED]\nÿc4Moser's Blessed Circleÿc9",
         "zhTW": "ÿc1[MAX:220ED]\nÿc4摩西祝福之環 ÿc5Moser's Blessed Circleÿc9",
         "deDE": "Mosars gesegneter Kreis",
         "esES": "Círculo bendito de Moser",
@@ -22765,7 +22765,7 @@
     {
         "id": 21631,
         "Key": "Que-Hegan's Wisdon",
-        "enUS": "Que-Hegan's Wisdom",
+        "enUS": "ÿc1[MAX:160ED/10MDR]\nÿc4Que-Hegan's Wisdomÿc9",
         "zhTW": "ÿc1[MAX:160ED/10MDR]\nÿc:過渡用用，很多新人出了都拿出來問。\nÿc4魁黑剛的智慧 ÿc5Que-Hegan's Wisdomÿc9",
         "deDE": "Que-Hegans Weisheit",
         "esES": "Sabiduría de Que-Hegan",
@@ -22782,7 +22782,7 @@
     {
         "id": 21632,
         "Key": "Guardian Angel",
-        "enUS": "Guardian Angel",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Guardian Angelÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc:聖騎過渡用用，很多新人出了都拿出來問\nÿc4守護天使 ÿc5Guardian Angelÿc9",
         "deDE": "Schutzengel",
         "esES": "Ángel guardián",
@@ -22799,7 +22799,7 @@
     {
         "id": 21633,
         "Key": "Skin of the Flayerd One",
-        "enUS": "Skin of the Flayed One",
+        "enUS": "ÿc1[MAX:7LL/190ED/25REP]\nÿc4Skin of the Flayed Oneÿc9",
         "zhTW": "ÿc1[MAX:7LL/190ED/25REP]\nÿc4剝皮者之皮 ÿc5Skin of the Flayed Oneÿc9",
         "deDE": "Haut des Geschundenen",
         "esES": "Piel del azotado",
@@ -22833,7 +22833,7 @@
     {
         "id": 21635,
         "Key": "Windforce",
-        "enUS": "Windforce",
+        "enUS": "ÿc1[MAX:8LM]\nÿc4Windforceÿc9",
         "zhTW": "ÿc1[MAX:8LM]\nÿc:WF就是它，暗金第一弓，20大實用典範之一，恭喜\nÿc4風之力 ÿc5Windforceÿc9",
         "deDE": "Windmacht",
         "esES": "Fuerza del viento",
@@ -22867,7 +22867,7 @@
     {
         "id": 21637,
         "Key": "Gimmershred",
-        "enUS": "Gimmershred",
+        "enUS": "ÿc1[MAX:210ED]\nÿc4Gimmershredÿc9",
         "zhTW": "ÿc1[MAX:210ED]\nÿc4碎片貪婪者 ÿc5Gimmershredÿc9",
         "deDE": "Glimmerscherbe",
         "esES": "Trasquiladora",
@@ -22884,7 +22884,7 @@
     {
         "id": 21638,
         "Key": "Widowmaker",
-        "enUS": "Widowmaker",
+        "enUS": "ÿc1[MAX:200ED/5ga]\nÿc4Widowmakerÿc9",
         "zhTW": "ÿc1[MAX:200ED/5導引箭]\nÿc:俗稱GA弓，qhsorPK常用，單機收藏爲主\nÿc4寡婦製造者 ÿc5Widowmakerÿc9",
         "deDE": "Witwenmacher",
         "esES": "Enviudador",
@@ -22901,7 +22901,7 @@
     {
         "id": 21639,
         "Key": "Stormspire",
-        "enUS": "Stormspire",
+        "enUS": "ÿc1[MAX:250ED]\nÿc4Stormspireÿc9",
         "zhTW": "ÿc1[MAX:250ED]\nÿc:20大之一。收藏品\nÿc4暴風尖塔 ÿc5Stormspireÿc9",
         "deDE": "Sturmspitze",
         "esES": "Aguja de la tormenta",
@@ -22935,7 +22935,7 @@
     {
         "id": 21641,
         "Key": "Ethereal Edge",
-        "enUS": "Ethereal Edge",
+        "enUS": "ÿc1[MAX:180ED/350AR/200ddmg/12fa/10LK]\nÿc4Ethereal Edgeÿc9",
         "zhTW": "ÿc1[MAX:180ED/350AR/200惡魔傷害/12火焰吸收/10LK(惡魔)]\nÿc:真的沒用\nÿc4永恆邊界 ÿc5Ethereal Edgeÿc9",
         "deDE": "Ätherschneide",
         "esES": "Filo etéreo",
@@ -22969,7 +22969,7 @@
     {
         "id": 21643,
         "Key": "The Grandfather",
-        "enUS": "The Grandfather",
+        "enUS": "ÿc1[MAX:250ED]\nÿc4The Grandfatherÿc9",
         "zhTW": "ÿc1[MAX:250ED]\nÿc:20大之一，收藏品\nÿc4祖父 ÿc5The Grandfatherÿc9",
         "deDE": "Der Großvater",
         "esES": "El padrino",
@@ -22986,7 +22986,7 @@
     {
         "id": 21644,
         "Key": "Doombringer",
-        "enUS": "Doombringer",
+        "enUS": "ÿc1[MAX:250ED/7LL]\nÿc4Doombringerÿc9",
         "zhTW": "ÿc1[MAX:250ED/7LL]\nÿc:跟祖父一樣收藏\nÿc4末日毀滅者 ÿc5Doombringerÿc9",
         "deDE": "Todbringer",
         "esES": "Portador de fatalidad",
@@ -23003,7 +23003,7 @@
     {
         "id": 21645,
         "Key": "Tyrael's Might",
-        "enUS": "Tyrael's Might",
+        "enUS": "ÿc1[MAX:100ddmg/150ED/30STR/30RES]\nÿc4Tyrael's Mightÿc9",
         "zhTW": "ÿc1[MAX:100惡魔傷害/150ED/30STR/30RES]\nÿc:暗黑第一難出的暗金裝備，人品象徵，好多人的怨念物，還不快水一發\nÿc4泰瑞爾的力量 ÿc5Tyrael's Mightÿc9",
         "deDE": "Tyraels Macht",
         "esES": "Poderío de Tyrael",
@@ -23020,7 +23020,7 @@
     {
         "id": 21646,
         "Key": "Lightsabre",
-        "enUS": "Lightsabre",
+        "enUS": "ÿc1[MAX:20cl/200ED/7LM]\nÿc4Lightsabreÿc9",
         "zhTW": "ÿc1[MAX:20連鎖閃電/200ED/7LM]\nÿc:常說的光刀就是它，雙熱過渡武器\nÿc4光之軍刀 ÿc5Lightsabreÿc9",
         "deDE": "Lichtsäbel",
         "esES": "Sable de la luz",
@@ -23037,7 +23037,7 @@
     {
         "id": 21647,
         "Key": "The Cranium Basher",
-        "enUS": "The Cranium Basher",
+        "enUS": "ÿc1[MAX:240ED]\nÿc4The Cranium Basherÿc9",
         "zhTW": "ÿc1[MAX:240ED]\nÿc:20大之一，收藏品\nÿc4碎腦錘 ÿc5The Cranium Basherÿc9",
         "deDE": "Der Schädelhauer",
         "esES": "Destrozacráneos",
@@ -23054,7 +23054,7 @@
     {
         "id": 21648,
         "Key": "Schaefer's Hammer",
-        "enUS": "Schaefer's Hammer",
+        "enUS": "ÿc1[MAX:130ED]\nÿc4Schaefer's Hammerÿc9",
         "zhTW": "ÿc1[MAX:130ED]\nÿc:它不是20大\nÿc4史恰佛之錘 ÿc5Schaefer's Hammerÿc9",
         "deDE": "Schaefers Hammer",
         "esES": "Martillo de Schaefer",
@@ -23088,7 +23088,7 @@
     {
         "id": 21650,
         "Key": "Deaths's Web",
-        "enUS": "Death's Web",
+        "enUS": "ÿc1[MAX:2sk/-50PR/12EK/12LK]\nÿc4Death's Webÿc9",
         "zhTW": "ÿc1[MAX:2毒骨/-50PR/12EK/12LK]\nÿc:四神器之一，決定毒NEC練法的裝備，恭喜\nÿc4死亡之網 ÿc5Death's Webÿc9",
         "deDE": "Todesnetz",
         "esES": "Red de la muerte",
@@ -23122,7 +23122,7 @@
     {
         "id": 21652,
         "Key": "Hellslayer",
-        "enUS": "Hellslayer",
+        "enUS": "ÿc1[MAX:20fb]\nÿc4Hellslayerÿc9",
         "zhTW": "ÿc1[MAX:20火球]\nÿc4地獄毀滅者 ÿc5Hellslayerÿc9",
         "deDE": "Höllenschlächter",
         "esES": "Exterminadora infernal",
@@ -23139,7 +23139,7 @@
     {
         "id": 21653,
         "Key": "Endlesshail",
-        "enUS": "Endlesshail",
+        "enUS": "ÿc1[MAX:220ED/5strafe]\nÿc4Endlesshailÿc9",
         "zhTW": "ÿc1[MAX:220ED/5炮轟]\nÿc4無休止的冰雹 ÿc5Endlesshailÿc9",
         "deDE": "Endloshagel",
         "esES": "Granizo eterno",
@@ -23156,7 +23156,7 @@
     {
         "id": 21654,
         "Key": "The Atlantian",
-        "enUS": "The Atlantean",
+        "enUS": "ÿc1[MAX:250ED]\nÿc4The Atlanteanÿc9",
         "zhTW": "ÿc1[MAX:250ED]\nÿc4亞特拉斯 ÿc5The Atlanteanÿc9",
         "deDE": "Der Atlantide",
         "esES": "La atlante",
@@ -23190,7 +23190,7 @@
     {
         "id": 21656,
         "Key": "Baezil's Vortex",
-        "enUS": "Baezil's Vortex",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Baezil's Vortexÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc4貝西爾的漩渦 ÿc5Baezil's Vortexÿc9",
         "deDE": "Baezils Wirbel",
         "esES": "Vórtice de Baezil",
@@ -23207,7 +23207,7 @@
     {
         "id": 21657,
         "Key": "Zakarum's Hand",
-        "enUS": "Zakarum's Hand",
+        "enUS": "ÿc1[MAX:220ED]\nÿc4Zakarum's Handÿc9",
         "zhTW": "ÿc1[MAX:220ED]\nÿc4撒卡蘭姆之手 ÿc5Zakarum's Handÿc9",
         "deDE": "Zakarums Hand",
         "esES": "Mano de Zakarum",
@@ -23241,7 +23241,7 @@
     {
         "id": 21659,
         "Key": "The Minataur",
-        "enUS": "The Minotaur",
+        "enUS": "ÿc1[MAX:200ED/20STR]\nÿc4The Minotaurÿc9",
         "zhTW": "ÿc1[MAX:200ED/20STR]\nÿc4牛頭怪 ÿc5The Minotaurÿc9",
         "deDE": "Der Minotaurus",
         "esES": "El minotauro",
@@ -23275,7 +23275,7 @@
     {
         "id": 21661,
         "Key": "Trang-Oul's Guise",
-        "enUS": "Trang-Oul's Guise",
+        "enUS": "[MAX:257def/100DEF]\nTrang-Oul's Guiseÿc9",
         "zhTW": "[MAX:防禦257/100DEF]\n塔格奧之外裝 ÿc5Trang-Oul's Guiseÿc9",
         "deDE": "Trang-Ouls Verkleidung",
         "esES": "Guisa de Trang-Oul",
@@ -23292,7 +23292,7 @@
     {
         "id": 21662,
         "Key": "Trang-Oul's Wing",
-        "enUS": "Trang-Oul's Wing",
+        "enUS": "[MAX:189def/45FR]\nTrang-Oul's Wingÿc9",
         "zhTW": "[MAX:防禦189/45FR]\n綠死人頭，三件套毒招常用\n塔格奧之翼 ÿc5Trang-Oul's Wingÿc9",
         "deDE": "Trang-Ouls Flügel",
         "esES": "Ala de Trang-Oul",
@@ -23343,7 +23343,7 @@
     {
         "id": 21665,
         "Key": "Trang-Oul's Claws",
-        "enUS": "Trang-Oul's Claws",
+        "enUS": "[MAX:74def]\nTrang-Oul's Clawsÿc9",
         "zhTW": "[MAX:防禦74]\n暗黑僅有的兩件加fcr的手套之一\n塔格奧之手 ÿc5Trang-Oul's Clawsÿc9",
         "deDE": "Trang-Ouls Krallen",
         "esES": "Garras de Trang-Oul",
@@ -23360,7 +23360,7 @@
     {
         "id": 21666,
         "Key": "Trang-Oul's Girth",
-        "enUS": "Trang-Oul's Girth",
+        "enUS": "[MAX:166def/100DEF/50mana]\nTrang-Oul's Girthÿc9",
         "zhTW": "[MAX:防禦166/100DEF/50法力]\n此套裝中比較難出的，三件套搭配毒NEC常用\n塔格奧之束帶 ÿc5Trang-Oul's Girthÿc9",
         "deDE": "Trang-Ouls Gurt",
         "esES": "Cincha de Trang-Oul",
@@ -23394,7 +23394,7 @@
     {
         "id": 21668,
         "Key": "Natalya's Totem",
-        "enUS": "Natalya's Totem",
+        "enUS": "[MAX:300def/175DEF/20STR/30DEX/20RES]\nNatalya's Totemÿc9",
         "zhTW": "[MAX:防禦300/175DEF/20STR/30DEX/20RES]\n娜塔亞的圖騰 ÿc5Natalya's Totemÿc9",
         "deDE": "Natalyas Totem",
         "esES": "Tótem de Natalya",
@@ -23428,7 +23428,7 @@
     {
         "id": 21670,
         "Key": "Natalya's Shadow",
-        "enUS": "Natalya's Shadow",
+        "enUS": "[MAX:721def/225DEF/3S]\nNatalya's Shadowÿc9",
         "zhTW": "[MAX:防禦721/225DEF/3S]\n娜塔亞的影子 ÿc5Natalya's Shadowÿc9",
         "deDE": "Natalyas Schatten",
         "esES": "Sombra de Natalya",
@@ -23445,7 +23445,7 @@
     {
         "id": 21671,
         "Key": "Natalya's Soul",
-        "enUS": "Natalya's Soul",
+        "enUS": "[MAX:169def/125DEF/25CR/25LR]\nNatalya's Soulÿc9",
         "zhTW": "[MAX:防禦169/125DEF/25CR/25LR]\n娜塔亞的靈魂 ÿc5Natalya's Soulÿc9",
         "deDE": "Natalyas Seele",
         "esES": "Alma de Natalya",
@@ -23479,7 +23479,7 @@
     {
         "id": 21673,
         "Key": "Griswolds's Redemption",
-        "enUS": "Griswold's Redemption",
+        "enUS": "[MAX:240ED/4S]\nGriswold's Redemptionÿc9",
         "zhTW": "[MAX:240ED/4S]\n20大之一，恭喜\n格瑞斯華爾德的救贖 ÿc5Griswold's Redemptionÿc9",
         "deDE": "Griswolds Erlösung",
         "esES": "Redención de Griswold",
@@ -23496,7 +23496,7 @@
     {
         "id": 21674,
         "Key": "Griswold's Honor",
-        "enUS": "Griswold's Honor",
+        "enUS": "[MAX:333def]\nGriswold's Honorÿc9",
         "zhTW": "[MAX:防禦333]\n20大之一，衝擊丁可用，或者收藏，恭喜\n格瑞斯華爾德的榮耀 ÿc5Griswold's Honorÿc9",
         "deDE": "Griswolds Ehre",
         "esES": "Honor de Griswold",
@@ -23513,7 +23513,7 @@
     {
         "id": 21675,
         "Key": "Griswold's Heart",
-        "enUS": "Griswold's Heart",
+        "enUS": "[MAX:950def]\nGriswold's Heartÿc9",
         "zhTW": "[MAX:防禦950]\n格瑞斯華爾德之心 ÿc5Griswold's Heartÿc9",
         "deDE": "Griswolds Herz",
         "esES": "Corazón de Griswold",
@@ -23530,7 +23530,7 @@
     {
         "id": 21676,
         "Key": "Griswold's Valor",
-        "enUS": "Griswold's Valor",
+        "enUS": "[MAX:75ED/30MF]\nGriswold's Valorÿc9",
         "zhTW": "[MAX:75ED/30MF]\n廣義20大之一，難出的裝備，收藏\n格瑞斯華爾德的勇氣 ÿc5Griswold's Valorÿc9",
         "deDE": "Griswolds Heldenmut",
         "esES": "Valor de Griswold",
@@ -23887,7 +23887,7 @@
     {
         "id": 21697,
         "Key": "Aldur's Stony Gaze",
-        "enUS": "Aldur's Stony Gaze",
+        "enUS": "[MAX:防禦171/50CR]\nAldur's Stony Gazeÿc9",
         "zhTW": "[MAX:防禦171/50CR]\n黑德的機會又來了\n艾爾多的冷酷凝視 ÿc5Aldur's Stony Gazeÿc9",
         "deDE": "Aldurs Steinblick",
         "esES": "Mirada de piedra de Aldur",
@@ -23904,7 +23904,7 @@
     {
         "id": 21698,
         "Key": "Aldur's Deception",
-        "enUS": "Aldur's Deception",
+        "enUS": "[MAX:857def/50LR]\nAldur's Deceptionÿc9",
         "zhTW": "[MAX:防禦857/50LR]\n艾爾多的欺暪 ÿc5Aldur's Deceptionÿc9",
         "deDE": "Aldurs Täuschung",
         "esES": "Engaño de Aldur",
@@ -23938,7 +23938,7 @@
     {
         "id": 21700,
         "Key": "Aldur's Advance",
-        "enUS": "Aldur's Advance",
+        "enUS": "[MAX:47def/50FR]\nAldur's Advanceÿc9",
         "zhTW": "[MAX:防禦47/50FR]\n艾爾多的成長 ÿc5Aldur's Advanceÿc9",
         "deDE": "Aldurs Vormarsch",
         "esES": "Avance de Aldur",
@@ -23972,7 +23972,7 @@
     {
         "id": 21702,
         "Key": "M'avina's True Sight",
-        "enUS": "M'avina's True Sight",
+        "enUS": "[MAX:210def]\nM'avina's True Sightÿc9",
         "zhTW": "[MAX:防禦210]\nÿc2馬維娜的真實之眼 ÿc5M'avina's True Sightÿc9",
         "deDE": "M'avinas Wahre Sicht",
         "esES": "Visión verdadera de M'avina",
@@ -23989,7 +23989,7 @@
     {
         "id": 21703,
         "Key": "M'avina's Embrace",
-        "enUS": "M'avina's Embrace",
+        "enUS": "[MAX:523def/12MDR]\nM'avina's Embraceÿc9",
         "zhTW": "[MAX:基本防禦523/12MDR]\nÿc2馬維娜的擁抱 ÿc5M'avina's Embraceÿc9",
         "deDE": "M'avinas Umarmung",
         "esES": "Abrazo de M'avina",
@@ -24006,7 +24006,7 @@
     {
         "id": 21704,
         "Key": "M'avina's Icy Clutch",
-        "enUS": "M'avina's Icy Clutch",
+        "enUS": "[MAX:97def/50DEF]\nM'avina's Icy Clutchÿc9",
         "zhTW": "[MAX:防禦97/50DEF]\n馬維娜的冰握 ÿc5M'avina's Icy Clutchÿc9",
         "deDE": "M'avinas Eisige Umklammerung",
         "esES": "Zarpas heladas de M'avina",
@@ -24023,7 +24023,7 @@
     {
         "id": 21705,
         "Key": "M'avina's Tenet",
-        "enUS": "M'avina's Tenet",
+        "enUS": "[MAX:86def]\nM'avina's Tenetÿc9",
         "zhTW": "[MAX:防禦86]\n馬維娜的教義 ÿc5M'avina's Tenetÿc9",
         "deDE": "M'avinas Grundsatz",
         "esES": "Principio de M'avina",
@@ -24091,7 +24091,7 @@
     {
         "id": 21709,
         "Key": "Sazabi's Ghost Liberator",
-        "enUS": "Sazabi's Ghost Liberator",
+        "enUS": "[MAX:917def/75LF]\nSazabi's Ghost Liberatorÿc9",
         "zhTW": "[MAX:防禦917/75LF]\n沙撒璧的鬼魂釋放者 ÿc5Sazabi's Ghost Liberatorÿc9",
         "deDE": "Sazabis Geisterbefreier",
         "esES": "Liberador de fantasmas de Sazabi",
@@ -24108,7 +24108,7 @@
     {
         "id": 21710,
         "Key": "Sazabi's Mental Sheath",
-        "enUS": "Sazabi's Mental Sheath",
+        "enUS": "[MAX:184def/20LR/20FR]\nSazabi's Mental Sheathÿc9",
         "zhTW": "[MAX:防禦184/20LR/20FR]\n沙撒璧的精神之鞘 ÿc5Sazabi's Mental Sheathÿc9",
         "deDE": "Sazabis Geisteshülle",
         "esES": "Funda mental de Sazabi",
@@ -24176,7 +24176,7 @@
     {
         "id": 21714,
         "Key": "Hwanin's Refuge",
-        "enUS": "Hwanin's Refuge",
+        "enUS": "[MAX:390def]\nHwanin's Refugeÿc9",
         "zhTW": "[MAX:防禦390]\n有些純炸可用此招鐵魔娛樂\n華寧的保護 ÿc5Hwanin's Refugeÿc9",
         "deDE": "Hwanins Zuflucht",
         "esES": "Refugio de Hwanin",
@@ -24227,7 +24227,7 @@
     {
         "id": 21717,
         "Key": "Telling of Beads",
-        "enUS": "Telling of Beads",
+        "enUS": "[MAX:50PR/10atd]\nTelling of Beadsÿc9",
         "zhTW": "[MAX:50PR/10反彈]\n最難出的綠鏈，無實際用途\nÿc2述說之珠 ÿc5Telling of Beadsÿc9",
         "deDE": "Perlenorakel",
         "esES": "Rezo de rosario",
@@ -24244,7 +24244,7 @@
     {
         "id": 21718,
         "Key": "Laying of Hands",
-        "enUS": "Laying of Hands",
+        "enUS": "[MAX:87def]\nLaying of Handsÿc9",
         "zhTW": "[MAX:防禦87]\n手掌的安置 ÿc5Laying of Handsÿc9",
         "deDE": "Hände auflegen",
         "esES": "Puesta de manos",
@@ -24261,7 +24261,7 @@
     {
         "id": 21719,
         "Key": "Rite of Passage",
-        "enUS": "Rite of Passage",
+        "enUS": "[MAX:60def/25sta]\nRite of Passageÿc9",
         "zhTW": "[MAX:防禦60/25耐力]\n儀式的走道 ÿc5Rite of Passageÿc9",
         "deDE": "Initiationsritus",
         "esES": "Rito iniciático",
@@ -24278,7 +24278,7 @@
     {
         "id": 21720,
         "Key": "Spiritual Custodian",
-        "enUS": "Dark Adherent",
+        "enUS": "[MAX:882def/415DEF]\nDark Adherentÿc9",
         "zhTW": "[MAX:防禦882/415DEF]\n黑暗信徒 ÿc5Dark Adherentÿc9",
         "deDE": "Dunkler Anhänger",
         "esES": "Adepto oscuro",
@@ -24295,7 +24295,7 @@
     {
         "id": 21721,
         "Key": "Credendum",
-        "enUS": "Credendum",
+        "enUS": "[MAX:115def]\nCredendumÿc9",
         "zhTW": "[MAX:防禦115]\n信條 ÿc5Credendumÿc9",
         "deDE": "Credendum",
         "esES": "Credendum",
@@ -24329,7 +24329,7 @@
     {
         "id": 21723,
         "Key": "Cow King's Horns",
-        "enUS": "Cow King's Horns",
+        "enUS": "[MAX:128def]\nCow King's Hornsÿc9",
         "zhTW": "[MAX:防禦128]\n牛魔王之角 ÿc5Cow King's Hornsÿc9",
         "deDE": "Hörner des Rinderkönigs",
         "esES": "Cuernos del Rey de las Vacas",
@@ -24363,7 +24363,7 @@
     {
         "id": 21725,
         "Key": "Cow King's Hoofs",
-        "enUS": "Cow King's Hooves",
+        "enUS": "[MAX:41def/35DEF]\nCow King's Hoovesÿc9",
         "zhTW": "[MAX:防禦41/35DEF]\n牛魔王之蹄 ÿc5Cow King's Hoovesÿc9",
         "deDE": "Hufe des Rinderkönigs",
         "esES": "Pezuñas del Rey de las Vacas",
@@ -24533,7 +24533,7 @@
     {
         "id": 21735,
         "Key": "Titan's Revenge",
-        "enUS": "Titan's Revenge",
+        "enUS": "ÿc1[MAX:200ED/9LL]\nÿc4Titan's Revengeÿc9",
         "zhTW": "ÿc1[MAX:200ED/9LL]\nÿc:俗稱TT，標馬必備，無形價格更高\nÿc4泰坦的復仇 ÿc5Titan's Revengeÿc9",
         "deDE": "Titans Rache",
         "esES": "Revancha de Titán",
@@ -24567,7 +24567,7 @@
     {
         "id": 21737,
         "Key": "Lycander's Aim",
-        "enUS": "Lycander's Aim",
+        "enUS": "ÿc1[MAX:200ED/8LM]\nÿc4Lycander's Aimÿc9",
         "zhTW": "ÿc1[MAX:200ED/8LM]\nÿc:麻雀雖小五臟俱全，升級後可用\nÿc4雷山德的指標 ÿc5Lycander's Aimÿc9",
         "deDE": "Lycanders Ziel",
         "esES": "Tino de Lycander",
@@ -24669,7 +24669,7 @@
     {
         "id": 21743,
         "Key": "Annihilus",
-        "enUS": "Annihilus",
+        "enUS": "ÿc1[MAX:20attr/20RES/10EXP]\nÿc4Annihilusÿc9",
         "zhTW": "ÿc1[MAX:20屬性/20RES/10EXP]\nÿc:它叫usc，推倒黑毛後的戰利品（作死）\nÿc4毀滅 ÿc5Annihilusÿc9",
         "deDE": "Vernichtikus",
         "esES": "Annihilus",
@@ -24686,7 +24686,7 @@
     {
         "id": 21744,
         "Key": "Arreat's Face",
-        "enUS": "Arreat's Face",
+        "enUS": "ÿc1[MAX:756def(ETHUP)/200ED/6LL]\nÿc4Arreat's Faceÿc9",
         "zhTW": "ÿc1[MAX:防禦756(ETHUP)/200ED/6LL]\nÿc:俗稱飛機頭，蠻子專用頭。\nÿc4亞瑞特的面容 ÿc5Arreat's Faceÿc9",
         "deDE": "Arreats Antlitz",
         "esES": "Cara de Arreat",
@@ -24788,7 +24788,7 @@
     {
         "id": 21750,
         "Key": "Jalal's Mane",
-        "enUS": "Jalal's Mane",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Jalal's Maneÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc:俗稱狗頭，變形德常用\nÿc4加爾的長髮 ÿc5Jalal's Maneÿc9",
         "deDE": "Jalals Mähne",
         "esES": "Crin de Jalal",
@@ -24873,7 +24873,7 @@
     {
         "id": 21755,
         "Key": "Homunculus",
-        "enUS": "Homunculus",
+        "enUS": "ÿc1[MAX:200ED]\nÿc4Homunculusÿc9",
         "zhTW": "ÿc1[MAX:200ED]\nÿc:俗稱尿壺，NEC常用它，升級後也可走格擋練法\nÿc4侏儒 ÿc5Homunculusÿc9",
         "deDE": "Homunkulus",
         "esES": "Homúnculo",
@@ -24924,7 +24924,7 @@
     {
         "id": 21758,
         "Key": "Herald of Zakarum",
-        "enUS": "Herald of Zakarum",
+        "enUS": "ÿc1[MAX:579def(UP)/200ED]\nÿc4Herald of Zakarumÿc9",
         "zhTW": "ÿc1[MAX:防禦579(UP)/200ED]\nÿc:飾金盾就是它，雙熱標配，好多人的怨念，恭喜\nÿc4撒卡蘭姆使者 ÿc5Herald of Zakarumÿc9",
         "deDE": "Herold von Zakarum",
         "esES": "Heraldo de Zakarum",
@@ -25230,7 +25230,7 @@
     {
         "id": 21816,
         "Key": "Tal Rasha's Fire-Spun Cloth",
-        "enUS": "Tal Rasha's Fine-Spun Cloth",
+        "enUS": "[MAX:40def/15MF]\nTal Rasha's Fine-Spun Clothÿc9",
         "zhTW": "[MAX:基本防禦40/15MF]\n塔-拉夏的纖細衣服 ÿc5Tal Rasha's Fine-Spun Clothÿc9",
         "deDE": "Tal Rashas feine Kleidung",
         "esES": "Tela fina de Tal Rasha",
@@ -25264,7 +25264,7 @@
     {
         "id": 21818,
         "Key": "Tal Rasha's Howling Wind",
-        "enUS": "Tal Rasha's Guardianship",
+        "enUS": "[MAX:941def]\nTal Rasha's Guardianshipÿc9",
         "zhTW": "[MAX:防禦941]\n塔-拉夏的守護 ÿc5Tal Rasha's Guardianshipÿc9",
         "deDE": "Tal Rashas Obhut",
         "esES": "Custodia de Tal Rasha",
@@ -25281,7 +25281,7 @@
     {
         "id": 21819,
         "Key": "Tal Rasha's Lidless Eye",
-        "enUS": "Tal Rasha's Lidless Eye",
+        "enUS": "[MAX:2CM/2LM/2FM]\nTal Rasha's Lidless Eyeÿc9",
         "zhTW": "[MAX:2CM/2LM/2FM]\n塔-拉夏的警戒之眼 ÿc5Tal Rasha's Lidless Eyeÿc9",
         "deDE": "Tal Rashas lidloses Auge",
         "esES": "Ojo sin párpado de Tal Rasha",
@@ -25298,7 +25298,7 @@
     {
         "id": 21820,
         "Key": "Tal Rasha's Horadric Crest",
-        "enUS": "Tal Rasha's Horadric Crest",
+        "enUS": "[MAX:131def]\nTal Rasha's Horadric Crestÿc9",
         "zhTW": "[MAX:防禦131]\n塔-拉夏的赫拉迪克紋章 ÿc5Tal Rasha's Horadric Crestÿc9",
         "deDE": "Tal Rashas Horadrimwappen",
         "esES": "Cimera horádrica de Tal Rasha",
@@ -25366,7 +25366,7 @@
     {
         "id": 21824,
         "Key": "Ondal's Almighty",
-        "enUS": "Ondal's Almighty",
+        "enUS": "[MAX:209def]\nOndal's Almightyÿc9",
         "zhTW": "[MAX:防禦209]\n安戴爾的全靈 ÿc5Ondal's Almightyÿc9",
         "deDE": "Ondals Allmacht",
         "esES": "Poder supremo de Ondal",
@@ -25383,7 +25383,7 @@
     {
         "id": 21825,
         "Key": "Heaven's Taebaek",
-        "enUS": "Taebaek's Glory",
+        "enUS": "[MAX:220def]\nTaebaek's Gloryÿc9",
         "zhTW": "[MAX:防禦220]\n泰比克的光榮 ÿc5Taebaek's Gloryÿc9",
         "deDE": "Taebaeks Ruhm",
         "esES": "Gloria de Taebaek",
@@ -25400,7 +25400,7 @@
     {
         "id": 21826,
         "Key": "Haemosu's Adament",
-        "enUS": "Haemosu's Adamant",
+        "enUS": "[MAX:702def]\nHaemosu's Adamantÿc9",
         "zhTW": "[MAX:防禦702]\n黑摩蘇的堅決 ÿc5Haemosu's Adamantÿc9",
         "deDE": "Haemosus Willenskraft",
         "esES": "Convicción de Haemosu",
@@ -25417,7 +25417,7 @@
     {
         "id": 21827,
         "Key": "Lycander's Flank",
-        "enUS": "Lycander's Flank",
+        "enUS": "ÿc1[MAX:200ED/9LL]\nÿc4Lycander's Flankÿc9",
         "zhTW": "ÿc1[MAX:200ED/9LL]\nÿc4雷山德的側腹 ÿc5Lycander's Flankÿc9",
         "deDE": "Lycanders Flanke",
         "esES": "Costado de Lycander",
@@ -25451,7 +25451,7 @@
     {
         "id": 21829,
         "Key": "Ginther's Rift",
-        "enUS": "Ginther's Rift",
+        "enUS": "ÿc1[MAX:150ED/12MDR]\nÿc4Ginther's Riftÿc9",
         "zhTW": "ÿc1[MAX:150ED/12MDR]\nÿc4金瑟的裂縫 ÿc5Ginther's Riftÿc9",
         "deDE": "Ginthers Zerrissenheit",
         "esES": "Falla de Ginther",
@@ -25485,7 +25485,7 @@
     {
         "id": 21831,
         "Key": "Naj's Light Plate",
-        "enUS": "Naj's Light Plate",
+        "enUS": "[MAX:830def]\nNaj's Light Plateÿc9",
         "zhTW": "[MAX:防禦830]\n娜吉的輕鎧甲 ÿc5Naj's Light Plateÿc9",
         "deDE": "Najs leichte Rüstung",
         "esES": "Coraza ligera de Naj",
@@ -25502,7 +25502,7 @@
     {
         "id": 21832,
         "Key": "Naj's Circlet",
-        "enUS": "Naj's Circlet",
+        "enUS": "[MAX:105def/35FD]\nNaj's Circletÿc9",
         "zhTW": "[MAX:防禦105/35FD]\nÿc2娜吉的小環 ÿc5Naj's Circletÿc9",
         "deDE": "Najs Reif",
         "esES": "Aureola de Naj",
@@ -25638,7 +25638,7 @@
     {
         "id": 21840,
         "Key": "Immortal King's Stone Crusher",
-        "enUS": "Immortal King's Stone Crusher",
+        "enUS": "[MAX:40CB]\nImmortal King's Stone Crusherÿc9",
         "zhTW": "[MAX:40CB]\n不朽之王的碎魂者 ÿc5Immortal King's Stone Crusherÿc9",
         "deDE": "Steintrümmerer des unsterblichen Königs",
         "esES": "Machacapiedras del rey inmortal",
@@ -25655,7 +25655,7 @@
     {
         "id": 21841,
         "Key": "Immortal King's Pillar",
-        "enUS": "Immortal King's Pillar",
+        "enUS": "[MAX:128def]\nImmortal King's Pillarÿc9",
         "zhTW": "[MAX:基本防禦128]\n不朽之王之柱 ÿc5Immortal King's Pillarÿc9",
         "deDE": "Säule des unsterblichen Königs",
         "esES": "Pilar del rey inmortal",
@@ -25672,7 +25672,7 @@
     {
         "id": 21842,
         "Key": "Immortal King's Forge",
-        "enUS": "Immortal King's Forge",
+        "enUS": "[MAX:53def]\nImmortal King's Forgeÿc9",
         "zhTW": "[MAX:基本防禦53]\n不朽之王的融爐 ÿc5Immortal King's Forgeÿc9",
         "deDE": "Schmiede des unsterblichen Königs",
         "esES": "Fragua del rey inmortal",
@@ -25723,7 +25723,7 @@
     {
         "id": 21845,
         "Key": "Immortal King's Will",
-        "enUS": "Immortal King's Will",
+        "enUS": "[MAX:175def/40MF]\nImmortal King's Willÿc9",
         "zhTW": "[MAX:防禦175/40MF]\n不朽之王的意志 ÿc5Immortal King's Willÿc9",
         "deDE": "Wille des unsterblichen Königs",
         "esES": "Voluntad del rey inmortal",
@@ -25757,7 +25757,7 @@
     {
         "id": 21847,
         "Key": "Aldur's Gauntlet",
-        "enUS": "Aldur's Rhythm",
+        "enUS": "[MAX:3S]\nAldur's Rhythmÿc9",
         "zhTW": "[MAX:3S]\n艾爾多的律動 ÿc5Aldur's Rhythmÿc9",
         "deDE": "Aldurs Rhythmus",
         "esES": "Ritmo de Aldur",
@@ -25927,7 +25927,7 @@
     {
         "id": 21876,
         "Key": "McAuley's Taboo",
-        "enUS": "Sander's Taboo",
+        "enUS": "[MAX:31def/25DEF]\nSander's Tabooÿc9",
         "zhTW": "[MAX:防禦31/25DEF]\n山德的禁忌 ÿc5Sander's Tabooÿc9",
         "deDE": "Sanders Tabu",
         "esES": "Tabú de Sander",
@@ -25944,7 +25944,7 @@
     {
         "id": 21877,
         "Key": "McAuley's Riprap",
-        "enUS": "Sander's Riprap",
+        "enUS": "[MAX:6def]\nSander's Riprapÿc9",
         "zhTW": "[MAX:防禦6]\n山德的碎石 ÿc5Sander's Riprapÿc9",
         "deDE": "Sanders Riprap",
         "esES": "Escollera de Sander",
@@ -25961,7 +25961,7 @@
     {
         "id": 21878,
         "Key": "McAuley's Paragon",
-        "enUS": "Sander's Paragon",
+        "enUS": "[MAX:5def]\nSander's Paragonÿc9",
         "zhTW": "[MAX:基本防禦5]\n山德的模範 ÿc5Sander's Paragonÿc9",
         "deDE": "Sanders Vorbild",
         "esES": "Excelencia de Sander",
