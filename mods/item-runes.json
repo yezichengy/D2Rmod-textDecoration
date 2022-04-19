@@ -1209,7 +1209,7 @@
     {
         "id": 20510,
         "Key": "Runeword4",
-        "enUS": "Beast",
+        "enUS": "ÿc1[MAX:270ED/40STR]\nÿc4Beast",
         "zhTW": "ÿc1[MAX:270ED/40STR]\nÿc:狂熱光環，純招及武學刺常用\nÿc4野獸 ÿc2Beast",
         "deDE": "Bestie",
         "esES": "Bestia",
@@ -1277,7 +1277,7 @@
     {
         "id": 20514,
         "Key": "Runeword8",
-        "enUS": "Bone",
+        "enUS": "ÿc1[MAX:150mana]\nÿc4Bone",
         "zhTW": "ÿc1[MAX:150法力]\nÿc4白骨 ÿc2Bone",
         "deDE": "Knochen",
         "esES": "Hueso",
@@ -1294,7 +1294,7 @@
     {
         "id": 20515,
         "Key": "Runeword9",
-        "enUS": "Bramble",
+        "enUS": "ÿc1[MAX:21aura/50PD]\nÿc4Bramble",
         "zhTW": "ÿc1[MAX:21荊棘/50PD]\nÿc:不如tp甲有用，土豪玩物\nÿc4野薔薇 ÿc2Bramble",
         "deDE": "Dornen",
         "esES": "Zarza",
@@ -1311,7 +1311,7 @@
     {
         "id": 20516,
         "Key": "Runeword10",
-        "enUS": "Brand",
+        "enUS": "ÿc1[MAX:340ED/330ddmg]\nÿc4Brand",
         "zhTW": "ÿc1[MAX:340ED/330惡魔傷害]\nÿc4烙印 ÿc2Brand",
         "deDE": "Brand",
         "esES": "Tizón",
@@ -1328,7 +1328,7 @@
     {
         "id": 20517,
         "Key": "Runeword11",
-        "enUS": "Breath of the Dying",
+        "enUS": "ÿc1[MAX:400ED/15LL]\nÿc4Breath of the Dying",
         "zhTW": "ÿc1[MAX:400ED/15LL]\nÿc:冷兵器之王，打錢蠻子米山用\nÿc4死亡呼吸 ÿc2Breath of the Dying",
         "deDE": "Odem der Sterbenden",
         "esES": "Aliento de los muertos",
@@ -1362,7 +1362,7 @@
     {
         "id": 20519,
         "Key": "Runeword13",
-        "enUS": "Call to Arms",
+        "enUS": "ÿc1[MAX:290ED/6/6/4]\nÿc4Call to Arms",
         "zhTW": "ÿc1[MAX:290ED/6/6/4]\nÿc4戰爭召喚 ÿc2Call to Arms",
         "deDE": "Ruf zu den Waffen",
         "esES": "Llamada a las armas",
@@ -1413,7 +1413,7 @@
     {
         "id": 20522,
         "Key": "Runeword16",
-        "enUS": "Chaos",
+        "enUS": "ÿc1[MAX:340ED]\nÿc4Chaos",
         "zhTW": "ÿc1[MAX:340ED]\nÿc:武藝超羣\nÿc4混沌 ÿc2Chaos",
         "deDE": "Chaos",
         "esES": "Caos",
@@ -1430,7 +1430,7 @@
     {
         "id": 20523,
         "Key": "Runeword17",
-        "enUS": "Crescent Moon",
+        "enUS": "ÿc1[MAX:220ED/11ma]\nÿc4Crescent Moon",
         "zhTW": "ÿc1[MAX:220ED/11魔法吸收]\nÿc:電法常用，對高電抗怪物效果明顯\nÿc4新月 ÿc2Crescent Moon",
         "deDE": "Mondsichel",
         "esES": "Luna creciente",
@@ -1481,7 +1481,7 @@
     {
         "id": 20526,
         "Key": "Runeword20",
-        "enUS": "Death",
+        "enUS": "ÿc1[MAX:385ED]\nÿc4Death",
         "zhTW": "ÿc1[MAX:385ED]\nÿc:與年紀哥倆好\nÿc4死神 ÿc2Death",
         "deDE": "Tod",
         "esES": "Muerte",
@@ -1566,7 +1566,7 @@
     {
         "id": 20532,
         "Key": "Runeword26",
-        "enUS": "Doom",
+        "enUS": "ÿc1[MAX:370ED/-60CR]\nÿc4Doom",
         "zhTW": "ÿc1[MAX:370ED/-60CR]\nÿc:風德常用\nÿc4末日 ÿc2Doom",
         "deDE": "Verdammnis",
         "esES": "Fatalidad",
@@ -1583,7 +1583,7 @@
     {
         "id": 20533,
         "Key": "Runeword27",
-        "enUS": "Dragon",
+        "enUS": "ÿc1[MAX:5attr]\nÿc4Dragon",
         "zhTW": "ÿc1[MAX:5屬性]\nÿc4飛龍 ÿc2Dragon",
         "deDE": "Drachen",
         "esES": "Dragón",
@@ -1617,7 +1617,7 @@
     {
         "id": 20535,
         "Key": "Runeword29",
-        "enUS": "Dream",
+        "enUS": "ÿc1[MAX:30FHR/220DEF/20RES/25MF]\nÿc4Dream",
         "zhTW": "ÿc1[MAX:30FHR/220DEF/20RES/25MF]\nÿc:雙夢法師和聖騎必備，目前bug已取消\nÿc4夢境 ÿc2Dream",
         "deDE": "Traum",
         "esES": "Sueño",
@@ -1634,7 +1634,7 @@
     {
         "id": 20536,
         "Key": "Runeword30",
-        "enUS": "Duress",
+        "enUS": "ÿc1[MAX:20ED(DAM)/200ED(DEF)]\nÿc4Duress",
         "zhTW": "ÿc1[MAX:20ED(DAM)/200ED(DEF)]\nÿc:Kboss常用，窮人米山可穿它\nÿc4強制 ÿc2Duress",
         "deDE": "Nötigung",
         "esES": "Coacción",
@@ -1651,7 +1651,7 @@
     {
         "id": 20537,
         "Key": "Runeword31",
-        "enUS": "Edge",
+        "enUS": "ÿc1[MAX:380ddmg/10attr]\nÿc4Edge",
         "zhTW": "ÿc1[MAX:380惡魔傷害/10屬性]\nÿc:俗稱賭博弓，賭博常用\nÿc4邊緣 ÿc2Edge",
         "deDE": "Schneide",
         "esES": "Filo",
@@ -1685,7 +1685,7 @@
     {
         "id": 20539,
         "Key": "Runeword33",
-        "enUS": "Enigma",
+        "enUS": "ÿc1[MAX:775DEF]\nÿc4Enigma",
         "zhTW": "ÿc1[MAX:775DEF]\nÿc:脫貧甲，與無限一起成爲土豪標誌（新人版）\nÿc4謎團 ÿc2Enigma",
         "deDE": "Rätsel",
         "esES": "Enigma",
@@ -1736,7 +1736,7 @@
     {
         "id": 20542,
         "Key": "Runeword36",
-        "enUS": "Eternity",
+        "enUS": "ÿc1[MAX:310ED]\nÿc4Eternity",
         "zhTW": "ÿc1[MAX:310ED]\nÿc4永恆 ÿc2Eternity",
         "deDE": "Ewigkeit",
         "esES": "Eternidad",
@@ -1753,7 +1753,7 @@
     {
         "id": 20543,
         "Key": "Runeword37",
-        "enUS": "Exile",
+        "enUS": "ÿc1[MAX:16aura/260ED]\nÿc4Exile",
         "zhTW": "ÿc1[MAX:16反抗/260ED]\nÿc:PK或者K6盾擊最常用，PVC不如飾金盾\nÿc4流亡 ÿc2Exile",
         "deDE": "Exil",
         "esES": "Exilio",
@@ -1770,7 +1770,7 @@
     {
         "id": 20544,
         "Key": "Runeword38",
-        "enUS": "Faith",
+        "enUS": "ÿc1[MAX:15aura/2Skill]\nÿc4Faith",
         "zhTW": "ÿc1[MAX:15狂熱/2Skill]\nÿc:弓馬進階必備，可手抓也可給京子\nÿc4信心 ÿc2Faith",
         "deDE": "Glaube",
         "esES": "Fe",
@@ -1787,7 +1787,7 @@
     {
         "id": 20545,
         "Key": "Runeword39",
-        "enUS": "Famine",
+        "enUS": "ÿc1[MAX:370ED]\nÿc4Famine",
         "zhTW": "ÿc1[MAX:370ED]\nÿc4饑荒 ÿc2Famine",
         "deDE": "Hungersnot",
         "esES": "Hambruna",
@@ -1821,7 +1821,7 @@
     {
         "id": 20547,
         "Key": "Runeword41",
-        "enUS": "Fortitude",
+        "enUS": "ÿc1[MAX:1.5LF(LV)/30RES]\nÿc4Fortitude",
         "zhTW": "ÿc1[MAX:1.5LF(LV)/30RES]\nÿc:物理系第一甲，別忘了它還混武器界\nÿc4剛毅 ÿc2Fortitude",
         "deDE": "Stärke",
         "esES": "Fortaleza",
@@ -1889,7 +1889,7 @@
     {
         "id": 20551,
         "Key": "Runeword45",
-        "enUS": "Gloom",
+        "enUS": "ÿc1[MAX:260ED]\nÿc4Gloom",
         "zhTW": "ÿc1[MAX:260ED]\nÿc4幽暗 ÿc2Gloom",
         "deDE": "Düsternis",
         "esES": "Melancolía",
@@ -1923,7 +1923,7 @@
     {
         "id": 20553,
         "Key": "Runeword47",
-        "enUS": "Grief",
+        "enUS": "ÿc1[MAX:40IAS/400DAM/-25PR]\nÿc4Grief",
         "zhTW": "ÿc1[MAX:40IAS/400DAM/-25PR]\nÿc:單手武器之王，別以爲它的ias不重要，中衰老試試？\nÿc4悔恨 ÿc2Grief",
         "deDE": "Trauer",
         "esES": "Dolor",
@@ -1940,7 +1940,7 @@
     {
         "id": 20554,
         "Key": "Runeword48",
-        "enUS": "Hand of Justice",
+        "enUS": "ÿc1[MAX:330ED]\nÿc4Hand of Justice",
         "zhTW": "ÿc1[MAX:330ED]\nÿc4正義之手 ÿc2Hand of Justice",
         "deDE": "Hand der Gerechtigkeit",
         "esES": "Mano justiciera",
@@ -1957,7 +1957,7 @@
     {
         "id": 20555,
         "Key": "Runeword49",
-        "enUS": "Harmony",
+        "enUS": "ÿc1[MAX:275ED/6valkly]\nÿc4Harmony",
         "zhTW": "ÿc1[MAX:275ED/6女武神]\nÿc:跑步弓，多用於副手\nÿc4和諧 ÿc2Harmony",
         "deDE": "Harmonie",
         "esES": "Armonía",
@@ -1991,7 +1991,7 @@
     {
         "id": 20557,
         "Key": "Runeword51",
-        "enUS": "Heart of the Oak",
+        "enUS": "ÿc1[MAX:40RES]\nÿc4Heart of the Oak",
         "zhTW": "ÿc1[MAX:40RES]\nÿc:教主神器，法系萬金油\nÿc4橡樹之心 ÿc2Heart of the Oak",
         "deDE": "Herz der Eiche",
         "esES": "Corazón de roble",
@@ -2127,7 +2127,7 @@
     {
         "id": 20565,
         "Key": "Runeword59",
-        "enUS": "Ice",
+        "enUS": "ÿc1[MAX:210ED/30CD]\nÿc4Ice",
         "zhTW": "ÿc1[MAX:210ED/30CD]\nÿc:元素弓土豪玩物\nÿc4冰凍 ÿc2Ice",
         "deDE": "Eis",
         "esES": "Hielo",
@@ -2144,7 +2144,7 @@
     {
         "id": 20566,
         "Key": "Runeword60",
-        "enUS": "Infinity",
+        "enUS": "ÿc1[MAX:325ED/-55LR]\nÿc4Infinity",
         "zhTW": "ÿc1[MAX:325ED/-55LR]\nÿc:其實我一直很想教超級勞模做魔（娛樂版）\nÿc4無限 ÿc2Infinity",
         "deDE": "Unendlichkeit",
         "esES": "Infinito",
@@ -2178,7 +2178,7 @@
     {
         "id": 20568,
         "Key": "Runeword62",
-        "enUS": "Insight",
+        "enUS": "ÿc1[MAX:17aura/260ED/250AR/6CS]\nÿc4Insight",
         "zhTW": "ÿc1[MAX:17冥思/260ED/250AR/6CS]\nÿc:性價比最高的RW之二，續航神器，6cs輸出也是槓槓的\nÿc4眼光 ÿc2Insight",
         "deDE": "Einsicht",
         "esES": "Perspicacia",
@@ -2246,7 +2246,7 @@
     {
         "id": 20572,
         "Key": "Runeword66",
-        "enUS": "Kingslayer",
+        "enUS": "ÿc1[MAX:270ED]\nÿc4Kingslayer",
         "zhTW": "ÿc1[MAX:270ED]\nÿc:不知道黑毛看了它怕不怕\nÿc4弒君者 ÿc2Kingslayer",
         "deDE": "Königsmord",
         "esES": "Regicida",
@@ -2297,7 +2297,7 @@
     {
         "id": 20575,
         "Key": "Runeword69",
-        "enUS": "Last Wish",
+        "enUS": "ÿc1[MAX:375ED/70CB]\nÿc4Last Wish",
         "zhTW": "ÿc1[MAX:375ED/70CB]\nÿc:有錢就是任性\nÿc4最後希望 ÿc2Last Wish",
         "deDE": "Letzter Wunsch",
         "esES": "Último deseo",
@@ -2331,7 +2331,7 @@
     {
         "id": 20577,
         "Key": "Runeword71",
-        "enUS": "Lawbringer",
+        "enUS": "ÿc1[MAX:18aura/250rdef]\nÿc4Lawbringer",
         "zhTW": "ÿc1[MAX:18庇護所/250遠程防禦]\nÿc:城管劍，通常開荒放副手\nÿc4執法者 ÿc2Lawbringer",
         "deDE": "Gesetzesbringer",
         "esES": "Jurista",
@@ -2654,7 +2654,7 @@
     {
         "id": 20596,
         "Key": "Runeword91",
-        "enUS": "Oath",
+        "enUS": "ÿc1[MAX:340ED/15ma]\nÿc4Oath",
         "zhTW": "ÿc1[MAX:340ED/15魔法吸收]\nÿc:平民武器之王\nÿc4誓約 ÿc2Oath",
         "deDE": "Eid",
         "esES": "Juramento",
@@ -2671,7 +2671,7 @@
     {
         "id": 20597,
         "Key": "Runeword92",
-        "enUS": "Obedience",
+        "enUS": "ÿc1[MAX:300DEF/30RES]\nÿc4Obedience",
         "zhTW": "ÿc1[MAX:300DEF/30RES]\nÿc:綜合性不錯的武器，純招米山或狼德可過渡\nÿc4遵從 ÿc2Obedience",
         "deDE": "Gehorsam",
         "esES": "Obediencia",
@@ -2722,7 +2722,7 @@
     {
         "id": 20600,
         "Key": "Runeword95",
-        "enUS": "Passion",
+        "enUS": "ÿc1[MAX:210ED/80AR]\nÿc4Passion",
         "zhTW": "ÿc1[MAX:210ED/80AR]\nÿc:狂戰士能拿來破物免\nÿc4熱情 ÿc2Passion",
         "deDE": "Leidenschaft",
         "esES": "Pasión",
@@ -2790,7 +2790,7 @@
     {
         "id": 20604,
         "Key": "Runeword99",
-        "enUS": "Voice of Reason",
+        "enUS": "ÿc1[MAX:350ddmg/375uddmg]\nÿc4Voice of Reason",
         "zhTW": "ÿc1[MAX:350惡魔/375亡靈傷害]\nÿc4思考之聲 ÿc2Voice of Reason",
         "deDE": "Stimme der Vernunft",
         "esES": "Voz de la razón",
@@ -2858,7 +2858,7 @@
     {
         "id": 20608,
         "Key": "Runeword103",
-        "enUS": "Phoenix",
+        "enUS": "ÿc1[MAX:15aura/400ED/400rdef/21fa]\nÿc4Phoenix",
         "zhTW": "ÿc1[MAX:15救贖/400ED/400遠程防禦/21火焰吸收]\nÿc:續航神器，火法或者武學刺要帶它\nÿc4鳳凰 ÿc2Phoenix",
         "deDE": "Phönix",
         "esES": "Fénix",
@@ -2960,7 +2960,7 @@
     {
         "id": 20614,
         "Key": "Runeword109",
-        "enUS": "Pride",
+        "enUS": "ÿc1[MAX:20aura/300AR]\nÿc4Pride",
         "zhTW": "ÿc1[MAX:20專注/300AR]\nÿc:土豪弓馬米山拿，土豪純招做鐵魔\nÿc4驕傲 ÿc2Pride",
         "deDE": "Stolz",
         "esES": "Orgullo",
@@ -3011,7 +3011,7 @@
     {
         "id": 20617,
         "Key": "Runeword112",
-        "enUS": "Prudence",
+        "enUS": "ÿc1[MAX:170ED/35RES]\nÿc4Prudence",
         "zhTW": "ÿc1[MAX:170ED/35RES]\nÿc4謹重 ÿc2Prudence",
         "deDE": "Besonnenheit",
         "esES": "Prudencia",
@@ -3096,7 +3096,7 @@
     {
         "id": 20622,
         "Key": "Runeword117",
-        "enUS": "Rain",
+        "enUS": "ÿc1[MAX:150mana]\nÿc4Rain",
         "zhTW": "ÿc1[MAX:150法力]\nÿc4降雨 ÿc2Rain",
         "deDE": "Regen",
         "esES": "Lluvia",
@@ -3164,7 +3164,7 @@
     {
         "id": 20626,
         "Key": "Runeword121",
-        "enUS": "Rift",
+        "enUS": "ÿc1[MAX:10attr]\nÿc4Rift",
         "zhTW": "ÿc1[MAX:10屬性]\nÿc:煙花棒\nÿc4裂縫 ÿc2Rift",
         "deDE": "Zerrissenheit",
         "esES": "Grieta",
@@ -3181,7 +3181,7 @@
     {
         "id": 20627,
         "Key": "Runeword122",
-        "enUS": "Sanctuary",
+        "enUS": "ÿc1[MAX:160ED/70RES]\nÿc4Sanctuary",
         "zhTW": "ÿc1[MAX:160ED/70RES]\nÿc4聖堂 ÿc2Sanctuary",
         "deDE": "Zuflucht",
         "esES": "Santuario",
@@ -3317,7 +3317,7 @@
     {
         "id": 20635,
         "Key": "Runeword130",
-        "enUS": "Spirit",
+        "enUS": "ÿc1[MAX:35FCR/112mana/8ma]\nÿc4Spirit",
         "zhTW": "ÿc1[MAX:35FCR/112法力/8魔法吸收]\nÿc:性價比最高的RW之一，很多法系終配，35fcr最關鍵\nÿc4精神 ÿc2Spirit",
         "deDE": "Geist",
         "esES": "Espíritu",
@@ -3334,7 +3334,7 @@
     {
         "id": 20636,
         "Key": "Runeword131",
-        "enUS": "Splendor",
+        "enUS": "ÿc1[MAX:100ED]\nÿc4Splendor",
         "zhTW": "ÿc1[MAX:100ED]\nÿc:初期MF很實用\nÿc4燦爛 ÿc2Splendor",
         "deDE": "Pracht",
         "esES": "Esplendor",
@@ -3436,7 +3436,7 @@
     {
         "id": 20642,
         "Key": "Runeword137",
-        "enUS": "Stone",
+        "enUS": "ÿc1[MAX:290ED]\nÿc4Stone",
         "zhTW": "ÿc1[MAX:290ED]\nÿc:尷尬的裝甲，有錢人可以做來玩玩，用途不大\nÿc4石塊 ÿc2Stone",
         "deDE": "Stein",
         "esES": "Roca",
@@ -3878,7 +3878,7 @@
     {
         "id": 20668,
         "Key": "Runeword163",
-        "enUS": "Wind",
+        "enUS": "ÿc1[MAX:160ED]\nÿc4Wind",
         "zhTW": "ÿc1[MAX:160ED]\nÿc4輕風 ÿc2Wind",
         "deDE": "Wind",
         "esES": "Viento",
@@ -3963,7 +3963,7 @@
     {
         "id": 20673,
         "Key": "Runeword168",
-        "enUS": "Wrath",
+        "enUS": "ÿc1[MAX:300uddmg]\nÿc4Wrath",
         "zhTW": "ÿc1[MAX:300亡靈傷害]\nÿc4憤怒 ÿc2Wrath",
         "deDE": "Wut",
         "esES": "Ira",
