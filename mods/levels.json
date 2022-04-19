@@ -2,8 +2,8 @@
   {
     "id": 788,
     "Key": "Moo Moo Farm",
-    "enUS": "The Secret Cow Level",
-    "zhTW": "秘密母牛關卡[28 64 81]",
+    "enUS": "The Secret Cow Level [28|64|81]",
+    "zhTW": "秘密母牛關卡 [28|64|81]",
     "deDE": "Das Geheime Kuhlevel",
     "esES": "Nivel Secreto de las Vacas",
     "frFR": "Le niveau secret des vaches",
@@ -14,13 +14,13 @@
     "jaJP": "秘密の牛牧場",
     "ptBR": "O Nível Secreto da Vaca",
     "ruRU": "Секретный коровий уровень",
-    "zhCN": "秘密母牛关卡[28 64 81]"
+    "zhCN": "秘密母牛关卡 [28|64|81]"
   },
   {
     "id": 789,
     "Key": "Chaos Sanctum",
-    "enUS": "The Chaos Sanctuary",
-    "zhTW": " 混沌庇難所[28 58 85]",
+    "enUS": "The Chaos Sanctuary [28|58|85]",
+    "zhTW": "混沌庇難所 [28|58|85]",
     "deDE": "Das Chaos-Sanktuarium",
     "esES": "Santuario del Caos",
     "frFR": "Le Sanctuaire du chaos",
@@ -31,7 +31,7 @@
     "jaJP": "混沌の聖域",
     "ptBR": "O Santuário do Caos",
     "ruRU": "Святилище Хаоса",
-    "zhCN": " 混沌庇难所[28 58 85]"
+    "zhCN": "混沌庇难所 [28|58|85]"
   },
   {
     "id": 790,
@@ -53,8 +53,8 @@
   {
     "id": 791,
     "Key": "River of Flame",
-    "enUS": "River of Flame",
-    "zhTW": "火焰之河[27 57 85]",
+    "enUS": "River of Flame [27|57|85]",
+    "zhTW": "火焰之河 [27|57|85]",
     "deDE": "Flammenfluss",
     "esES": "Río de Llamas",
     "frFR": "La Rivière de feu",
@@ -65,13 +65,13 @@
     "jaJP": "炎の河",
     "ptBR": "Rio de Chamas",
     "ruRU": "Огненная река",
-    "zhCN": "火焰之河[27 57 85]"
+    "zhCN": "火焰之河 [27|57|85]"
   },
   {
     "id": 792,
     "Key": "Outer Steppes",
-    "enUS": "Outer Steppes",
-    "zhTW": "郊外大草原[26 56 82]",
+    "enUS": "Outer Steppes [26|56|82]",
+    "zhTW": "郊外大草原 [26|56|82]",
     "deDE": "Äußere Steppe",
     "esES": "Estepas Exteriores",
     "frFR": "Les Steppes infinies",
@@ -82,13 +82,13 @@
     "jaJP": "果ての草原",
     "ptBR": "Estepes Externas",
     "ruRU": "Рубежные степи",
-    "zhCN": "郊外大草原[26 56 82]"
+    "zhCN": "郊外大草原 [26|56|82]"
   },
   {
     "id": 793,
     "Key": "Plains of Despair",
-    "enUS": "Plains of Despair",
-    "zhTW": "絕望平原[26 56 83]",
+    "enUS": "Plains of Despair [26|56|83]",
+    "zhTW": "絕望平原 [26|56|83]",
     "deDE": "Ebene der Verzweiflung",
     "esES": "Llanuras del Desaliento",
     "frFR": "Les Plaines du désespoir",
@@ -99,13 +99,13 @@
     "jaJP": "絶望の平原",
     "ptBR": "Planície do Desespero",
     "ruRU": "Долина Отчаяния",
-    "zhCN": "绝望平原[26 56 83]"
+    "zhCN": "绝望平原 [26|56|83]"
   },
   {
     "id": 794,
     "Key": "City of the Damned",
-    "enUS": "City of the Damned",
-    "zhTW": "神罰之城[27 57 84]",
+    "enUS": "City of the Damned [27|57|84]",
+    "zhTW": "神罰之城 [27|57|84]",
     "deDE": "Stadt der Verdammten",
     "esES": "Ciudad de los Malditos",
     "frFR": "La Ville des damnés",
@@ -116,13 +116,13 @@
     "jaJP": "呪われし街",
     "ptBR": "Cidade dos Condenados",
     "ruRU": "Город Проклятых",
-    "zhCN": "神罚之城[27 57 84]"
+    "zhCN": "神罚之城 [27|57|84]"
   },
   {
     "id": 795,
     "Key": "Durance of Hate Level 3",
-    "enUS": "Durance of Hate Level 3",
-    "zhTW": "憎恨的囚牢第三層[25 55 83]",
+    "enUS": "Durance of Hate Level 3 [25|55|83]",
+    "zhTW": "憎恨的囚牢第三層 [25|55|83]",
     "deDE": "Kerker des Hasses, Ebene 3",
     "esES": "Represión del Odio nivel 3",
     "frFR": "La Prison de la Haine niv. 3",
@@ -133,13 +133,13 @@
     "jaJP": "憎悪の檻: 第3階層",
     "ptBR": "Cárcere do Ódio Nível 3",
     "ruRU": "Узилище Ненависти: 3-й уровень",
-    "zhCN": "憎恨的囚牢第三层[25 55 83]"
+    "zhCN": "憎恨的囚牢第三层 [25|55|83]"
   },
   {
     "id": 796,
     "Key": "Durance of Hate Level 2",
-    "enUS": "Durance of Hate Level 2",
-    "zhTW": "憎恨的囚牢第二層[25 55 83]",
+    "enUS": "Durance of Hate Level 2 [25|55|83]",
+    "zhTW": "憎恨的囚牢第二層 [25|55|83]",
     "deDE": "Kerker des Hasses, Ebene 2",
     "esES": "Represión del Odio nivel 2",
     "frFR": "La Prison de la Haine niv. 2",
@@ -150,13 +150,13 @@
     "jaJP": "憎悪の檻: 第2階層",
     "ptBR": "Cárcere do Ódio Nível 2",
     "ruRU": "Узилище Ненависти: 2-й уровень",
-    "zhCN": "憎恨的囚牢第二层[25 55 83]"
+    "zhCN": "憎恨的囚牢第二层 [25|55|83]"
   },
   {
     "id": 797,
     "Key": "Durance of Hate Level 1",
-    "enUS": "Durance of Hate Level 1",
-    "zhTW": "憎恨的囚牢第一層[25 55 83]",
+    "enUS": "Durance of Hate Level 1 [25|55|83]",
+    "zhTW": "憎恨的囚牢第一層 [25|55|83]",
     "deDE": "Kerker des Hasses, Ebene 1",
     "esES": "Represión del Odio nivel 1",
     "frFR": "La Prison de la Haine niv. 1",
@@ -167,13 +167,13 @@
     "jaJP": "憎悪の檻: 第1階層",
     "ptBR": "Cárcere do Ódio Nível 1",
     "ruRU": "Узилище Ненависти: 1-й уровень",
-    "zhCN": "憎恨的囚牢第一层[25 55 83]"
+    "zhCN": "憎恨的囚牢第一层 [25|55|83]"
   },
   {
     "id": 798,
     "Key": "Disused Reliquary",
-    "enUS": "Disused Reliquary",
-    "zhTW": "廢棄的聖殿[24 54 85]",
+    "enUS": "Disused Reliquary [23|53|85]",
+    "zhTW": "廢棄的聖物 [23|53|85]",
     "deDE": "Verlassener Reliquienschrein",
     "esES": "Relicario Abandonado",
     "frFR": "Le Reliquaire abandonné",
@@ -184,13 +184,13 @@
     "jaJP": "打ち捨てられし聖廟",
     "ptBR": "Relicário Abandonado",
     "ruRU": "Заброшенный реликварий",
-    "zhCN": "废弃的圣物[24 54 85]"
+    "zhCN": "废弃的圣殿 [23|53|85]"
   },
   {
     "id": 799,
     "Key": "Ruined Fane",
-    "enUS": "Ruined Fane",
-    "zhTW": "殘破的寺院[24 54 85]",
+    "enUS": "Ruined Fane [24|54|85]",
+    "zhTW": "殘破的寺院 [24|54|85]",
     "deDE": "Zerfallenes Heiligtum",
     "esES": "Fano en Ruinas",
     "frFR": "Le Sanctuaire en ruine",
@@ -201,13 +201,13 @@
     "jaJP": "荒れ果てた神殿",
     "ptBR": "Ádito Arruinado",
     "ruRU": "Разрушенная церковь",
-    "zhCN": "残破的寺院[24 54 85]"
+    "zhCN": "残破的寺院 [24|54|85]"
   },
   {
     "id": 800,
     "Key": "Forgotten Temple",
-    "enUS": "Forgotten Temple",
-    "zhTW": "遺忘神殿[24 54 85]",
+    "enUS": "Forgotten Temple [24|54|85]",
+    "zhTW": "遺忘神殿 [24|54|85]",
     "deDE": "Vergessener Tempel",
     "esES": "Templo Olvidado",
     "frFR": "Le Temple oublié",
@@ -218,13 +218,13 @@
     "jaJP": "忘れ去られし寺院",
     "ptBR": "Templo Esquecido",
     "ruRU": "Забытый храм",
-    "zhCN": "遗忘神殿[24 54 85]"
+    "zhCN": "遗忘神殿 [24|54|85]"
   },
   {
     "id": 801,
     "Key": "Forgotten Reliquary",
-    "enUS": "Forgotten Reliquary",
-    "zhTW": "遺忘的聖殿[23 53 84]",
+    "enUS": "Forgotten Reliquary [23|53|85]",
+    "zhTW": "遺忘的聖物 [23|53|85]",
     "deDE": "Vergessener Reliquienschrein",
     "esES": "Relicario Olvidado",
     "frFR": "Le Reliquaire oublié",
@@ -235,13 +235,13 @@
     "jaJP": "忘れ去られし聖廟",
     "ptBR": "Relicário Esquecido",
     "ruRU": "Забытый реликварий",
-    "zhCN": "遗忘的圣物[23 53 84]"
+    "zhCN": "遗忘的圣物 [23|53|85]"
   },
   {
     "id": 802,
     "Key": "Disused Fane",
-    "enUS": "Disused Fane",
-    "zhTW": "廢棄的寺院[23 53 84]",
+    "enUS": "Disused Fane [23|53|85]",
+    "zhTW": "廢棄的寺院 [23|53|85]",
     "deDE": "Verlassenes Heiligtum",
     "esES": "Fano Abandonado",
     "frFR": "Le Sanctuaire abandonné",
@@ -252,13 +252,13 @@
     "jaJP": "打ち捨てられし神殿",
     "ptBR": "Ádito Abandonado",
     "ruRU": "Заброшенная церковь",
-    "zhCN": "废弃的寺院[23 53 84]"
+    "zhCN": "废弃的寺院 [23|53|85]"
   },
   {
     "id": 803,
     "Key": "Ruined Temple",
-    "enUS": "Ruined Temple",
-    "zhTW": "殘破神殿(任务书)[23 53 84]",
+    "enUS": "Ruined Temple [23|53|85]",
+    "zhTW": "殘破神殿 [23|53|85]",
     "deDE": "Zerfallener Tempel",
     "esES": "Templo en Ruinas",
     "frFR": "Le Temple en ruine",
@@ -269,13 +269,13 @@
     "jaJP": "荒れ果てた寺院",
     "ptBR": "Templo Arruinado",
     "ruRU": "Разрушенный храм",
-    "zhCN": "23 53 84残破神殿(任务书)[23 53 84]"
+    "zhCN": "残破神殿 [23|53|85]"
   },
   {
     "id": 804,
     "Key": "Flayer Dungeon Level 3",
-    "enUS": "Flayer Dungeon Level 3",
-    "zhTW": "剝皮地窖第三層[22 51 83]",
+    "enUS": "Flayer Dungeon Level 3 [22|51|83]",
+    "zhTW": "剝皮地窖第三層 [22|51|83]",
     "deDE": "Schinderdungeon, Ebene 3",
     "esES": "Mazmorra de Desollamiento nivel 3",
     "frFR": "La Prison de l’Écorcheur niv. 3",
@@ -286,13 +286,13 @@
     "jaJP": "フレイヤーの地下牢: 第3階層",
     "ptBR": "Masmorra dos Esfoladores Nível 3",
     "ruRU": "Подземелье свежевателей: 3-й уровень",
-    "zhCN": "剥皮地窖第三层[22 51 83  ]"
+    "zhCN": "剥皮地窖第三层 [22|51|83]"
   },
   {
     "id": 805,
     "Key": "Flayer Dungeon Level 2",
-    "enUS": "Flayer Dungeon Level 2",
-    "zhTW": "剝皮地窖第二層[22 51 82]",
+    "enUS": "Flayer Dungeon Level 2 [22|51|82]",
+    "zhTW": "剝皮地窖第二層 [22|51|82]",
     "deDE": "Schinderdungeon, Ebene 2",
     "esES": "Mazmorra de Desollamiento nivel 2",
     "frFR": "La Prison de l’Écorcheur niv. 2",
@@ -303,13 +303,13 @@
     "jaJP": "フレイヤーの地下牢: 第2階層",
     "ptBR": "Masmorra dos Esfoladores Nível 2",
     "ruRU": "Подземелье свежевателей: 2-й уровень",
-    "zhCN": "剥皮地窖第二层[22 51 82]"
+    "zhCN": "剥皮地窖第二层 [22|51|82]"
   },
   {
     "id": 806,
     "Key": "Flayer Dungeon Level 1",
-    "enUS": "Flayer Dungeon Level 1",
-    "zhTW": "剝皮地窖第一層[22 51 81]",
+    "enUS": "Flayer Dungeon Level 1 [22|51|81]",
+    "zhTW": "剝皮地窖第一層 [22|51|81]",
     "deDE": "Schinderdungeon, Ebene 1",
     "esES": "Mazmorra de Desollamiento nivel 1",
     "frFR": "La Prison de l’Écorcheur niv. 1",
@@ -320,13 +320,13 @@
     "jaJP": "フレイヤーの地下牢: 第1階層",
     "ptBR": "Masmorra dos Esfoladores Nível 1",
     "ruRU": "Подземелье свежевателей: 1-й уровень",
-    "zhCN": "剥皮地窖第一层[22 51 81]"
+    "zhCN": "剥皮地窖第一层 [22|51|81]"
   },
   {
     "id": 807,
     "Key": "Swampy Pit Level 3",
-    "enUS": "Swampy Pit Level 3",
-    "zhTW": "沼澤地洞第三層[21 51 82]",
+    "enUS": "Swampy Pit Level 3 [21|51|85]",
+    "zhTW": "沼澤地洞第三層 [21|51|85]",
     "deDE": "Sumpfloch, Ebene 3",
     "esES": "Foso Pantanoso nivel 3",
     "frFR": "Le Bourbier niv. 3",
@@ -337,13 +337,13 @@
     "jaJP": "沼地の穴ぐら: 第3階層",
     "ptBR": "Fosso Pantanoso Nível 3",
     "ruRU": "Глубокая трясина: 3-й уровень",
-    "zhCN": "沼泽地洞第三层[21 51 82]"
+    "zhCN": "沼泽地洞第三层 [21|51|85]"
   },
   {
     "id": 808,
     "Key": "Swampy Pit Level 2",
-    "enUS": "Swampy Pit Level 2",
-    "zhTW": "沼澤地洞第二層[21 51 81]",
+    "enUS": "Swampy Pit Level 2 [21|51|85]",
+    "zhTW": "沼澤地洞第二層 [21|51|85]",
     "deDE": "Sumpfloch, Ebene 2",
     "esES": "Foso Pantanoso nivel 2",
     "frFR": "Le Bourbier niv. 2",
@@ -354,13 +354,13 @@
     "jaJP": "沼地の穴ぐら: 第2階層",
     "ptBR": "Fosso Pantanoso Nível 2",
     "ruRU": "Глубокая трясина: 2-й уровень",
-    "zhCN": "沼泽地洞第二层[21 51 81]"
+    "zhCN": "沼泽地洞第二层 [21|51|85]"
   },
   {
     "id": 809,
     "Key": "Swampy Pit Level 1",
-    "enUS": "Swampy Pit Level 1",
-    "zhTW": "沼澤地洞第一層[21 51 80]",
+    "enUS": "Swampy Pit Level 1 [21|51|85]",
+    "zhTW": "沼澤地洞第一層 [21|51|85]",
     "deDE": "Sumpfloch, Ebene 1",
     "esES": "Foso Pantanoso nivel 1",
     "frFR": "Le Bourbier niv. 1",
@@ -371,13 +371,13 @@
     "jaJP": "沼地の穴ぐら: 第1階層",
     "ptBR": "Fosso Pantanoso Nível 1",
     "ruRU": "Глубокая трясина: 1-й уровень",
-    "zhCN": "沼泽地洞第一层[21 51 80]"
+    "zhCN": "沼泽地洞第一层 [21|51|85]"
   },
   {
     "id": 810,
     "Key": "Spider Cave",
-    "enUS": "Arachnid Lair",
-    "zhTW": "蜘蛛巢穴[21 50 79]",
+    "enUS": "Arachnid Lair [21|50|85]",
+    "zhTW": "蜘蛛巢穴 [21|50|85]",
     "deDE": "Spinnenmonster-Gruft",
     "esES": "Cubil Arácnido",
     "frFR": "Le Repaire de l’Arachnide",
@@ -388,13 +388,13 @@
     "jaJP": "蜘蛛の巣穴",
     "ptBR": "Covil Aracnídeo",
     "ruRU": "Логово арахнидов",
-    "zhCN": "蜘蛛巢穴[21 50 79]"
+    "zhCN": "蜘蛛巢穴 [21|50|85]"
   },
   {
     "id": 811,
     "Key": "Spider Cavern",
-    "enUS": "Spider Cavern",
-    "zhTW": "蜘蛛洞窟(眼睛)[21 50 79]",
+    "enUS": "Spider Cavern [21|50|79]",
+    "zhTW": "蜘蛛洞窟 [21|50|79]",
     "deDE": "Spinnenhöhle",
     "esES": "Caverna de Arañas",
     "frFR": "La Caverne de l’Araignée",
@@ -405,13 +405,13 @@
     "jaJP": "蜘蛛の洞窟",
     "ptBR": "Caverna Aracnídea",
     "ruRU": "Паучья пещера",
-    "zhCN": "蜘蛛洞窟(眼睛)[21 50 79]"
+    "zhCN": "蜘蛛洞窟 [21|50|79]"
   },
   {
     "id": 812,
     "Key": "Travincal",
-    "enUS": "Travincal",
-    "zhTW": "崔凡克[24 54 82]",
+    "enUS": "Travincal [24|54|82]",
+    "zhTW": "崔凡克 [24|54|82]",
     "deDE": "Travincal",
     "esES": "Travincal",
     "frFR": "Travincal",
@@ -422,13 +422,13 @@
     "jaJP": "トラヴィンカル",
     "ptBR": "Travincal",
     "ruRU": "Травинкаль",
-    "zhCN": "崔凡克[24 54 82]"
+    "zhCN": "崔凡克 [24|54|82]"
   },
   {
     "id": 813,
     "Key": "Kurast Causeway",
-    "enUS": "Kurast Causeway",
-    "zhTW": "庫拉斯特堤道[24 53 81]",
+    "enUS": "Kurast Causeway [24|53|81]",
+    "zhTW": "庫拉斯特堤道 [24|53|81]",
     "deDE": "Damm von Kurast",
     "esES": "Calzada de Kurast",
     "frFR": "La Chaussée de Kurast",
@@ -439,13 +439,13 @@
     "jaJP": "クラスト舗道",
     "ptBR": "Passagem de Kurast",
     "ruRU": "Курастская дамба",
-    "zhCN": "库拉斯特堤道[24 53 81]"
+    "zhCN": "库拉斯特堤道 [24|53|81]"
   },
   {
     "id": 814,
     "Key": "Upper Kurast",
-    "enUS": "Upper Kurast",
-    "zhTW": "庫拉斯特上層[23 52 81]",
+    "enUS": "Upper Kurast [23|52|81]",
+    "zhTW": "庫拉斯特上層 [23|52|81]",
     "deDE": "Ober-Kurast",
     "esES": "Parte Alta de Kurast",
     "frFR": "Kurast - La ville haute",
@@ -456,13 +456,13 @@
     "jaJP": "クラスト上層",
     "ptBR": "Kurast Superior",
     "ruRU": "Верхний Кураст",
-    "zhCN": "库拉斯特上层[23 52 81]"
+    "zhCN": "库拉斯特上层 [23|52|81]"
   },
   {
     "id": 815,
     "Key": "Kurast Bazaar",
-    "enUS": "Kurast Bazaar",
-    "zhTW": "庫拉斯特商場[22 52 81]",
+    "enUS": "Kurast Bazaar [22|52|81]",
+    "zhTW": "庫拉斯特商場 [22|52|81]",
     "deDE": "Basar von Kurast",
     "esES": "Bazar de Kurast",
     "frFR": "Le Bazar de Kurast",
@@ -473,13 +473,13 @@
     "jaJP": "クラスト・バザール",
     "ptBR": "Bazar de Kurast",
     "ruRU": "Курастский базар",
-    "zhCN": "库拉斯特商场[22 52 81]"
+    "zhCN": "库拉斯特商场 [22|52|81]"
   },
   {
     "id": 816,
     "Key": "Lower Kurast",
-    "enUS": "Lower Kurast",
-    "zhTW": "庫拉斯特下層[22 52 80]",
+    "enUS": "Lower Kurast [22|52|80]",
+    "zhTW": "庫拉斯特下層 [22|52|80]",
     "deDE": "Unter-Kurast",
     "esES": "Parte Baja de Kurast",
     "frFR": "Kurast - La ville basse",
@@ -490,13 +490,13 @@
     "jaJP": "クラスト下層",
     "ptBR": "Kurast Inferior",
     "ruRU": "Нижний Кураст",
-    "zhCN": "库拉斯特下层[22 52 80]"
+    "zhCN": "库拉斯特下层 [22|52|80]"
   },
   {
     "id": 817,
     "Key": "Flayer Jungle",
-    "enUS": "Flayer Jungle",
-    "zhTW": "剝皮叢林[22 50 80]",
+    "enUS": "Flayer Jungle [22|50|80]",
+    "zhTW": "剝皮叢林 [22|50|80]",
     "deDE": "Schinderdschungel",
     "esES": "Selva Desolladora",
     "frFR": "La Jungle de l’Écorcheur",
@@ -507,13 +507,13 @@
     "jaJP": "フレイヤーの密林",
     "ptBR": "Selva dos Esfoladores",
     "ruRU": "Джунгли свежевателей",
-    "zhCN": "剥皮丛林[22 50 80]"
+    "zhCN": "剥皮丛林 [22|50|80]"
   },
   {
     "id": 818,
     "Key": "Great Marsh",
-    "enUS": "Great Marsh",
-    "zhTW": "龐大濕地[21 50 80]",
+    "enUS": "Great Marsh [21|50|80]",
+    "zhTW": "龐大濕地 [21|50|80]",
     "deDE": "Großes Moor",
     "esES": "Gran Pantano",
     "frFR": "Le Grand marais",
@@ -524,13 +524,13 @@
     "jaJP": "大湿原",
     "ptBR": "Grande Charco",
     "ruRU": "Болотина",
-    "zhCN": "庞大湿地[21 50 80]"
+    "zhCN": "庞大湿地 [21|50|80]"
   },
   {
     "id": 819,
     "Key": "Spider Forest",
-    "enUS": "Spider Forest",
-    "zhTW": "蜘蛛森林[21 49 79]",
+    "enUS": "Spider Forest [21|49|79]",
+    "zhTW": "蜘蛛森林 [21|49|79]",
     "deDE": "Spinnenwald",
     "esES": "Bosque de Arañas",
     "frFR": "La Forêt de l’Araignée",
@@ -541,7 +541,7 @@
     "jaJP": "蜘蛛の森",
     "ptBR": "Floresta Aracnídea",
     "ruRU": "Паучий лес",
-    "zhCN": "蜘蛛森林[21 49 79]"
+    "zhCN": "蜘蛛森林 [21|49|79]"
   },
   {
     "id": 820,
@@ -614,8 +614,8 @@
   {
     "id": 824,
     "Key": "Arcane Sanctuary",
-    "enUS": "Arcane Sanctuary",
-    "zhTW": "神秘庇難所[14 48 79]",
+    "enUS": "Arcane Sanctuary [14|48|79]",
+    "zhTW": "神秘庇難所 [14|48|79]",
     "deDE": "Geheime Zuflucht",
     "esES": "Santuario Arcano",
     "frFR": "Le Sanctuaire des Arcanes",
@@ -626,13 +626,13 @@
     "jaJP": "深遠なる聖域",
     "ptBR": "Santuário Arcano",
     "ruRU": "Магическое убежище",
-    "zhCN": "神秘避难所[14 48 79]"
+    "zhCN": "神秘避难所 [14|48|79]"
   },
   {
     "id": 825,
     "Key": "Duriel's Lair",
-    "enUS": "Tal Rasha's Chamber",
-    "zhTW": "都瑞爾的房間[17 49 80]",
+    "enUS": "Tal Rasha's Chamber [17|49|80]",
+    "zhTW": "都瑞爾的房間 [17|49|80]",
     "deDE": "Tal Rashas Kammer",
     "esES": "Cámara de Tal Rasha",
     "frFR": "La Chambre de Tal Rasha",
@@ -643,13 +643,13 @@
     "jaJP": "タル・ラシャの間",
     "ptBR": "Câmara de Tal Rasha",
     "ruRU": "Погребальный зал Тал Раши",
-    "zhCN": "都瑞尔的房间[17 49 80]"
+    "zhCN": "都瑞尔的房间 [17|49|80]"
   },
   {
     "id": 826,
     "Key": "Tal Rasha's Tomb",
-    "enUS": "Tal Rasha's Tomb",
-    "zhTW": "塔-拉夏的古墓[17 49 80]",
+    "enUS": "Tal Rasha's Tomb [17|49|80]",
+    "zhTW": "塔·拉夏的古墓 [17|49|80]",
     "deDE": "Tal Rashas Grab",
     "esES": "Tumba de Tal Rasha",
     "frFR": "Le Tombeau de Tal Rasha",
@@ -660,13 +660,13 @@
     "jaJP": "タル・ラシャの墓",
     "ptBR": "Tumba de Tal Rasha",
     "ruRU": "Гробница Тал Раши",
-    "zhCN": "塔-拉夏的古墓[17 49 80]"
+    "zhCN": "塔·拉夏的古墓 [17|49|80]"
   },
   {
     "id": 827,
     "Key": "Ancient Tunnels",
-    "enUS": "Ancient Tunnels",
-    "zhTW": "古代通道[17 46 85]",
+    "enUS": "Ancient Tunnels [17|46|85]",
+    "zhTW": "古代通道 [17|46|85]",
     "deDE": "Alte Tunnels",
     "esES": "Túneles Antiguos",
     "frFR": "Les Tunnels antiques",
@@ -677,13 +677,13 @@
     "jaJP": "古の坑道",
     "ptBR": "Túneis Ancestrais",
     "ruRU": "Древние туннели",
-    "zhCN": "古代通道[17 46 85]"
+    "zhCN": "古代通道 [17|46|85]"
   },
   {
     "id": 828,
     "Key": "Maggot Lair Level 3",
-    "enUS": "Maggot Lair Level 3",
-    "zhTW": "蛆蟲巢穴第三層[17 46 85]",
+    "enUS": "Maggot Lair Level 3 [17|46|85]",
+    "zhTW": "蛆蟲巢穴第三層 [17|46|85]",
     "deDE": "Wurmgruft, Ebene 3",
     "esES": "Cubil de Gusanos nivel 3",
     "frFR": "Le Repaire du ver niv. 3",
@@ -694,13 +694,13 @@
     "jaJP": "地虫の巣穴: 第3階層",
     "ptBR": "Covil de Vermes Nível 3",
     "ruRU": "Логово мокриц: 3-й уровень",
-    "zhCN": "蛆虫巢穴第三层[17 46 85]"
+    "zhCN": "蛆虫巢穴第三层 [17|46|85]"
   },
   {
     "id": 829,
     "Key": "Maggot Lair Level 2",
-    "enUS": "Maggot Lair Level 2",
-    "zhTW": "蛆蟲巢穴第二層[17 45 84]",
+    "enUS": "Maggot Lair Level 2 [17|45|84]",
+    "zhTW": "蛆蟲巢穴第二層 [17|45|84]",
     "deDE": "Wurmgruft, Ebene 2",
     "esES": "Cubil de Gusanos nivel 2",
     "frFR": "Le Repaire du ver niv. 2",
@@ -711,13 +711,13 @@
     "jaJP": "地虫の巣穴: 第2階層",
     "ptBR": "Covil de Vermes Nível 2",
     "ruRU": "Логово мокриц: 2-й уровень",
-    "zhCN": "4蛆虫巢穴第二层[17 45 84]"
+    "zhCN": "蛆虫巢穴第二层 [17|45|84]"
   },
   {
     "id": 830,
     "Key": "Maggot Lair Level 1",
-    "enUS": "Maggot Lair Level 1",
-    "zhTW": "蛆蟲巢穴第一層[17 45 84]",
+    "enUS": "Maggot Lair Level 1 [17|45|84]",
+    "zhTW": "蛆蟲巢穴第一層 [17|45|84]",
     "deDE": "Wurmgruft, Ebene 1",
     "esES": "Cubil de Gusanos nivel 1",
     "frFR": "Le Repaire du ver niv. 1",
@@ -728,13 +728,13 @@
     "jaJP": "地虫の巣穴: 第1階層",
     "ptBR": "Covil de Vermes Nível 1",
     "ruRU": "Логово мокриц: 1-й уровень",
-    "zhCN": "蛆虫巢穴第一层[17 45 84]"
+    "zhCN": "蛆虫巢穴第一层 [17|45|84]"
   },
   {
     "id": 831,
     "Key": "Claw Viper Temple Level 2",
-    "enUS": "Claw Viper Temple Level 2",
-    "zhTW": "利爪腹蛇神殿第二層[14 47 83]",
+    "enUS": "Claw Viper Temple Level 2 [14|47|83]",
+    "zhTW": "利爪腹蛇神殿第二層 [14|47|83]",
     "deDE": "Tempel der Klauenvipern, Ebene 2",
     "esES": "Templo de la Garra Viperina nivel 2",
     "frFR": "Le Temple des Vipères niv. 2",
@@ -745,13 +745,13 @@
     "jaJP": "クロウ・ヴァイパーの寺院: 第2階層",
     "ptBR": "Templo da Víbora da Garra Nível 2",
     "ruRU": "Храм Когтистого Змея: 2-й уровень",
-    "zhCN": "利爪腹蛇神殿第二层[14 47 83]"
+    "zhCN": "利爪腹蛇神殿第二层 [14|47|83]"
   },
   {
     "id": 832,
     "Key": "Halls of the Dead Level 3",
-    "enUS": "Halls of the Dead Level 3",
-    "zhTW": "死亡之殿第三層[13 45 82]",
+    "enUS": "Halls of the Dead Level 3 [13|45|82]",
+    "zhTW": "死亡神殿第三層 [13|45|82]",
     "deDE": "Hallen der Toten, Ebene 3",
     "esES": "Salas de la Muerte nivel 3",
     "frFR": "Les Couloirs des morts niv. 3",
@@ -762,13 +762,13 @@
     "jaJP": "亡者の広間: 第3階層",
     "ptBR": "Salões dos Mortos Nível 3",
     "ruRU": "Чертоги Мертвых: 3-й уровень",
-    "zhCN": "死亡之殿第三层[13 45 82]"
+    "zhCN": "死亡神殿第三层 [13|45|82]"
   },
   {
     "id": 833,
     "Key": "Stony Tomb Level 2",
-    "enUS": "Stony Tomb Level 2",
-    "zhTW": "石製古墓第二層[12 44 79]",
+    "enUS": "Stony Tomb Level 2 [12|44|85]",
+    "zhTW": "石製古墓第二層 [12|44|85]",
     "deDE": "Steingrab, Ebene 2",
     "esES": "Tumba Pedregosa nivel 2",
     "frFR": "Le Tombeau de pierre niv. 2",
@@ -779,13 +779,13 @@
     "jaJP": "石造りの墓所: 第2階層",
     "ptBR": "Tumba Pétrea Nível 2",
     "ruRU": "Каменная гробница: 2-й уровень",
-    "zhCN": "石制古墓第二层[12 44 79]"
+    "zhCN": "石制古墓第二层 [12|44|85]"
   },
   {
     "id": 834,
     "Key": "Claw Viper Temple Level 1",
-    "enUS": "Claw Viper Temple Level 1",
-    "zhTW": "利爪腹蛇神殿第一層[14 47 82]",
+    "enUS": "Claw Viper Temple Level 1 [14|47|82]",
+    "zhTW": "利爪腹蛇神殿第一層 [14|47|82]",
     "deDE": "Tempel der Klauenvipern, Ebene 1",
     "esES": "Templo de la Garra Viperina nivel 1",
     "frFR": "Le Temple des Vipères niv. 1",
@@ -796,13 +796,13 @@
     "jaJP": "クロウ・ヴァイパーの寺院: 第1階層",
     "ptBR": "Templo da Víbora da Garra Nível 1",
     "ruRU": "Храм Когтистого Змея: 1-й уровень",
-    "zhCN": "利爪腹蛇神殿第一层[14 47 82]"
+    "zhCN": "利爪腹蛇神殿第一层 [14|47|82]"
   },
   {
     "id": 835,
     "Key": "Halls of the Dead Level 2",
-    "enUS": "Halls of the Dead Level 2",
-    "zhTW": "死亡之殿第二層[13 45 81]",
+    "enUS": "Halls of the Dead Level 2 [13|45|81]",
+    "zhTW": "死亡神殿第二層 [13|45|81]",
     "deDE": "Hallen der Toten, Ebene 2",
     "esES": "Salas de la Muerte nivel 2",
     "frFR": "Les Couloirs des morts niv. 2",
@@ -813,13 +813,13 @@
     "jaJP": "亡者の広間: 第2階層",
     "ptBR": "Salões dos Mortos Nível 2",
     "ruRU": "Чертоги Мертвых: 2-й уровень",
-    "zhCN": "死亡之殿第二层[13 45 81]"
+    "zhCN": "死亡神殿第二层 [13|45|81]"
   },
   {
     "id": 836,
     "Key": "Halls of the Dead Level 1",
-    "enUS": "Halls of the Dead Level 1",
-    "zhTW": "死亡之殿第一層[12 44 79]",
+    "enUS": "Halls of the Dead Level 1 [12|44|79]",
+    "zhTW": "死亡神殿第一層 [12|44|79]",
     "deDE": "Hallen der Toten, Ebene 1",
     "esES": "Salas de la Muerte nivel 1",
     "frFR": "Les Couloirs des morts niv. 1",
@@ -830,13 +830,13 @@
     "jaJP": "亡者の広間: 第1階層",
     "ptBR": "Salões dos Mortos Nível 1",
     "ruRU": "Чертоги Мертвых: 1-й уровень",
-    "zhCN": "死亡之殿第一层[12 44 79]"
+    "zhCN": "死亡神殿第一层 [12|44|79]"
   },
   {
     "id": 837,
     "Key": "Stony Tomb Level 1",
-    "enUS": "Stony Tomb Level 1",
-    "zhTW": "石製古墓第一層[12 44 78]",
+    "enUS": "Stony Tomb Level 1 [12|44|85]",
+    "zhTW": "石製古墓第一層 [12|44|85]",
     "deDE": "Steingrab, Ebene 1",
     "esES": "Tumba Pedregosa nivel 1",
     "frFR": "Le Tombeau de pierre niv. 1",
@@ -847,13 +847,13 @@
     "jaJP": "石造りの墓所: 第1階層",
     "ptBR": "Tumba Pétrea Nível 1",
     "ruRU": "Каменная гробница: 1-й уровень",
-    "zhCN": "石制古墓第一层[12 44 78]"
+    "zhCN": "石制古墓第一层 [12|44|85]"
   },
   {
     "id": 838,
     "Key": "Palace Cellar Level 3",
-    "enUS": "Palace Cellar Level 3",
-    "zhTW": "皇宮監牢第三層[13 48 78]",
+    "enUS": "Palace Cellar Level 3 [13|48|78]",
+    "zhTW": "皇宮監牢第三層 [13|48|78]",
     "deDE": "Palastkeller, Ebene 3",
     "esES": "Sótano del Palacio nivel 3",
     "frFR": "Les Caves du Palais niv. 3",
@@ -864,13 +864,13 @@
     "jaJP": "宮殿地下室: 第3階層",
     "ptBR": "Porão do Palácio Nível 3",
     "ruRU": "Дворцовый погреб: 3-й уровень",
-    "zhCN": "皇宫监牢第三层[13 48 78]"
+    "zhCN": "皇宫监牢第三层 [13|48|78]"
   },
   {
     "id": 839,
     "Key": "Palace Cellar Level 2",
-    "enUS": "Palace Cellar Level 2",
-    "zhTW": "皇宮監牢第二層[13 47 78]",
+    "enUS": "Palace Cellar Level 2 [13|47|78]",
+    "zhTW": "皇宮監牢第二層 [13|47|78]",
     "deDE": "Palastkeller, Ebene 2",
     "esES": "Sótano del Palacio nivel 2",
     "frFR": "Les Caves du Palais niv. 2",
@@ -881,13 +881,13 @@
     "jaJP": "宮殿地下室: 第2階層",
     "ptBR": "Porão do Palácio Nível 2",
     "ruRU": "Дворцовый погреб: 2-й уровень",
-    "zhCN": "皇宫监牢第二层[13 47 78]"
+    "zhCN": "皇宫监牢第二层 [13|47|78]"
   },
   {
     "id": 840,
     "Key": "Palace Cellar Level 1",
-    "enUS": "Palace Cellar Level 1",
-    "zhTW": "皇宮監牢第一層[13 47 78]",
+    "enUS": "Palace Cellar Level 1 [13|47|78]",
+    "zhTW": "皇宮監牢第一層 [13|47|78]",
     "deDE": "Palastkeller, Ebene 1",
     "esES": "Sótano del Palacio nivel 1",
     "frFR": "Les Caves du Palais niv. 1",
@@ -898,13 +898,13 @@
     "jaJP": "宮殿地下室: 第1階層",
     "ptBR": "Porão do Palácio Nível 1",
     "ruRU": "Дворцовый погреб: 1-й уровень",
-    "zhCN": "皇宫监牢第一层[13 47 78]"
+    "zhCN": "皇宫监牢第一层 [13|47|78]"
   },
   {
     "id": 841,
     "Key": "Harem Level 2",
-    "enUS": "Harem Level 2",
-    "zhTW": "女眷住處第二層[13 47 78]",
+    "enUS": "Harem Level 2 [13|47|78]",
+    "zhTW": "女眷住處第二層 [13|47|78]",
     "deDE": "Harem, Ebene 2",
     "esES": "Harén nivel 2",
     "frFR": "Le Harem niv. 2",
@@ -915,7 +915,7 @@
     "jaJP": "ハーレム: 第2階層",
     "ptBR": "Harém Nível 2",
     "ruRU": "Гарем: 2-й уровень",
-    "zhCN": "女眷住处第二层[13 47 78]"
+    "zhCN": "女眷住处第二层 [13|47|78]"
   },
   {
     "id": 842,
@@ -937,8 +937,8 @@
   {
     "id": 843,
     "Key": "Sewers Level 3",
-    "enUS": "Sewers Level 3",
-    "zhTW": "下水道第三層[14 44 75]",
+    "enUS": "Sewers Level 3 [14|44|75]",
+    "zhTW": "下水道第三層 [14|44|75]",
     "deDE": "Kanalisation, Ebene 3",
     "esES": "Cloacas nivel 3",
     "frFR": "Les Égouts niv. 3",
@@ -949,13 +949,13 @@
     "jaJP": "下水道: 第3階層",
     "ptBR": "Esgoto Nível 3",
     "ruRU": "Стоки: 3-й уровень",
-    "zhCN": "下水道第三层[14 44 75]"
+    "zhCN": "下水道第三层 [14|44|75]"
   },
   {
     "id": 844,
     "Key": "Sewers Level 2",
-    "enUS": "Sewers Level 2",
-    "zhTW": "下水道第二層[13 43 74]",
+    "enUS": "Sewers Level 2 [13|43|74]",
+    "zhTW": "下水道第二層 [13|43|74]",
     "deDE": "Kanalisation, Ebene 2",
     "esES": "Cloacas nivel 2",
     "frFR": "Les Égouts niv. 2",
@@ -966,13 +966,13 @@
     "jaJP": "下水道: 第2階層",
     "ptBR": "Esgoto Nível 2",
     "ruRU": "Стоки: 2-й уровень",
-    "zhCN": "下水道第二层[13 43 74]"
+    "zhCN": "下水道第二层 [13|43|74]"
   },
   {
     "id": 845,
     "Key": "Sewers Level 1",
-    "enUS": "Sewers Level 1",
-    "zhTW": "下水道第一層[13 43 74]",
+    "enUS": "Sewers Level 1 [13|43|74]",
+    "zhTW": "下水道第一層 13|43|74]",
     "deDE": "Kanalisation, Ebene 1",
     "esES": "Cloacas nivel 1",
     "frFR": "Les Égouts niv. 1",
@@ -983,13 +983,13 @@
     "jaJP": "下水道: 第1階層",
     "ptBR": "Esgoto Nível 1",
     "ruRU": "Стоки: 1-й уровень",
-    "zhCN": "下水道第一层[13 43 74]"
+    "zhCN": "下水道第一层 [13|43|74]"
   },
   {
     "id": 846,
     "Key": "Canyon of the Magi",
-    "enUS": "Canyon of the Magi",
-    "zhTW": "16 48 79術士的峽谷[27 57 85]",
+    "enUS": "Canyon of the Magi [16|48|79]",
+    "zhTW": "術士的峽谷 [16|48|79]",
     "deDE": "Schlucht der Magier",
     "esES": "Cañón de los Magos",
     "frFR": "Le Canyon des Magi",
@@ -1000,13 +1000,13 @@
     "jaJP": "魔術師の峡谷",
     "ptBR": "Cânion dos Magi",
     "ruRU": "Каньон волхвов",
-    "zhCN": "术士的峡谷[16 48 79]"
+    "zhCN": "术士的峡谷 [16|48|79]"
   },
   {
     "id": 847,
     "Key": "Valley of Snakes",
-    "enUS": "Valley of Snakes",
-    "zhTW": "群蛇峽谷[18 46 77]",
+    "enUS": "Valley of Snakes [18|46|77]",
+    "zhTW": "群蛇峽谷 [18|46|77]",
     "deDE": "Tal der Schlangen",
     "esES": "Valle de las Serpientes",
     "frFR": "La Vallée des serpents",
@@ -1017,13 +1017,13 @@
     "jaJP": "蛇の谷",
     "ptBR": "Vale das Cobras",
     "ruRU": "Долина змей",
-    "zhCN": "群蛇峡谷[18 46 77]"
+    "zhCN": "群蛇峡谷 [18|46|77]"
   },
   {
     "id": 848,
     "Key": "Lost City",
-    "enUS": "Lost City",
-    "zhTW": "遺失的城市[17 46 77]",
+    "enUS": "Lost City [17|46|77]",
+    "zhTW": "遺失的城市 [17|46|77]",
     "deDE": "Vergessene Stadt",
     "esES": "Ciudad Perdida",
     "frFR": "La Ville oubliée",
@@ -1034,13 +1034,13 @@
     "jaJP": "失われし都",
     "ptBR": "Cidade Perdida",
     "ruRU": "Затерянный город",
-    "zhCN": "遗失的城市[17 46 77]"
+    "zhCN": "遗失的城市 [17|46|77]"
   },
   {
     "id": 849,
     "Key": "Far Oasis",
-    "enUS": "Far Oasis",
-    "zhTW": "遙遠的綠洲[16 45 76]",
+    "enUS": "Far Oasis [16|45|76]",
+    "zhTW": "遙遠的綠洲 [16|45|76]",
     "deDE": "Ferne Oase",
     "esES": "Oasis Lejano",
     "frFR": "L’Oasis lointaine",
@@ -1051,13 +1051,13 @@
     "jaJP": "遥かなるオアシス",
     "ptBR": "Oásis Longínquo",
     "ruRU": "Дальний оазис",
-    "zhCN": "遥远的绿洲[16 45 76]"
+    "zhCN": "遥远的绿洲 [16|45|76]"
   },
   {
     "id": 850,
     "Key": "Dry Hills",
-    "enUS": "Dry Hills",
-    "zhTW": "乾躁的高地[15 44 76]",
+    "enUS": "Dry Hills [15|44|76]",
+    "zhTW": "乾燥的高地 [15|44|76]",
     "deDE": "Verdorrte Hügel",
     "esES": "Colinas Áridas",
     "frFR": "Les Collines arides",
@@ -1068,13 +1068,13 @@
     "jaJP": "乾きの丘",
     "ptBR": "Colinas Áridas",
     "ruRU": "Иссохшие холмы",
-    "zhCN": "干躁的高地[15 44 76]"
+    "zhCN": "干燥的高地 [15|44|76]"
   },
   {
     "id": 851,
     "Key": "Rocky Waste",
-    "enUS": "Rocky Waste",
-    "zhTW": "碎石荒地[14 43 75]",
+    "enUS": "Rocky Waste [14|43|75]",
+    "zhTW": "碎石荒地 [14|43|75]",
     "deDE": "Felsige Öde",
     "esES": "Erial Rocoso",
     "frFR": "Le Désert de roche",
@@ -1085,13 +1085,13 @@
     "jaJP": "岩だらけの荒れ地",
     "ptBR": "Ermo Rochoso",
     "ruRU": "Каменистая пустошь",
-    "zhCN": "碎石荒地[14 43 75]"
+    "zhCN": "碎石荒地 [14|43|75]"
   },
   {
     "id": 852,
     "Key": "Lut Gholein",
     "enUS": "Lut Gholein",
-    "zhTW": "魯-高因",
+    "zhTW": "魯·高因",
     "deDE": "Lut Gholein",
     "esES": "Lut Gholein",
     "frFR": "Lut Gholein",
@@ -1102,7 +1102,7 @@
     "jaJP": "ラット・ゴーレイン",
     "ptBR": "Lut Gholein",
     "ruRU": "Лут-Голейн",
-    "zhCN": "鲁-高因"
+    "zhCN": "鲁·高因"
   },
   {
     "id": 853,
@@ -1142,7 +1142,7 @@
     "id": 855,
     "Key": "Halls of the Dead",
     "enUS": "Halls of the Dead",
-    "zhTW": "死亡之殿",
+    "zhTW": "死亡神殿",
     "deDE": "Hallen der Toten",
     "esES": "Salas de la muerte",
     "frFR": "Les Couloirs des morts",
@@ -1153,7 +1153,7 @@
     "jaJP": "亡者の広間",
     "ptBR": "Salões dos Mortos",
     "ruRU": "Чертоги мертвых",
-    "zhCN": "死亡之殿"
+    "zhCN": "死亡神殿"
   },
   {
     "id": 856,
@@ -1448,7 +1448,7 @@
     "id": 873,
     "Key": "To The Forgotten Reliquary",
     "enUS": "To The Forgotten Reliquary",
-    "zhTW": "前往遺忘的聖殿",
+    "zhTW": "前往遺忘的聖物",
     "deDE": "Zum vergessenen Reliquienschrein",
     "esES": "Al Relicario Olvidado",
     "frFR": "Vers le Reliquaire oublié",
@@ -1482,7 +1482,7 @@
     "id": 875,
     "Key": "To The Ruined Temple",
     "enUS": "To The Ruined Temple",
-    "zhTW": "前往殘破神殿(任务书)",
+    "zhTW": "前往殘破神殿",
     "deDE": "Zum zerfallenen Tempel",
     "esES": "Al Templo en Ruinas",
     "frFR": "Vers le Temple en ruine",
@@ -1493,7 +1493,7 @@
     "jaJP": "荒れ果てた寺院へ",
     "ptBR": "Para o Templo Arruinado",
     "ruRU": "В разрушенный храм",
-    "zhCN": "前往残破神殿(任务书)"
+    "zhCN": "前往残破神殿"
   },
   {
     "id": 876,
@@ -1822,7 +1822,7 @@
     "id": 895,
     "Key": "To Tal Rasha's Tomb",
     "enUS": "To Tal Rasha's Tomb",
-    "zhTW": "前往塔-拉夏的古墓",
+    "zhTW": "前往塔·拉夏的古墓",
     "deDE": "Zu Tal Rashas Grab",
     "esES": "A la Tumba de Tal Rasha",
     "frFR": "Vers le Tombeau de Tal Rasha",
@@ -1833,7 +1833,7 @@
     "jaJP": "タル・ラシャの墓へ",
     "ptBR": "Para a Tumba de Tal Rasha",
     "ruRU": "В гробницу Тал Раши",
-    "zhCN": "前往塔-拉夏的古墓"
+    "zhCN": "前往塔·拉夏的古墓"
   },
   {
     "id": 896,
@@ -1924,7 +1924,7 @@
     "id": 901,
     "Key": "To The Halls of the Dead Level 3",
     "enUS": "To The Halls of the Dead Level 3",
-    "zhTW": "前往死亡之殿第三層",
+    "zhTW": "前往死亡神殿第三層",
     "deDE": "Zu den Hallen der Toten, Ebene 3",
     "esES": "Al nivel 3 de las Salas de la Muerte",
     "frFR": "Vers les Couloirs des morts niv. 3",
@@ -1935,7 +1935,7 @@
     "jaJP": "亡者の広間: 第3階層へ",
     "ptBR": "Para os Salões dos Mortos Nível 3",
     "ruRU": "На 3-й уровень Чертогов Мертвых",
-    "zhCN": "前往死亡之殿第三层"
+    "zhCN": "前往死亡神殿第三层"
   },
   {
     "id": 902,
@@ -1975,7 +1975,7 @@
     "id": 904,
     "Key": "To The Halls of the Dead Level 2",
     "enUS": "To The Halls of the Dead Level 2",
-    "zhTW": "前往死亡之殿第二層",
+    "zhTW": "前往死亡神殿第二層",
     "deDE": "Zu den Hallen der Toten, Ebene 2",
     "esES": "Al nivel 2 de las Salas de la Muerte",
     "frFR": "Vers les Couloirs des morts niv. 2",
@@ -1986,13 +1986,13 @@
     "jaJP": "亡者の広間: 第2階層へ",
     "ptBR": "Para os Salões dos Mortos Nível 2",
     "ruRU": "На 2-й уровень Чертогов Мертвых",
-    "zhCN": "前往死亡之殿第二层"
+    "zhCN": "前往死亡神殿第二层"
   },
   {
     "id": 905,
     "Key": "To The Halls of the Dead Level 1",
     "enUS": "To The Halls of the Dead Level 1",
-    "zhTW": "前往死亡之殿第一層",
+    "zhTW": "前往死亡神殿第一層",
     "deDE": "Zu den Hallen der Toten, Ebene 1",
     "esES": "Al nivel 1 de las Salas de la Muerte",
     "frFR": "Vers les Couloirs des morts niv. 1",
@@ -2003,7 +2003,7 @@
     "jaJP": "亡者の広間: 第1階層へ",
     "ptBR": "Para os Salões dos Mortos Nível 1",
     "ruRU": "На 1-й уровень Чертогов Мертвых",
-    "zhCN": "前往死亡之殿第一层"
+    "zhCN": "前往死亡神殿第一层"
   },
   {
     "id": 906,
@@ -2264,7 +2264,7 @@
     "id": 921,
     "Key": "To Lut Gholein",
     "enUS": "To Lut Gholein",
-    "zhTW": "前往魯-高因",
+    "zhTW": "前往魯·高因",
     "deDE": "Nach Lut Gholein",
     "esES": "A Lut Gholein",
     "frFR": "Vers Lut Gholein",
@@ -2275,7 +2275,7 @@
     "jaJP": "ラット・ゴーレインへ",
     "ptBR": "Para Lut Gholein",
     "ruRU": "В Лут-Голейн",
-    "zhCN": "前往鲁-高因"
+    "zhCN": "前往鲁·高因"
   },
   {
     "id": 1640,
@@ -2366,7 +2366,7 @@
     "id": 4137,
     "Key": "act1",
     "enUS": "Act 1",
-    "zhTW": "第一章",
+    "zhTW": "第一幕",
     "deDE": "Akt 1",
     "esES": "Acto 1",
     "frFR": "Acte I",
@@ -2377,13 +2377,13 @@
     "jaJP": "第1章",
     "ptBR": "Ato 1",
     "ruRU": "Акт I",
-    "zhCN": "第一章"
+    "zhCN": "第一幕"
   },
   {
     "id": 4138,
     "Key": "act2",
     "enUS": "Act 2",
-    "zhTW": "第二章",
+    "zhTW": "第二幕",
     "deDE": "Akt 2",
     "esES": "Acto 2",
     "frFR": "Acte II",
@@ -2394,13 +2394,13 @@
     "jaJP": "第2章",
     "ptBR": "Ato 2",
     "ruRU": "Акт II ",
-    "zhCN": "第二章"
+    "zhCN": "第二幕"
   },
   {
     "id": 4139,
     "Key": "act3",
     "enUS": "Act 3",
-    "zhTW": "第三章",
+    "zhTW": "第三幕",
     "deDE": "Akt 3",
     "esES": "Acto 3",
     "frFR": "Acte III",
@@ -2411,13 +2411,13 @@
     "jaJP": "第3章",
     "ptBR": "Ato 3",
     "ruRU": "Акт III",
-    "zhCN": "第三章"
+    "zhCN": "第三幕"
   },
   {
     "id": 4140,
     "Key": "act4",
     "enUS": "Act 4",
-    "zhTW": "第四章",
+    "zhTW": "第四幕",
     "deDE": "Akt 4",
     "esES": "Acto 4",
     "frFR": "Acte VI",
@@ -2428,7 +2428,7 @@
     "jaJP": "第4章",
     "ptBR": "Ato 4",
     "ruRU": "Акт IV",
-    "zhCN": "第四章"
+    "zhCN": "第四幕"
   },
   {
     "id": 4152,
@@ -2450,8 +2450,8 @@
   {
     "id": 5018,
     "Key": "Tristram",
-    "enUS": "Tristram",
-    "zhTW": "崔斯特瑞姆[6 39 76]",
+    "enUS": "Tristram [6|39|76]",
+    "zhTW": "崔斯特瑞姆 [6|39|76]",
     "deDE": "Tristram",
     "esES": "Tristán",
     "frFR": "Tristram",
@@ -2462,13 +2462,13 @@
     "jaJP": "トリストラム",
     "ptBR": "Tristram",
     "ruRU": "Тристрам",
-    "zhCN": "崔斯特瑞姆[6 39 76]"
+    "zhCN": "崔斯特瑞姆 [6|39|76]"
   },
   {
     "id": 5019,
     "Key": "Catacombs Level 4",
-    "enUS": "Catacombs Level 4",
-    "zhTW": "地下墓穴第四層[12 43 73]",
+    "enUS": "Catacombs Level 4 [12|43|73]",
+    "zhTW": "地下墓穴第四層 [12|43|73]",
     "deDE": "Katakomben, Ebene 4",
     "esES": "Catacumbas nivel 4",
     "frFR": "Les Catacombes niv. 4",
@@ -2479,13 +2479,13 @@
     "jaJP": "地下墓地: 第4階層",
     "ptBR": "Catacumbas Nível 4",
     "ruRU": "Катакомбы: 4-й уровень",
-    "zhCN": "地下墓穴第四层[12 43 73]"
+    "zhCN": "地下墓穴第四层 [12|43|73]"
   },
   {
     "id": 5020,
     "Key": "Catacombs Level 3",
-    "enUS": "Catacombs Level 3",
-    "zhTW": "地下墓穴第三層[12 43 73]",
+    "enUS": "Catacombs Level 3 [12|43|73]",
+    "zhTW": "地下墓穴第三層 [12|43|73]",
     "deDE": "Katakomben, Ebene 3",
     "esES": "Catacumbas nivel 3",
     "frFR": "Les Catacombes niv. 3",
@@ -2496,13 +2496,13 @@
     "jaJP": "地下墓地: 第3階層",
     "ptBR": "Catacumbas Nível 3",
     "ruRU": "Катакомбы: 3-й уровень",
-    "zhCN": "地下墓穴第三层[12 43 73]"
+    "zhCN": "地下墓穴第三层 [12|43|73]"
   },
   {
     "id": 5021,
     "Key": "Catacombs Level 2",
-    "enUS": "Catacombs Level 2",
-    "zhTW": "地下墓穴第二層[11 42 73]",
+    "enUS": "Catacombs Level 2 [11|42|72]",
+    "zhTW": "地下墓穴第二層 [11|42|72]",
     "deDE": "Katakomben, Ebene 2",
     "esES": "Catacumbas nivel 2",
     "frFR": "Les Catacombes niv. 2",
@@ -2513,13 +2513,13 @@
     "jaJP": "地下墓地: 第2階層",
     "ptBR": "Catacumbas Nível 2",
     "ruRU": "Катакомбы: 2-й уровень",
-    "zhCN": "地下墓穴第二层[11 42 73]"
+    "zhCN": "地下墓穴第二层 [11|42|72]"
   },
   {
     "id": 5022,
     "Key": "Catacombs Level 1",
-    "enUS": "Catacombs Level 1",
-    "zhTW": "地下墓穴第一層[11 42 72]",
+    "enUS": "Catacombs Level 1 [11|42|72]",
+    "zhTW": "地下墓穴第一層 [11|42|72]",
     "deDE": "Katakomben, Ebene 1",
     "esES": "Catacumbas nivel 1",
     "frFR": "Les Catacombes niv. 1",
@@ -2530,13 +2530,13 @@
     "jaJP": "地下墓地: 第1階層",
     "ptBR": "Catacumbas Nível 1",
     "ruRU": "Катакомбы: 1-й уровень",
-    "zhCN": "地下墓穴第一层[11 42 72]"
+    "zhCN": "地下墓穴第一层 [11|42|72]"
   },
   {
     "id": 5023,
     "Key": "Cathedral",
-    "enUS": "Cathedral",
-    "zhTW": "大教堂[11 42 72]",
+    "enUS": "Cathedral [11|42|72]",
+    "zhTW": "大教堂 [11|42|72]",
     "deDE": "Kathedrale",
     "esES": "Catedral",
     "frFR": "La Cathédrale",
@@ -2547,13 +2547,13 @@
     "jaJP": "大聖堂",
     "ptBR": "Catedral",
     "ruRU": "Собор",
-    "zhCN": "大教堂[11 42 72]"
+    "zhCN": "大教堂 [11|42|72]"
   },
   {
     "id": 5024,
     "Key": "Inner Cloister",
-    "enUS": "Inner Cloister",
-    "zhTW": "內側迴廊[10 41 72]",
+    "enUS": "Inner Cloister [10|41|72]",
+    "zhTW": "內側迴廊 [10|41|72]",
     "deDE": "Inneres Kloster",
     "esES": "Claustro Interior",
     "frFR": "Le Cloître intérieur",
@@ -2564,13 +2564,13 @@
     "jaJP": "修道院内部",
     "ptBR": "Claustro Interno",
     "ruRU": "Внутренний двор",
-    "zhCN": "内侧回廊[10 41 72]"
+    "zhCN": "内侧回廊 [10|41|72]"
   },
   {
     "id": 5025,
     "Key": "Jail Level 3",
-    "enUS": "Jail Level 3",
-    "zhTW": "監牢第三層[10 41 71]",
+    "enUS": "Jail Level 3 [10|41|71]",
+    "zhTW": "監牢第三層 [10|41|71]",
     "deDE": "Gefängnis, Ebene 3",
     "esES": "Cárcel nivel 3",
     "frFR": "La Prison niv. 3",
@@ -2581,13 +2581,13 @@
     "jaJP": "牢獄: 第3階層",
     "ptBR": "Prisão Nível 3",
     "ruRU": "Тюрьма: 3-й уровень",
-    "zhCN": "监牢第三层[10 41 71]"
+    "zhCN": "监牢第三层 [10|41|71]"
   },
   {
     "id": 5026,
     "Key": "Jail Level 2",
-    "enUS": "Jail Level 2",
-    "zhTW": "監牢第二層[10 41 71]",
+    "enUS": "Jail Level 2 [10|41|71]",
+    "zhTW": "監牢第二層 [10|41|71]",
     "deDE": "Gefängnis, Ebene 2",
     "esES": "Cárcel nivel 2",
     "frFR": "La Prison niv. 2",
@@ -2598,13 +2598,13 @@
     "jaJP": "牢獄: 第2階層",
     "ptBR": "Prisão Nível 2",
     "ruRU": "Тюрьма: 2-й уровень",
-    "zhCN": "监牢第二层[10 41 71]"
+    "zhCN": "监牢第二层 [10|41|71]"
   },
   {
     "id": 5027,
     "Key": "Jail Level 1",
-    "enUS": "Jail Level 1",
-    "zhTW": "監牢第一層[10 41 71]",
+    "enUS": "Jail Level 1 [10|41|71]",
+    "zhTW": "監牢第一層 [10|41|71]",
     "deDE": "Gefängnis, Ebene 1",
     "esES": "Cárcel nivel 1",
     "frFR": "La Prison niv. 1",
@@ -2615,13 +2615,13 @@
     "jaJP": "牢獄: 第1階層",
     "ptBR": "Prisão Nível 1",
     "ruRU": "Тюрьма: 1-й уровень",
-    "zhCN": "监牢第一层[10 41 71]"
+    "zhCN": "监牢第一层 [10|41|71]"
   },
   {
     "id": 5028,
     "Key": "Barracks",
-    "enUS": "Barracks",
-    "zhTW": "軍營[9 40 70]",
+    "enUS": "Barracks [9|40|70]",
+    "zhTW": "軍營 [9|40|70]",
     "deDE": "Kaserne",
     "esES": "Barracones",
     "frFR": "La Caserne",
@@ -2632,13 +2632,13 @@
     "jaJP": "兵舎",
     "ptBR": "Quartel",
     "ruRU": "Казармы",
-    "zhCN": "军营[9 40 70]"
+    "zhCN": "军营 [9|40|70]"
   },
   {
     "id": 5029,
     "Key": "Outer Cloister",
-    "enUS": "Outer Cloister",
-    "zhTW": "外側迴廊[9 40 70]",
+    "enUS": "Outer Cloister [9|40|70]",
+    "zhTW": "外側迴廊 [9|40|70]",
     "deDE": "Äußeres Kloster",
     "esES": "Claustro Exterior",
     "frFR": "Le Cloître extérieur",
@@ -2649,13 +2649,13 @@
     "jaJP": "修道院外部",
     "ptBR": "Claustro Externo",
     "ruRU": "Внешний двор",
-    "zhCN": "外侧回廊[9 40 70]"
+    "zhCN": "外侧回廊 [9|40|70]"
   },
   {
     "id": 5030,
     "Key": "Monastery Gate",
-    "enUS": "Monastery Gate",
-    "zhTW": "僧院大門[8 40 70]",
+    "enUS": "Monastery Gate [8|40|70]",
+    "zhTW": "僧院大門 [8|40|70]",
     "deDE": "Klosterpforte",
     "esES": "Puertas del Monasterio",
     "frFR": "Les Portes du Monastère",
@@ -2666,13 +2666,13 @@
     "jaJP": "修道院の門",
     "ptBR": "Portão do Monastério",
     "ruRU": "Монастырские ворота",
-    "zhCN": "僧院大门[8 40 70]"
+    "zhCN": "僧院大门 [8|40|70]"
   },
   {
     "id": 5031,
     "Key": "Tower Cellar Level 5",
-    "enUS": "Tower Cellar Level 5",
-    "zhTW": "高塔地牢第五層[7 42 79]",
+    "enUS": "Tower Cellar Level 5 [7|42|79]",
+    "zhTW": "高塔地牢第五層 [7|42|79]",
     "deDE": "Turmkeller, Ebene 5",
     "esES": "Sótano de la Torre nivel 5",
     "frFR": "La Cave de la Tour niv. 5",
@@ -2683,13 +2683,13 @@
     "jaJP": "塔の地下室: 第5階層",
     "ptBR": "Porão da Torre Nível 5",
     "ruRU": "Подвал башни: 5-й уровень",
-    "zhCN": "高塔地牢第五层[7 42 79]"
+    "zhCN": "高塔地牢第五层 [7|42|79]"
   },
   {
     "id": 5032,
     "Key": "Tower Cellar Level 4",
-    "enUS": "Tower Cellar Level 4",
-    "zhTW": "高塔地牢第四層[7 41 78]",
+    "enUS": "Tower Cellar Level 4 [7|41|78]",
+    "zhTW": "高塔地牢第四層 [7|41|78]",
     "deDE": "Turmkeller, Ebene 4",
     "esES": "Sótano de la Torre nivel 4",
     "frFR": "La Cave de la Tour niv. 4",
@@ -2700,13 +2700,13 @@
     "jaJP": "塔の地下室: 第4階層",
     "ptBR": "Porão da Torre Nível 4",
     "ruRU": "Подвал башни: 4-й уровень",
-    "zhCN": "高塔地牢第四层[7 41 78]"
+    "zhCN": "高塔地牢第四层 [7|41|78]"
   },
   {
     "id": 5033,
     "Key": "Tower Cellar Level 3",
-    "enUS": "Tower Cellar Level 3",
-    "zhTW": "高塔地牢第三層[7 40 77]",
+    "enUS": "Tower Cellar Level 3 [7|40|77]",
+    "zhTW": "高塔地牢第三層 [7|40|77]",
     "deDE": "Turmkeller, Ebene 3",
     "esES": "Sótano de la Torre nivel 3",
     "frFR": "La Cave de la Tour niv. 3",
@@ -2717,13 +2717,13 @@
     "jaJP": "塔の地下室: 第3階層",
     "ptBR": "Porão da Torre Nível 3",
     "ruRU": "Подвал башни: 3-й уровень",
-    "zhCN": "高塔地牢第三层[7 40 77]"
+    "zhCN": "高塔地牢第三层 [7|40|77]"
   },
   {
     "id": 5034,
     "Key": "Tower Cellar Level 2",
-    "enUS": "Tower Cellar Level 2",
-    "zhTW": "高塔地牢第二層[7 39 76]",
+    "enUS": "Tower Cellar Level 2 [7|39|76]",
+    "zhTW": "高塔地牢第二層 [7|39|76]",
     "deDE": "Turmkeller, Ebene 2",
     "esES": "Sótano de la Torre nivel 2",
     "frFR": "La Cave de la Tour niv. 2",
@@ -2734,13 +2734,13 @@
     "jaJP": "塔の地下室: 第2階層",
     "ptBR": "Porão da Torre Nível 2",
     "ruRU": "Подвал башни: 2-й уровень",
-    "zhCN": "7 39 76高塔地牢第二层[7 39 76]"
+    "zhCN": "高塔地牢第二层 [7|39|76]"
   },
   {
     "id": 5035,
     "Key": "Tower Cellar Level 1",
-    "enUS": "Tower Cellar Level 1",
-    "zhTW": "高塔地牢第一層[7 38 75]",
+    "enUS": "Tower Cellar Level 1 [7|38|75]",
+    "zhTW": "高塔地牢第一層 [7|38|75]",
     "deDE": "Turmkeller, Ebene 1",
     "esES": "Sótano de la Torre nivel 1",
     "frFR": "La Cave de la Tour niv. 1",
@@ -2751,7 +2751,7 @@
     "jaJP": "塔の地下室: 第1階層",
     "ptBR": "Porão da Torre Nível 1",
     "ruRU": "Подвал башни: 1-й уровень",
-    "zhCN": "高塔地牢第一层[7 38 75]"
+    "zhCN": "高塔地牢第一层 [7|38|75]"
   },
   {
     "id": 5036,
@@ -2773,8 +2773,8 @@
   {
     "id": 5037,
     "Key": "Mausoleum",
-    "enUS": "Mausoleum",
-    "zhTW": "大陵寢[3 37 85]",
+    "enUS": "Mausoleum [3|37|85]",
+    "zhTW": "大陵寢 [3|37|85]",
     "deDE": "Mausoleum",
     "esES": "Mausoleo",
     "frFR": "Le Mausolée",
@@ -2785,13 +2785,13 @@
     "jaJP": "霊廟",
     "ptBR": "Mausoléu",
     "ruRU": "Мавзолей",
-    "zhCN": "大陵寝[3 37 85]"
+    "zhCN": "大陵寝 [3|37|85]"
   },
   {
     "id": 5038,
     "Key": "Crypt",
-    "enUS": "Crypt",
-    "zhTW": "墓地[3 37 83]",
+    "enUS": "Crypt [3|37|83]",
+    "zhTW": "墓地 [3|37|83]",
     "deDE": "Krypta",
     "esES": "Cripta",
     "frFR": "La Crypte",
@@ -2802,13 +2802,13 @@
     "jaJP": "地下墓所",
     "ptBR": "Cripta",
     "ruRU": "Склеп",
-    "zhCN": "墓地[3 37 83]"
+    "zhCN": "墓地 [3|37|83]"
   },
   {
     "id": 5039,
     "Key": "Burial Grounds",
-    "enUS": "Burial Grounds",
-    "zhTW": "埋骨之地[3 36 80]",
+    "enUS": "Burial Grounds [3|36|80]",
+    "zhTW": "埋骨之地 [3|36|80]",
     "deDE": "Friedhof",
     "esES": "Cementerio",
     "frFR": "Le Cimetière",
@@ -2819,13 +2819,13 @@
     "jaJP": "墓地",
     "ptBR": "Cemitério",
     "ruRU": "Погост",
-    "zhCN": "埋骨之地[3 36 80]"
+    "zhCN": "埋骨之地 [3|36|80]"
   },
   {
     "id": 5040,
     "Key": "Pit Level 2",
-    "enUS": "Pit Level 2",
-    "zhTW": "地穴第二層[7 40 85]",
+    "enUS": "Pit Level 2 [7|40|85]",
+    "zhTW": "地穴第二層 [7|40|85]",
     "deDE": "Grube, Ebene 2",
     "esES": "Foso nivel 2",
     "frFR": "La Fosse niv. 2",
@@ -2836,13 +2836,13 @@
     "jaJP": "穴ぐら: 第2階層",
     "ptBR": "Fosso Nível 2",
     "ruRU": "Яма: 2-й уровень",
-    "zhCN": "地穴第二层[7 40 85]"
+    "zhCN": "地穴第二层 [7|40|85]"
   },
   {
     "id": 5041,
     "Key": "Hole Level 2",
-    "enUS": "Hole Level 2",
-    "zhTW": "地洞第二層[5 39 81]",
+    "enUS": "Hole Level 2 [5|39|81]",
+    "zhTW": "地洞第二層 [5|39|81]",
     "deDE": "Loch, Ebene 2",
     "esES": "Hoyo nivel 2",
     "frFR": "Le Gouffre niv. 2",
@@ -2853,13 +2853,13 @@
     "jaJP": "洞穴: 第2階層",
     "ptBR": "Buraco Nível 2",
     "ruRU": "Нора: 2-й уровень",
-    "zhCN": "地洞第二层[5 39 81]"
+    "zhCN": "地洞第二层 [5|39|81]"
   },
   {
     "id": 5042,
     "Key": "Underground Passage Level 2",
-    "enUS": "Underground Passage Level 2",
-    "zhTW": "地底通道第二層[4 38 83]",
+    "enUS": "Underground Passage Level 2 [4|38|85]",
+    "zhTW": "地底通道第二層 [4|38|85]",
     "deDE": "Unterirdischer Durchgang, Ebene 2",
     "esES": "Pasadizo Subterráneo nivel 2",
     "frFR": "Le Passage souterrain niv. 2",
@@ -2870,13 +2870,13 @@
     "jaJP": "地下道: 第2階層",
     "ptBR": "Passagem Subterrânea Nível 2",
     "ruRU": "Подземный проход: 2-й уровень",
-    "zhCN": "地底通道第二层[4 38 83]"
+    "zhCN": "地底通道第二层 [4|38|85]"
   },
   {
     "id": 5043,
     "Key": "Cave Level 2",
-    "enUS": "Cave Level 2",
-    "zhTW": "洞窟第二層[2 37 78]",
+    "enUS": "Cave Level 2 [2|37|78]",
+    "zhTW": "洞窟第二層 [2|37|78]",
     "deDE": "Grotte, Ebene 2",
     "esES": "Cueva nivel 2",
     "frFR": "La Grotte niv. 2",
@@ -2887,13 +2887,13 @@
     "jaJP": "洞窟: 第2階層",
     "ptBR": "Caverna Nível 2",
     "ruRU": "Пещера: 2-й уровень",
-    "zhCN": "洞窟第二层[2 37 78]"
+    "zhCN": "洞窟第二层 [2|37|78]"
   },
   {
     "id": 5044,
     "Key": "Pit Level 1",
-    "enUS": "Pit Level 1",
-    "zhTW": "地穴第一層[7 39 85]",
+    "enUS": "Pit Level 1 [7|39|85]",
+    "zhTW": "地穴第一層 [7|39|85]",
     "deDE": "Grube, Ebene 1",
     "esES": "Foso nivel 1",
     "frFR": "La Fosse niv. 1",
@@ -2904,13 +2904,13 @@
     "jaJP": "穴ぐら: 第1階層",
     "ptBR": "Fosso Nível 1",
     "ruRU": "Яма: 1-й уровень",
-    "zhCN": "地穴第一层[7 39 85]"
+    "zhCN": "地穴第一层 [7|39|85]"
   },
   {
     "id": 5045,
     "Key": "Hole Level 1",
-    "enUS": "Hole Level 1",
-    "zhTW": "地洞第一層[5 38 80]",
+    "enUS": "Hole Level 1 [5|38|80]",
+    "zhTW": "地洞第一層 [5|38|80]",
     "deDE": "Loch, Ebene 1",
     "esES": "Hoyo nivel 1",
     "frFR": "Le Gouffre niv. 1",
@@ -2921,13 +2921,13 @@
     "jaJP": "洞穴: 第1階層",
     "ptBR": "Buraco Nível 1",
     "ruRU": "Нора: 1-й уровень",
-    "zhCN": "地洞第一层[5 38 80]"
+    "zhCN": "地洞第一层 [5|38|80]"
   },
   {
     "id": 5046,
     "Key": "Underground Passage Level 1",
-    "enUS": "Underground Passage Level 1",
-    "zhTW": "地底通道第一層[4 37 69]",
+    "enUS": "Underground Passage Level 1 [4|37|69]",
+    "zhTW": "地底通道第一層 [4|37|69]",
     "deDE": "Unterirdischer Durchgang, Ebene 1",
     "esES": "Pasadizo Subterráneo nivel 1",
     "frFR": "Le Passage souterrain niv. 1",
@@ -2938,13 +2938,13 @@
     "jaJP": "地下道: 第1階層",
     "ptBR": "Passagem Subterrânea Nível 1",
     "ruRU": "Подземный проход: 1-й уровень",
-    "zhCN": "地底通道第一层[4 37 69]"
+    "zhCN": "地底通道第一层 [4|37|69]"
   },
   {
     "id": 5047,
     "Key": "Cave Level 1",
-    "enUS": "Cave Level 1",
-    "zhTW": "洞窟第一層[2 36 77]",
+    "enUS": "Cave Level 1 [2|36|77]",
+    "zhTW": "洞窟第一層 [2|36|77]",
     "deDE": "Grotte, Ebene 1",
     "esES": "Cueva nivel 1",
     "frFR": "La Grotte niv. 1",
@@ -2955,13 +2955,13 @@
     "jaJP": "洞窟: 第1階層",
     "ptBR": "Caverna Nível 1",
     "ruRU": "Пещера: 1-й уровень",
-    "zhCN": "洞窟第一层[2 36 77]"
+    "zhCN": "洞窟第一层 [2|36|77]"
   },
   {
     "id": 5048,
     "Key": "Den of Evil",
-    "enUS": "Den of Evil",
-    "zhTW": "邪惡洞窟[1 36 79]",
+    "enUS": "Den of Evil [1|36|79]",
+    "zhTW": "邪惡洞窟 [1|36|79]",
     "deDE": "Höhle des Bösen",
     "esES": "Cubil del Mal",
     "frFR": "Le Repaire du Mal",
@@ -2972,13 +2972,13 @@
     "jaJP": "邪悪の巣窟",
     "ptBR": "Covil do Mal",
     "ruRU": "Логово зла",
-    "zhCN": "邪恶洞窟[1 36 79]"
+    "zhCN": "邪恶洞窟 [1|36|79]"
   },
   {
     "id": 5049,
     "Key": "Tamoe Highland",
-    "enUS": "Tamoe Highland",
-    "zhTW": "泰摩高地[8 39 69]",
+    "enUS": "Tamoe Highland [8|39|69]",
+    "zhTW": "泰摩高地 [8|39|69]",
     "deDE": "Tamo-Hochland",
     "esES": "Tierras Altas de Tamoe",
     "frFR": "Les Hautes-Terres de Tamoe",
@@ -2989,13 +2989,13 @@
     "jaJP": "タモエ高原",
     "ptBR": "Planalto Tamoe",
     "ruRU": "Нагорье Тамоэ",
-    "zhCN": "泰摩高地[8 39 69]"
+    "zhCN": "泰摩高地 [8|39|69]"
   },
   {
     "id": 5050,
     "Key": "Black Marsh",
-    "enUS": "Black Marsh",
-    "zhTW": "黑色荒地[6 38 69]",
+    "enUS": "Black Marsh [6|38|69]",
+    "zhTW": "黑色荒地 [6|38|69]",
     "deDE": "Schwarzmoor",
     "esES": "Pantano Negro",
     "frFR": "Le Marais sombre",
@@ -3006,13 +3006,13 @@
     "jaJP": "黒の湿原",
     "ptBR": "Charco Tenebroso",
     "ruRU": "Черная топь",
-    "zhCN": "黑色荒地[6 38 69]"
+    "zhCN": "黑色荒地 [6|38|69]"
   },
   {
     "id": 5051,
     "Key": "Dark Wood",
-    "enUS": "Dark Wood",
-    "zhTW": "黑暗森林[5 38 68]",
+    "enUS": "Dark Wood [5|38|68]",
+    "zhTW": "黑暗森林 [5|38|68]",
     "deDE": "Dunkelwald",
     "esES": "Bosque Oscuro",
     "frFR": "Le Bois obscur",
@@ -3023,13 +3023,13 @@
     "jaJP": "常闇の森",
     "ptBR": "Floresta Sombria",
     "ruRU": "Темнолесье",
-    "zhCN": "黑暗森林[5 38 68]"
+    "zhCN": "黑暗森林 [5|38|68]"
   },
   {
     "id": 5052,
     "Key": "Stony Field",
-    "enUS": "Stony Field",
-    "zhTW": "石塊曠野[4 37 68]",
+    "enUS": "Stony Field [4|37|68]",
+    "zhTW": "石塊曠野 [4|37|68]",
     "deDE": "Feld der Steine",
     "esES": "Campo Pedregoso",
     "frFR": "Le Champ de pierres",
@@ -3040,13 +3040,13 @@
     "jaJP": "石の原野",
     "ptBR": "Campo Rochoso",
     "ruRU": "Каменистое поле",
-    "zhCN": "石块旷野[4 37 68]"
+    "zhCN": "石块旷野 [4|37|68]"
   },
   {
     "id": 5053,
     "Key": "Cold Plains",
-    "enUS": "Cold Plains",
-    "zhTW": "冰冷之原[2 36 68]",
+    "enUS": "Cold Plains [2|36|68]",
+    "zhTW": "冰冷之原 [2|36|68]",
     "deDE": "Kalte Ebene",
     "esES": "Llanuras Frías",
     "frFR": "Les Plaines gelées",
@@ -3057,13 +3057,13 @@
     "jaJP": "荒涼の平原",
     "ptBR": "Planície Gélida",
     "ruRU": "Стылые равнины",
-    "zhCN": "冰冷之原[2 36 68]"
+    "zhCN": "冰冷之原 [2|36|68]"
   },
   {
     "id": 5054,
     "Key": "Blood Moor",
-    "enUS": "Blood Moor",
-    "zhTW": "鮮血荒地[1 36 67]",
+    "enUS": "Blood Moor [1|36|67]",
+    "zhTW": "鮮血荒地 [1|36|67]",
     "deDE": "Blutmoor",
     "esES": "Landa de Sangre",
     "frFR": "La Lande sanglante",
@@ -3074,7 +3074,7 @@
     "jaJP": "血の荒野",
     "ptBR": "Charco Sangrento",
     "ruRU": "Кровавая пустошь",
-    "zhCN": "鲜血荒地[1 36 67]"
+    "zhCN": "鲜血荒地 [1|36|67]"
   },
   {
     "id": 5055,
@@ -3743,7 +3743,7 @@
     "id": 11155,
     "Key": "Pandemonium Run 1",
     "enUS": "Matron's Den",
-    "zhTW": "主母巢穴 Matron's Den",
+    "zhTW": "主母巢穴 [50|75|83]",
     "deDE": "Matronenhöhle",
     "esES": "Guarida de la Matrona",
     "frFR": "Repaire de la Matrone",
@@ -3754,13 +3754,13 @@
     "jaJP": "貴婦人の巣窟",
     "ptBR": "Covil da Matriarca",
     "ruRU": "Логово Госпожи",
-    "zhCN": "主母巢穴 Matron's Den"
+    "zhCN": "主母巢穴"
   },
   {
     "id": 11156,
     "Key": "Pandemonium Run 2",
     "enUS": "Forgotten Sands",
-    "zhTW": "遺忘沙漠 Forgotten Sands",
+    "zhTW": "遺忘沙漠 [50|75|83]",
     "deDE": "Die Vergessenen Sande",
     "esES": "Arenas Olvidadas",
     "frFR": "Les Sables oubliés",
@@ -3771,13 +3771,13 @@
     "jaJP": "忘れ去られし砂漠",
     "ptBR": "Areias Esquecidas",
     "ruRU": "Забытые пески",
-    "zhCN": "遗忘沙漠 Forgotten Sands"
+    "zhCN": "遗忘沙漠"
   },
   {
     "id": 11157,
     "Key": "Pandemonium Run 3",
     "enUS": "Furnace of Pain",
-    "zhTW": "痛苦熔爐 Furnace of Pain",
+    "zhTW": "痛苦熔爐 [50|75|83]",
     "deDE": "Glutofen der Pein",
     "esES": "Caldera del Dolor",
     "frFR": "Fournaise de la douleur",
@@ -3788,7 +3788,7 @@
     "jaJP": "苦痛のかまど",
     "ptBR": "Fornalha da Dor",
     "ruRU": "Горнило Боли",
-    "zhCN": "痛苦熔炉 Furnace of Pain"
+    "zhCN": "痛苦熔炉"
   },
   {
     "id": 21797,
@@ -3878,8 +3878,8 @@
   {
     "id": 21865,
     "Key": "Hell1",
-    "enUS": "Abaddon",
-    "zhTW": "艾巴當[39 60 81]",
+    "enUS": "Abaddon [39|60|85]",
+    "zhTW": "艾巴當 [39|60|85]",
     "deDE": "Abaddon",
     "esES": "Abaddon",
     "frFR": "Abaddon",
@@ -3890,13 +3890,13 @@
     "jaJP": "奈落",
     "ptBR": "Abadom",
     "ruRU": "Аваддон",
-    "zhCN": "艾巴当[39 60 81]"
+    "zhCN": "艾巴当 [39|60|85]"
   },
   {
     "id": 21866,
     "Key": "Hell2",
-    "enUS": "Pit of Acheron",
-    "zhTW": "冥河之洞[39 61 82]",
+    "enUS": "Pit of Acheron [39|61|85]",
+    "zhTW": "冥河之洞 [39|61|85]",
     "deDE": "Grube von Acheron",
     "esES": "Foso de Acheron",
     "frFR": "Puits d’Acheron",
@@ -3907,13 +3907,13 @@
     "jaJP": "冥穴",
     "ptBR": "Fosso de Aqueron",
     "ruRU": "Пропасть Ахерона",
-    "zhCN": "冥河之洞[39 61 82]"
+    "zhCN": "冥河之洞 [39|61|85]"
   },
   {
     "id": 21867,
     "Key": "Hell3",
-    "enUS": "Infernal Pit",
-    "zhTW": "地獄魔窟[39 62 83]",
+    "enUS": "Infernal Pit [39|62|85]",
+    "zhTW": "地獄魔窟 [39|62|85]",
     "deDE": "Inferno-Grube",
     "esES": "Foso Infernal",
     "frFR": "Puits infernal",
@@ -3924,7 +3924,7 @@
     "jaJP": "獄穴",
     "ptBR": "Fosso Infernal",
     "ruRU": "Инфернальный провал",
-    "zhCN": "地狱魔窟[39 62 83]"
+    "zhCN": "地狱魔窟 [39|62|85]"
   },
   {
     "id": 21868,
@@ -3997,8 +3997,8 @@
   {
     "id": 22647,
     "Key": "Bloody Foothills",
-    "enUS": "Bloody Foothills",
-    "zhTW": "血腥丘陵[24 58 80]",
+    "enUS": "Bloody Foothills [24|58|80]",
+    "zhTW": "血腥丘陵 [24|58|80]",
     "deDE": "Blutiges Vorgebirge",
     "esES": "Estribaciones Sangrientas",
     "frFR": "Les Collines Sanglantes",
@@ -4009,13 +4009,13 @@
     "jaJP": "血に塗れし丘陵",
     "ptBR": "Colinas Sangrentas",
     "ruRU": "Кровавые предгорья",
-    "zhCN": "血腥丘陵[24 58 80]"
+    "zhCN": "血腥丘陵 [24|58|80]"
   },
   {
     "id": 22648,
     "Key": "Rigid Highlands",
-    "enUS": "Frigid Highlands",
-    "zhTW": "冰凍高地[25 59 81]",
+    "enUS": "Frigid Highlands [25|59|81]",
+    "zhTW": "冰凍高地 [25|59|81]",
     "deDE": "Eishochland",
     "esES": "Tierras Altas Glaciales",
     "frFR": "Les Hautes-Glaces",
@@ -4026,13 +4026,13 @@
     "jaJP": "極寒の高原",
     "ptBR": "Terras Altas Gélidas",
     "ruRU": "Мерзлое нагорье",
-    "zhCN": "冰冻高地[25 59 81]"
+    "zhCN": "冰冻高地 [25|59|81]"
   },
   {
     "id": 22649,
     "Key": "Arreat Plateau",
-    "enUS": "Arreat Plateau",
-    "zhTW": "亞瑞特高原[26 60 81]",
+    "enUS": "Arreat Plateau [26|60|81]",
+    "zhTW": "亞瑞特高原 [26|60|81]",
     "deDE": "Arreat-Hochebene",
     "esES": "Meseta Arreat",
     "frFR": "Le Mont Arreat",
@@ -4043,13 +4043,13 @@
     "jaJP": "アリート高地",
     "ptBR": "Platô de Arreat",
     "ruRU": "Арреатское плато",
-    "zhCN": "亚瑞特高原[26 60 81]"
+    "zhCN": "亚瑞特高原 [26|60|81]"
   },
   {
     "id": 22650,
     "Key": "Crystalized Cavern Level 1",
-    "enUS": "Crystalline Passage",
-    "zhTW": "水晶通道[29 61 82]",
+    "enUS": "Crystalline Passage [29|61|82]",
+    "zhTW": "水晶通道 [29|61|82]",
     "deDE": "Kristalldurchgang",
     "esES": "Pasaje Cristalino",
     "frFR": "Le Passage Cristallin",
@@ -4060,13 +4060,13 @@
     "jaJP": "結晶道",
     "ptBR": "Passagem Cristalina",
     "ruRU": "Ледяные пещеры",
-    "zhCN": "水晶通道[29 61 82]"
+    "zhCN": "水晶通道 [29|61|82]"
   },
   {
     "id": 22651,
     "Key": "Cellar of Pity",
-    "enUS": "Frozen River",
-    "zhTW": "冰河[29 61 83]",
+    "enUS": "Frozen River [29|61|83]",
+    "zhTW": "冰河 [29|61|83]",
     "deDE": "Frostfluss",
     "esES": "Río Helado",
     "frFR": "La Rivière Glacée",
@@ -4077,13 +4077,13 @@
     "jaJP": "凍てつく川",
     "ptBR": "Rio Congelado",
     "ruRU": "Замерзшая река",
-    "zhCN": "冰河[29 61 83]"
+    "zhCN": "冰河 [29|61|83]"
   },
   {
     "id": 22652,
     "Key": "Crystalized Cavern Level 2",
-    "enUS": "Glacial Trail",
-    "zhTW": "冰河路徑[29 61 83]",
+    "enUS": "Glacial Trail [29|61|83]",
+    "zhTW": "冰河路徑 [29|61|83]",
     "deDE": "Gletscherweg",
     "esES": "Senda Glacial",
     "frFR": "La Piste des Glaces",
@@ -4094,13 +4094,13 @@
     "jaJP": "氷の道",
     "ptBR": "Trilha Glacial",
     "ruRU": "Ледовый ход",
-    "zhCN": "冰河路径[29 61 83]"
+    "zhCN": "冰河路径 [29|61|83]"
   },
   {
     "id": 22653,
     "Key": "Echo Chamber",
-    "enUS": "Drifter Cavern",
-    "zhTW": "漂泊者洞穴[29 61 84]",
+    "enUS": "Drifter Cavern [29|61|85]",
+    "zhTW": "漂泊者洞穴 [29|61|85]",
     "deDE": "Flockenhöhle",
     "esES": "Caverna del Errante",
     "frFR": "La Caverne du Yéti",
@@ -4111,13 +4111,13 @@
     "jaJP": "流れ者の洞窟",
     "ptBR": "Caverna do Errante",
     "ruRU": "Пещера скитальцев",
-    "zhCN": "漂泊者洞穴[29 61 84]"
+    "zhCN": "漂泊者洞穴 [29|61|85]"
   },
   {
     "id": 22654,
     "Key": "Tundra Wastelands",
-    "enUS": "Frozen Tundra",
-    "zhTW": "冰凍苔原[27 60 81]",
+    "enUS": "Frozen Tundra [27|60|81]",
+    "zhTW": "冰凍苔原 [27|60|81]",
     "deDE": "Gefrorene Tundra",
     "esES": "Tundra Helada",
     "frFR": "La Toundra Glacée",
@@ -4128,13 +4128,13 @@
     "jaJP": "氷結の凍原",
     "ptBR": "Tundra Congelada",
     "ruRU": "Морозная тундра",
-    "zhCN": "冰冻苔原[27 60 81]"
+    "zhCN": "冰冻苔原 [27|60|81]"
   },
   {
     "id": 22655,
     "Key": "Glacial Caves Level 1",
-    "enUS": "The Ancients' Way",
-    "zhTW": "遠古之路[29 62 82]",
+    "enUS": "The Ancients' Way [29|62|82]",
+    "zhTW": "遠古之路 [29|62|82]",
     "deDE": "Der Weg der Urahnen",
     "esES": "Camino de los Antiguos",
     "frFR": "Le Chemin des Anciens",
@@ -4145,13 +4145,13 @@
     "jaJP": "古の民の通り道",
     "ptBR": "Caminho dos Ancestrais",
     "ruRU": "Путь Древних",
-    "zhCN": "远古之路[29 62 82]"
+    "zhCN": "远古之路 [29|62|82]"
   },
   {
     "id": 22656,
     "Key": "Glacial Caves Level 2",
-    "enUS": "Icy Cellar",
-    "zhTW": "冰窖[29 62 83]",
+    "enUS": "Icy Cellar [29|62|85]",
+    "zhTW": "冰窖 [29|62|85]",
     "deDE": "Eiskeller",
     "esES": "Sótano Helado",
     "frFR": "La Cave Glaciale",
@@ -4162,13 +4162,13 @@
     "jaJP": "氷の穴ぐら",
     "ptBR": "Porão Gélido",
     "ruRU": "Ледяной грот",
-    "zhCN": "冰窖[29 62 83]"
+    "zhCN": "冰窖 [29|62|85]"
   },
   {
     "id": 22657,
     "Key": "Rocky Summit",
-    "enUS": "Arreat Summit",
-    "zhTW": "亞瑞特山脈顛峰[37 68 87]",
+    "enUS": "Arreat Summit [37|68|87]",
+    "zhTW": "亞瑞特山脈顛峰 [37|68|87]",
     "deDE": "Gipfel des Arreat",
     "esES": "Cima Arreat",
     "frFR": "Le Sommet Arreat",
@@ -4179,13 +4179,13 @@
     "jaJP": "アリート山の頂き",
     "ptBR": "Cume de Arreat",
     "ruRU": "Вершина Арреата",
-    "zhCN": "亚瑞特山脉颠峰[37 68 87]"
+    "zhCN": "亚瑞特山脉颠峰 [37|68|87]"
   },
   {
     "id": 22658,
     "Key": "Nihlathaks Temple",
-    "enUS": "Nihlathak's Temple",
-    "zhTW": "尼拉塞克的神殿[32 63 83]",
+    "enUS": "Nihlathak's Temple [32|63|83]",
+    "zhTW": "尼拉塞克的神殿 [32|63|83]",
     "deDE": "Nihlathaks Tempel",
     "esES": "Templo de Nihlathak",
     "frFR": "Le Temple de Nihlathak",
@@ -4196,13 +4196,13 @@
     "jaJP": "ニーラサックの寺院",
     "ptBR": "Templo de Nilatak",
     "ruRU": "Храм Нильятака",
-    "zhCN": "尼拉塞克的神殿[32 63 83]"
+    "zhCN": "尼拉塞克的神殿 [32|63|83]"
   },
   {
     "id": 22659,
     "Key": "Halls of Anguish",
-    "enUS": "Halls of Anguish",
-    "zhTW": "悲痛之廳[33 63 83]",
+    "enUS": "Halls of Anguish [33|63|83]",
+    "zhTW": "悲痛之廳 [33|63|83]",
     "deDE": "Hallen der Qual",
     "esES": "Salas de la Angustia",
     "frFR": "Les Corridors de l’Angoisse",
@@ -4213,13 +4213,13 @@
     "jaJP": "苦悶の広間",
     "ptBR": "Salões da Angústia",
     "ruRU": "Чертоги Мучений",
-    "zhCN": "悲痛之厅[33 63 83]"
+    "zhCN": "悲痛之厅 [33|63|83]"
   },
   {
     "id": 22660,
     "Key": "Halls of Death's Calling",
-    "enUS": "Halls of Pain",
-    "zhTW": "痛苦之廳[34 64 84]",
+    "enUS": "Halls of Pain [34|64|84]",
+    "zhTW": "痛苦之廳 [34|64|84]",
     "deDE": "Hallen der Schmerzen",
     "esES": "Salas del Dolor",
     "frFR": "Les Corridors de la Souffrance",
@@ -4230,15 +4230,15 @@
     "jaJP": "苦痛の広間",
     "ptBR": "Salões da Dor",
     "ruRU": "Чертоги Боли",
-    "zhCN": "痛苦之厅[34 64 84]"
+    "zhCN": "痛苦之厅 [34|64|84]"
   },
   {
     "id": 22661,
     "Key": "Halls of Tormented Insanity",
     "enUS": "Halls of Torment",
-    "zhTW": "折磨之廳[36 64 84]",
+    "zhTW": "折磨之廳",
     "deDE": "Hallen der Pein",
-    "esES": "salas del tormento",
+    "esES": "Salas del Tormento",
     "frFR": "Les Corridors de l’Expiation",
     "itIT": "Sale del Tormento",
     "koKR": "고문의 전당",
@@ -4247,13 +4247,13 @@
     "jaJP": "苦悩の広間",
     "ptBR": "Salões do Tormento",
     "ruRU": "Чертоги Страданий",
-    "zhCN": "折磨大厅[36 64 84]"
+    "zhCN": "折磨大厅"
   },
   {
     "id": 22662,
     "Key": "Halls of Vaught",
-    "enUS": "Halls of Vaught",
-    "zhTW": "瓦特之廳[36 64 84]",
+    "enUS": "Halls of Vaught [36|64|84]",
+    "zhTW": "瓦特之廳 [36|64|84]",
     "deDE": "Hallen von Vaught",
     "esES": "Salas de Vaught",
     "frFR": "Les Corridors du Martyre",
@@ -4264,13 +4264,13 @@
     "jaJP": "ヴォートの広間",
     "ptBR": "Salões de Vaught",
     "ruRU": "Чертоги Воута",
-    "zhCN": "瓦特之厅[36 64 84]"
+    "zhCN": "瓦特之厅 [36|64|84]"
   },
   {
     "id": 22663,
     "Key": "The Worldstone Keep Level 1",
-    "enUS": "Worldstone Keep Level 1",
-    "zhTW": "世界之石要塞第一層[39 65 85]",
+    "enUS": "Worldstone Keep Level 1 [39|65|85]",
+    "zhTW": "世界之石要塞第一層 [39|65|85]",
     "deDE": "Weltsteinturm, Ebene 1",
     "esES": "Torre del Mundo de Piedra nivel 1",
     "frFR": "Donjon de la Pierre-Monde niv. 1",
@@ -4281,13 +4281,13 @@
     "jaJP": "ワールドストーン城塞: 第1階層",
     "ptBR": "Forte da Pedra do Mundo Nível 1",
     "ruRU": "Цитадель Мироздания: 1-й уровень",
-    "zhCN": "世界之石要塞第一层[39 65 85]"
+    "zhCN": "世界之石要塞第一层 [39|65|85]"
   },
   {
     "id": 22664,
     "Key": "The Worldstone Keep Level 2",
-    "enUS": "Worldstone Keep Level 2",
-    "zhTW": "世界之石要塞第二層[40 65 85]",
+    "enUS": "Worldstone Keep Level 2 [40|65|85]",
+    "zhTW": "世界之石要塞第二層 [40|65|85]",
     "deDE": "Weltsteinturm, Ebene 2",
     "esES": "Torre del Mundo de Piedra nivel 2",
     "frFR": "Donjon de la Pierre-Monde niv. 2",
@@ -4298,13 +4298,13 @@
     "jaJP": "ワールドストーン城塞: 第2階層",
     "ptBR": "Forte da Pedra do Mundo Nível 2",
     "ruRU": "Цитадель Мироздания: 2-й уровень",
-    "zhCN": "世界之石要塞第二层[40 65 85]"
+    "zhCN": "世界之石要塞第二层 [40|65|85]"
   },
   {
     "id": 22665,
     "Key": "The Worldstone Keep Level 3",
-    "enUS": "Worldstone Keep Level 3",
-    "zhTW": "世界之石要塞第三層[42 66 85]",
+    "enUS": "Worldstone Keep Level 3 [42|66|85]",
+    "zhTW": "世界之石要塞第三層 [42|66|85]",
     "deDE": "Weltsteinturm, Ebene 3",
     "esES": "Torre del Mundo de Piedra nivel 3",
     "frFR": "Donjon de la Pierre-Monde niv. 3",
@@ -4315,13 +4315,13 @@
     "jaJP": "ワールドストーン城塞: 第3階層",
     "ptBR": "Forte da Pedra do Mundo Nível 3",
     "ruRU": "Цитадель Мироздания: 3-й уровень",
-    "zhCN": "世界之石要塞第三层[42 66 85]"
+    "zhCN": "世界之石要塞第三层 [42|66|85]"
   },
   {
     "id": 22666,
     "Key": "The Worldstone Chamber",
-    "enUS": "The Worldstone Chamber",
-    "zhTW": "世界之石大殿[43 66 85]",
+    "enUS": "The Worldstone Chamber [43|66|85]",
+    "zhTW": "世界之石大殿 [43|66|85]",
     "deDE": "Die Kammer des Weltsteins",
     "esES": "Cámara del Mundo de Piedra",
     "frFR": "La Chambre de la Pierre-Monde",
@@ -4332,13 +4332,13 @@
     "jaJP": "ワールドストーンの間",
     "ptBR": "Câmara da Pedra do Mundo",
     "ruRU": "Святилище Мироздания",
-    "zhCN": "世界之石大殿[43 66 85]"
+    "zhCN": "世界之石大殿 [43|66|85]"
   },
   {
     "id": 22667,
     "Key": "Throne of Destruction",
-    "enUS": "Throne of Destruction",
-    "zhTW": "毀滅的王座[43 66 85]",
+    "enUS": "Throne of Destruction [43|66|85]",
+    "zhTW": "毀滅的王座 [43|66|85]",
     "deDE": "Thron der Zerstörung",
     "esES": "Trono de la Destrucción",
     "frFR": "Le Trône de la Destruction",
@@ -4349,7 +4349,7 @@
     "jaJP": "破壊の玉座",
     "ptBR": "Trono da Destruição",
     "ruRU": "Престол Разрушения",
-    "zhCN": "毁灭的王座[43 66 85]"
+    "zhCN": "毁灭的王座 [43|66|85]"
   },
   {
     "id": 22668,
@@ -5409,7 +5409,7 @@
     "id": 22805,
     "Key": "EnteringLutGholein",
     "enUS": "Entering Lut Gholein",
-    "zhTW": "進入魯-高因",
+    "zhTW": "進入魯·高因",
     "deDE": "Jetzt: Lut Gholein",
     "esES": "Entrando en Lut Gholein",
     "frFR": "Entre dans Lut Gholein",
@@ -5420,7 +5420,7 @@
     "jaJP": "〈ラット・ゴーレイン〉",
     "ptBR": "Entrando em Lut Gholein",
     "ruRU": "Вход в Лут-Голейн",
-    "zhCN": "进入鲁-高因"
+    "zhCN": "进入鲁·高因"
   },
   {
     "id": 22806,
@@ -5681,7 +5681,7 @@
     "id": 22821,
     "Key": "EnteringTheHallsOfTheDeadLevel1",
     "enUS": "Entering The Halls of the Dead Level 1",
-    "zhTW": "進入死亡之殿第一層",
+    "zhTW": "進入死亡神殿第一層",
     "deDE": "Jetzt: Die Hallen der Toten, Ebene 1",
     "esES": "Entrando en el nivel 1 de las Salas de la Muerte",
     "frFR": "Entre dans les Couloirs des morts niv. 1",
@@ -5692,13 +5692,13 @@
     "jaJP": "〈亡者の広間: 第1階層〉",
     "ptBR": "Entrando nos Salões dos Mortos Nível 1",
     "ruRU": "1-й уровень Чертогов Мертвых",
-    "zhCN": "进入死亡之殿第一层"
+    "zhCN": "进入死亡神殿第一层"
   },
   {
     "id": 22822,
     "Key": "EnteringTheHallsOfTheDeadLevel2",
     "enUS": "Entering The Halls of the Dead Level 2",
-    "zhTW": "進入死亡之殿第二層",
+    "zhTW": "進入死亡神殿第二層",
     "deDE": "Jetzt: Die Hallen der Toten, Ebene 2",
     "esES": "Entrando en el nivel 2 de las Salas de la Muerte",
     "frFR": "Entre dans les Couloirs des morts niv. 2",
@@ -5709,7 +5709,7 @@
     "jaJP": "〈亡者の広間: 第2階層〉",
     "ptBR": "Entrando nos Salões dos Mortos Nível 2",
     "ruRU": "2-й уровень Чертогов Мертвых",
-    "zhCN": "进入死亡之殿第二层"
+    "zhCN": "进入死亡神殿第二层"
   },
   {
     "id": 22823,
@@ -5749,7 +5749,7 @@
     "id": 22825,
     "Key": "EnteringTheHallsOfTheDeadLevel3",
     "enUS": "Entering The Halls of the Dead Level 3",
-    "zhTW": "進入死亡之殿第三層",
+    "zhTW": "進入死亡神殿第三層",
     "deDE": "Jetzt: Die Hallen der Toten, Ebene 3",
     "esES": "Entrando en el nivel 3 de las Salas de la Muerte",
     "frFR": "Entre dans les Couloirs des morts niv. 3",
@@ -5760,7 +5760,7 @@
     "jaJP": "〈亡者の広間: 第3階層〉",
     "ptBR": "Entrando nos Salões dos Mortos Nível 3",
     "ruRU": "3-й уровень Чертогов Мертвых",
-    "zhCN": "进入死亡之殿第三层"
+    "zhCN": "进入死亡神殿第三层"
   },
   {
     "id": 22826,
@@ -5851,7 +5851,7 @@
     "id": 22831,
     "Key": "EnteringTalRasha'sTomb",
     "enUS": "Entering Tal Rasha's Tomb",
-    "zhTW": "進入塔-拉夏的古墓",
+    "zhTW": "進入塔·拉夏的古墓",
     "deDE": "Jetzt: Tal Rashas Grab",
     "esES": "Entrando en la Tumba de Tal Rasha",
     "frFR": "Entre dans le Tombeau de Tal Rasha",
@@ -5862,7 +5862,7 @@
     "jaJP": "〈タル・ラシャの墓〉",
     "ptBR": "Entrando na Tumba de Tal Rasha",
     "ruRU": "Вход в гробницу Тал Раши",
-    "zhCN": "进入塔-拉夏的古墓"
+    "zhCN": "进入塔·拉夏的古墓"
   },
   {
     "id": 22832,
@@ -6917,5 +6917,22 @@
     "ptBR": "Entrando em Tristram",
     "ruRU": "Вход в Тристрам",
     "zhCN": "进入崔斯特瑞姆"
+  },
+  {
+    "id": 26815,
+    "Key": "act5",
+    "enUS": "Act 5",
+    "zhTW": "第五幕",
+    "deDE": "Akt 5",
+    "esES": "Acto 5",
+    "frFR": "Acte V",
+    "itIT": "Atto 5",
+    "koKR": "5막",
+    "plPL": "Akt V",
+    "esMX": "Acto 5",
+    "jaJP": "第5章",
+    "ptBR": "Ato 5",
+    "ruRU": "Акт 5",
+    "zhCN": "第五幕"
   }
 ]
