@@ -70,7 +70,7 @@
     {
         "id": 10906,
         "Key": "r31",
-        "enUS": "Jah Rune #31 Rub4",
+        "enUS": "Jah Rune #31 Rub4\nGood Luck!\n[Long string for easy picking up]",
         "zhTW": "符文:喬 ÿc2Jah Rune #31",
         "deDE": "[fs]Jah-Rune",
         "esES": "Runa Jah",
@@ -121,7 +121,7 @@
     {
         "id": 20440,
         "Key": "r33",
-        "enUS": "Zod Rune #33",
+        "enUS": "Zod Rune #33\nGood Luck!\n[Long string for easy picking up]",
         "zhTW": "符文:薩德 ÿc2Zod Rune #33",
         "deDE": "[fs]Zod-Rune",
         "esES": "Runa Zod",
@@ -138,7 +138,7 @@
     {
         "id": 20441,
         "Key": "r32",
-        "enUS": "Cham Rune #32 Eme4",
+        "enUS": "Cham Rune #32 Eme4\nGood Luck!\n[Long string for easy picking up]",
         "zhTW": "符文:查姆 ÿc2Cham Rune #32",
         "deDE": "[fs]Cham-Rune",
         "esES": "Runa Cham",
@@ -155,7 +155,7 @@
     {
         "id": 20443,
         "Key": "r30",
-        "enUS": "Ber Rune #30 Sap4",
+        "enUS": "Ber Rune #30 Sap4\nGood Luck!\n[Long string for easy picking up]",
         "zhTW": "符文:貝 ÿc2Ber Rune #30",
         "deDE": "[fs]Ber-Rune",
         "esES": "Runa Ber",
@@ -172,7 +172,7 @@
     {
         "id": 20444,
         "Key": "r29",
-        "enUS": "Sur Rune #29 Ame4",
+        "enUS": "Sur Rune #29 Ame4\nGood Luck!\n[Long string for easy picking up]",
         "zhTW": "符文:瑟 ÿc2Sur Rune #29",
         "deDE": "[fs]Sur-Rune",
         "esES": "Runa Sur",
@@ -189,7 +189,7 @@
     {
         "id": 20445,
         "Key": "r28",
-        "enUS": "Lo Rune #28 Top4",
+        "enUS": "Lo Rune #28 Top4\nGood Luck!\n[Long string for easy picking up]",
         "zhTW": "符文:羅 ÿc2Lo Rune #28",
         "deDE": "[fs]Lo-Rune",
         "esES": "Runa Lo",
@@ -206,7 +206,7 @@
     {
         "id": 20446,
         "Key": "r27",
-        "enUS": "Ohm Rune #27 Dia3",
+        "enUS": "Ohm Rune #27 Dia3\nGood Luck!\n[Long string for easy picking up]",
         "zhTW": "符文:歐姆 ÿc2Ohm Rune #27",
         "deDE": "[fs]Ohm-Rune",
         "esES": "Runa Ohm",
@@ -223,7 +223,7 @@
     {
         "id": 20447,
         "Key": "r26",
-        "enUS": "Vex Rune #26 Eme3",
+        "enUS": "Vex Rune #26 Eme3\nGood Luck!\n[Long string for easy picking up]",
         "zhTW": "符文:伐克斯 ÿc2Vex Rune #26",
         "deDE": "[fs]Vex-Rune",
         "esES": "Runa Vex",
@@ -240,7 +240,7 @@
     {
         "id": 20448,
         "Key": "r25",
-        "enUS": "Gul Rune #25 Rub3",
+        "enUS": "Gul Rune #25 Rub3\nGood Luck!\n[Long string for easy picking up]",
         "zhTW": "符文:古爾 ÿc2Gul Rune #25",
         "deDE": "[fs]Gul-Rune",
         "esES": "Runa Gul",
@@ -257,7 +257,7 @@
     {
         "id": 20449,
         "Key": "r24",
-        "enUS": "Ist Rune #24 Sap3",
+        "enUS": "Ist Rune #24 Sap3\nGood Luck!\n[Long string for easy picking up]",
         "zhTW": "符文:伊斯特 ÿc2Ist Rune #24",
         "deDE": "[fs]Ist-Rune",
         "esES": "Runa Ist",

@@ -12310,7 +12310,7 @@
     {
         "id": 11146,
         "Key": "pk1",
-        "enUS": "[A1 The Countess drops]\nKey of Terror",
+        "enUS": "Key of Terror [A1 The Countess drops]",
         "zhTW": "[女伯爵掉落,地獄火炬道具]\n恐懼之鑰",
         "deDE": "Schlüssel des Terrors",
         "esES": "Llave del terror",
@@ -12327,7 +12327,7 @@
     {
         "id": 11147,
         "Key": "pk2",
-        "enUS": "[A2 The Summoner drops]\nKey of Hate",
+        "enUS": "Key of Hate [A2 The Summoner drops]",
         "zhTW": "[召喚者掉落,地獄火炬道具]\n憎恨之鑰",
         "deDE": "Schlüssel des Hasses",
         "esES": "Llave del odio",
@@ -12344,7 +12344,7 @@
     {
         "id": 11148,
         "Key": "pk3",
-        "enUS": "[A5 Nihlathak drops]\nKey of Destruction",
+        "enUS": "Key of Destruction [A5 Nihlathak drops]",
         "zhTW": "[尼拉塞克掉落,地獄火炬道具]\n毀滅之鑰",
         "deDE": "Schlüssel der Zerstörung",
         "esES": "Llave de la destrucción",
@@ -12361,7 +12361,7 @@
     {
         "id": 11149,
         "Key": "dhn",
-        "enUS": "[Lilith drops in Matron's Den]\nDiablo's Horn",
+        "enUS": "Diablo's Horn [Lilith drops in Matron's Den]",
         "zhTW": "[莉莉絲掉落,地獄火炬道具]\n暗黑破壞神之角",
         "deDE": "Diablos Horn",
         "esES": "Cuerno de Diablo",
@@ -12378,7 +12378,7 @@
     {
         "id": 11150,
         "Key": "bey",
-        "enUS": "[Duriel drops in Forgotten Sands]\nBaal's Eye",
+        "enUS": "Baal's Eye [Duriel drops in Forgotten Sands]",
         "zhTW": "[督瑞爾掉落,地獄火炬道具]\n巴爾之眼",
         "deDE": "Baals Auge",
         "esES": "Ojo de Baal",
@@ -12395,7 +12395,7 @@
     {
         "id": 11151,
         "Key": "mbr",
-        "enUS": "[Izual drops in Uber Tristram]\nMephisto's Brain",
+        "enUS": "Mephisto's Brain [Izual drops in Uber Tristram]",
         "zhTW": "[衣卒爾掉落,地獄火炬道具]\n墨菲斯托之腦",
         "deDE": "Mephistos Gehirn",
         "esES": "Cerebro de Mefisto",
@@ -12446,7 +12446,7 @@
     {
         "id": 11164,
         "Key": "tes",
-        "enUS": "Twisted Essence of Suffering[A1/A2]",
+        "enUS": "Twisted Essence of Suffering Drops in A1A2",
         "zhTW": "A1/A2精華",
         "deDE": "Verdorbene Essenz des Leidens",
         "esES": "Esencia del sufrimiento retorcida",
@@ -12463,7 +12463,7 @@
     {
         "id": 11165,
         "Key": "ceh",
-        "enUS": "Charged Essence of Hatred[A3]",
+        "enUS": "Charged Essence of Hatred Drops in A3",
         "zhTW": "A3精華",
         "deDE": "Geladene Essenz des Hasses",
         "esES": "Esencia del odio cargada",
@@ -12480,7 +12480,7 @@
     {
         "id": 11166,
         "Key": "bet",
-        "enUS": "Burning Essence of Terror[A4]",
+        "enUS": "Burning Essence of Terror Drops in A4",
         "zhTW": "A4精華",
         "deDE": "Brennende Essenz des Schreckens",
         "esES": "Esencia del terror ardiente",
@@ -12497,7 +12497,7 @@
     {
         "id": 11167,
         "Key": "fed",
-        "enUS": "Festering Essence of Destruction[A5]",
+        "enUS": "Festering Essence of Destruction Drops in A5",
         "zhTW": "A5精華",
         "deDE": "Eiternde Essenz der Zerstörung",
         "esES": "Esencia de la destrucción infecta",
