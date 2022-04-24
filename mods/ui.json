@@ -30398,8 +30398,8 @@
     {
       "id": 27186,
       "Key": "DiabloCloneMessageTierOne",
-      "enUS": "Terror gazes upon Sanctuary.  1/6",
-      "zhTW": "恐懼默默凝視聖休亞瑞,目前進度1/6",
+      "enUS": "Terror gazes upon Sanctuary.  [1/6]",
+      "zhTW": "恐懼默默凝視聖休亞瑞,目前進度[1/6]",
       "deDE": "Der Blick des Schreckens ruht auf Sanktuario.",
       "esES": "El terror ha puesto la mirada en Santuario.",
       "frFR": "La Terreur contemple Sanctuaire.",
@@ -30410,13 +30410,13 @@
       "jaJP": "「恐怖」がサンクチュアリを睨めつける。",
       "ptBR": "O Medo dirige o olhar a Santuário.",
       "ruRU": "Ужас обратил свой взор на Санктуарий.",
-      "zhCN": "恐惧盯上了庇护之地,目前进度1/6"
+      "zhCN": "恐惧盯上了庇护之地,目前进度[1/6]"
     },
     {
       "id": 27187,
       "Key": "DiabloCloneMessageTierTwo",
-      "enUS": "Terror approaches Sanctuary.  2/6",
-      "zhTW": "恐懼逐漸逼近聖休亞瑞,目前進度2/6",
+      "enUS": "Terror approaches Sanctuary.  [2/6] [2/6]",
+      "zhTW": "恐懼逐漸逼近聖休亞瑞,目前進度[2/6] [2/6]",
       "deDE": "Der Schrecken nähert sich Sanktuario.",
       "esES": "El terror se aproxima a Santuario.",
       "frFR": "La Terreur s’approche de Sanctuaire.",
@@ -30427,13 +30427,13 @@
       "jaJP": "「恐怖」がサンクチュアリに迫ってくる。",
       "ptBR": "O Medo aproxima-se de Santuário.",
       "ruRU": "Ужас приближается к Санктуарию.",
-      "zhCN": "恐惧正向庇护之地袭来,目前进度2/6"
+      "zhCN": "恐惧正向庇护之地袭来,目前进度[2/6] [2/6]"
     },
     {
       "id": 27188,
       "Key": "DiabloCloneMessageTierThree",
-      "enUS": "Terror begins to form within Sanctuary.  3/6",
-      "zhTW": "恐懼開始滲入聖休亞瑞,目前進度3/6",
+      "enUS": "Terror begins to form within Sanctuary.  [3/6] [3/6] [3/6]",
+      "zhTW": "恐懼開始滲入聖休亞瑞,目前進度[3/6] [3/6] [3/6]",
       "deDE": "Der Schrecken manifestiert sich in Sanktuario.",
       "esES": "El terror empieza a tomar forma en Santuario.",
       "frFR": "La Terreur prend forme dans Sanctuaire.",
@@ -30444,13 +30444,13 @@
       "jaJP": "「恐怖」がサンクチュアリで形を成し始める。",
       "ptBR": "O Medo começa a se formar em Santuário.",
       "ruRU": "Ужас проникает в Санктуарий.",
-      "zhCN": "恐惧开始在庇护之地成形,目前进度3/6"
+      "zhCN": "恐惧开始在庇护之地成形,目前进度[3/6] [3/6] [3/6]"
     },
     {
       "id": 27189,
       "Key": "DiabloCloneMessageTierFour",
-      "enUS": "Terror spreads across Sanctuary.  4/6",
-      "zhTW": "恐懼蔓延整個聖休亞瑞,目前進度4/6",
+      "enUS": "Terror spreads across Sanctuary.  [4/6] [4/6] [4/6] [4/6]",
+      "zhTW": "恐懼蔓延整個聖休亞瑞,目前進度[4/6] [4/6] [4/6] [4/6]",
       "deDE": "Der Schrecken breitet sich in Sanktuario aus.",
       "esES": "El terror se propaga por Santuario.",
       "frFR": "La Terreur se propage dans Sanctuaire.",
@@ -30461,13 +30461,13 @@
       "jaJP": "「恐怖」がサンクチュアリに広がり始める。",
       "ptBR": "O Medo espalha-se por Santuário.",
       "ruRU": "Ужас распространяется по Санктуарию.",
-      "zhCN": "恐惧已遍布庇护之地,目前进度4/6"
+      "zhCN": "恐惧已遍布庇护之地,目前进度[4/6] [4/6] [4/6] [4/6]"
     },
     {
       "id": 27190,
       "Key": "DiabloCloneMessageTierFive",
-      "enUS": "Terror is about to be unleashed upon Sanctuary.  5/6",
-      "zhTW": "恐懼即將現身聖休亞瑞,目前進度5/6",
+      "enUS": "Terror is about to be unleashed upon Sanctuary.  [5/6] [5/6] [5/6] [5/6] [5/6]",
+      "zhTW": "恐懼即將現身聖休亞瑞,目前進度[5/6] [5/6] [5/6] [5/6] [5/6]",
       "deDE": "Der Schrecken wird bald in Sanktuario entfesselt.",
       "esES": "El terror se va a desatar sobre Santuario.",
       "frFR": "La Terreur s’apprête à se déchaîner dans Sanctuaire.",
@@ -30478,13 +30478,13 @@
       "jaJP": "もうすぐ「恐怖」がサンクチュアリへと解き放たれる。",
       "ptBR": "O Medo está prestes a dominar Santuário.",
       "ruRU": "Ужас скоро поразит Санктуарий.",
-      "zhCN": "恐惧即将被释放到庇护之地,目前进度5/6"
+      "zhCN": "恐惧即将被释放到庇护之地,目前进度[5/6] [5/6] [5/6] [5/6] [5/6]"
     },
     {
       "id": 27191,
       "Key": "DiabloCloneSpawnMessage",
-      "enUS": "Diablo has invaded Sanctuary!  6/6",
-      "zhTW": "迪亞布羅入侵聖休亞瑞了！目前進度6/6",
+      "enUS": "Diablo has invaded Sanctuary!  [6/6] [6/6] [6/6] [6/6] [6/6] [6/6] Go! Go! Go! Go! Go! Go!",
+      "zhTW": "迪亞布羅入侵聖休亞瑞了！目前進度[6/6] [6/6] [6/6] [6/6] [6/6] [6/6] Go! Go! Go! Go! Go! Go!",
       "deDE": "Diablo ist in Sanktuario eingedrungen!",
       "esES": "¡Diablo ha invadido Santuario!",
       "frFR": "Diablo a envahi Sanctuaire !",
@@ -30495,7 +30495,7 @@
       "jaJP": "ディアブロがサンクチュアリに侵攻を始めた。",
       "ptBR": "Diablo invadiu Santuário!",
       "ruRU": "Диабло проник в Санктуарий!",
-      "zhCN": "迪亚波罗已侵入庇护之地！目前进度6/6"
+      "zhCN": "迪亚波罗已侵入庇护之地！目前进度[6/6] [6/6] [6/6] [6/6] [6/6] [6/6] Go! Go! Go! Go! Go! Go!"
     },
     {
       "id": 27192,
